@@ -3,14 +3,7 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="jquery" level="application" />
-    <orderEntry type="library" name="kendo.common" level="application" />
-    <orderEntry type="library" name="kendo.default" level="application" />
-    <orderEntry type="library" name="jquery-1.12.3" level="application" />
-    <orderEntry type="library" name="kendo.all" level="application" />
-    <orderEntry type="library" name="kendo.default.mobile" level="application" />
-    <orderEntry type="library" name="kendo.bootstrap" level="application" />
-    <orderEntry type="library" name="kendo.bootstrap.mobile" level="application" />
   </component>
 </module>

@@ -1,0 +1,65 @@
+<script>
+    $(document).ready(function () {
+        var data = [{"name":"Afghanistan"},{"name":"Åland Islands"},{"name":"Albania"},{"name":"Algeria"},{"name":"American Samoa"},{"name":"Andorra"},{"name":"Angola"},{"name":"Anguilla"},{"name":"Antarctica"},{"name":"Antigua and Barbuda"},{"name":"Argentina"},{"name":"Armenia"},{"name":"Aruba"},{"name":"Australia"},{"name":"Austria"},{"name":"Azerbaijan"},{"name":"Bahamas"},{"name":"Bahrain"},{"name":"Bangladesh"},{"name":"Barbados"},{"name":"Belarus"},{"name":"Belgium"},{"name":"Belize"},{"name":"Benin"},{"name":"Bermuda"},{"name":"Bhutan"},{"name":"Bolivia"},{"name":"Bonaire"},{"name":"Bosnia and Herzegovina"},{"name":"Botswana"},{"name":"Bouvet Island"},{"name":"Brazil"},{"name":"British Indian Ocean Territory"},{"name":"British Virgin Islands"},{"name":"Brunei"},{"name":"Bulgaria"},{"name":"Burkina Faso"},{"name":"Burundi"},{"name":"Cambodia"},{"name":"Cameroon"},{"name":"Canada"},{"name":"Cape Verde"},{"name":"Cayman Islands"},{"name":"Central African Republic"},{"name":"Chad"},{"name":"Chile"},{"name":"China"},{"name":"Christmas Island"},{"name":"Cocos (Keeling) Islands"},{"name":"Colombia"},{"name":"Comoros"},{"name":"Republic of the Congo"},{"name":"Democratic Republic of the Congo"},{"name":"Cook Islands"},{"name":"Costa Rica"},{"name":"Côte d'Ivoire"},{"name":"Croatia"},{"name":"Cuba"},{"name":"Curaçao"},{"name":"Cyprus"},{"name":"Czech Republic"},{"name":"Denmark"},{"name":"Djibouti"},{"name":"Dominica"},{"name":"Dominican Republic"},{"name":"Ecuador"},{"name":"Egypt"},{"name":"El Salvador"},{"name":"Equatorial Guinea"},{"name":"Eritrea"},{"name":"Estonia"},{"name":"Ethiopia"},{"name":"Falkland Islands"},{"name":"Faroe Islands"},{"name":"Fiji"},{"name":"Finland"},{"name":"France"},{"name":"French Guiana"},{"name":"French Polynesia"},{"name":"French Southern and Antarctic Lands"},{"name":"Gabon"},{"name":"Gambia"},{"name":"Georgia"},{"name":"Germany"},{"name":"Mali"},{"name":"Malta"},{"name":"Marshall Islands"},{"name":"Martinique"},{"name":"Mauritania"},{"name":"Mauritius"},{"name":"Mayotte"},{"name":"Mexico"},{"name":"Micronesia"},{"name":"Moldova"},{"name":"Monaco"},{"name":"Mongolia"},{"name":"Montenegro"},{"name":"Montserrat"},{"name":"Morocco"},{"name":"Mozambique"},{"name":"Myanmar"},{"name":"Namibia"},{"name":"Nauru"},{"name":"Nepal"},{"name":"Netherlands"},{"name":"New Caledonia"},{"name":"New Zealand"},{"name":"Nicaragua"},{"name":"Niger"},{"name":"Nigeria"},{"name":"Niue"},{"name":"Norfolk Island"},{"name":"North Korea"},{"name":"Northern Mariana Islands"},{"name":"Norway"},{"name":"Oman"},{"name":"Pakistan"},{"name":"Palau"},{"name":"Palestine"},{"name":"Panama"},{"name":"Papua New Guinea"},{"name":"Paraguay"},{"name":"Peru"},{"name":"Philippines"},{"name":"Pitcairn Islands"},{"name":"Poland"},{"name":"Portugal"},{"name":"Turks and Caicos Islands"},{"name":"Tuvalu"},{"name":"Uganda"},{"name":"Ukraine"},{"name":"United Arab Emirates"},{"name":"United Kingdom"},{"name":"United States"},{"name":"United States Minor Outlying Islands"},{"name":"United States Virgin Islands"},{"name":"Uruguay"},{"name":"Uzbekistan"},{"name":"Vanuatu"},{"name":"Venezuela"},{"name":"Vietnam"},{"name":"Wallis and Futuna"},{"name":"Western Sahara"},{"name":"Yemen"},{"name":"Zambia"},{"name":"Zimbabwe"}];
+
+        var ds = new kendo.data.DataSource({
+            data: data
+        });
+
+        var checkInputs = function (elements) {
+            elements.each(function () {
+                var element = $(this);
+                var input = element.children("input");
+
+                input.prop("checked", element.hasClass("k-state-selected"));
+            });
+        };
+
+        $("#items").kendoMultiSelect({
+            dataValueField: "name",
+            dataTextField: "name",
+            dataSource: ds,
+            dataBound: function () {
+                var items = this.ul.find("li");
+                setTimeout(function () {
+                    checkInputs(items);
+                });
+            },
+            itemTemplate: "<input type='checkbox'/> #:data.name#",
+            headerTemplate: "<div><input type='checkbox' id='Header'><label> Select All</label></div>",
+            autoClose: false,
+            change: function () {
+                var items = this.ul.find("li");
+                checkInputs(items);
+            }
+        });
+
+        $('#Header').click(function () {
+            if ($(this).is(':checked')) {
+                $('#items_listbox').find("li").each(function () {
+                    $(this).trigger("click");
+                    //$(this).find("input").prop("checked",true);
+                });
+            } else {
+                $('#items_listbox').find("li").each(function () {
+                    $(this).trigger("click");
+                    //$(this).find("input").prop("checked", false);
+                });
+            }
+        });
+
+        $('#containerDiv').keydown(function (e) {
+            $("#Header").attr("checked", false);
+        });
+
+    });
+</script>
+
+
+<body>
+
+<div id="example" role="application">
+    Type a country name:
+    <div id="containerDiv"><div id="items"></div></div>
+</div>
+</body>

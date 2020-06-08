@@ -1,0 +1,67 @@
+<div class="demo-section k-content wide">
+    <div id="line-chart"></div>
+</div>
+<script>
+    function createChart(){
+        $("#line-chart").kendoChart({
+            title: {
+                text: "Number of humans vs. mammal extinction rates \n relative to 1",
+                visible: false
+            },
+            legend: {
+                position: "bottom"
+            },
+            chartArea: {
+                background: ""
+            },
+            seriesDefaults: {
+                type: "line",
+                style: "smooth"
+            },
+            series: [{
+                name: "Extinction rate",
+                data: [0.020000000, 0.010000000, 0.014000000, 0.010000000, 0.004000000, 0.005000000, 0.001000000,
+                    0.007000000, 0.005000000, 0.008000000, 0.000000000, 0.010000000, 0.060000000, 0.010000000, 0.010000000,
+                    0.010000000, 0.030000000, 0.010000000, 0.020000000, 0.020000000, 0.050000000, 0.000000000, 0.020000000,
+                    0.040000000, 0.040000000, 0.010000000, 0.040000000, 0.050000000, 0.160000000, 0.470000000, 0.631578947],
+                color: ("#000000")
+            },{
+                name: "Relative population",
+                data: [0.000243121, 0.000356441, 0.000513646, 0.000756169, 0.0011461, 0.001792017, 0.002837043, 0.004481989,
+                    0.007210813, 0.011506567, 0.018823909, 0.019506219, 0.020230955, 0.020531655, 0.020890983, 0.021042984,
+                    0.021264277, 0.022583501, 0.024048764, 0.026874745, 0.029504019, 0.035260692, 0.039308104, 0.039240353,
+                    0.038977483, 0.046136766, 0.055395612, 0.060316754, 0.098981831, 0.165, 0.6143494],
+                color:("#FF0000")
+            }],
+            valueAxis: {
+                labels: {
+                    format: "{0}"
+                },
+                line: {
+                    visible: false
+                },
+                axisCrossingValue: -10
+            },
+            categoryAxis: {
+                categories: [-10000, -9000, -8000, -7000, -6000, -5000, -4000, -3000, -2000, -1000, 1, 100, 200, 300,
+                    400, 500, 600, 700, 800, 900, 1000, 1100, 1200, 1300, 1400, 1500, 1600, 1700, 1800, 1900, 2000],
+                majorGridLines: {
+                    visible: false
+                },
+                labels: {
+                    rotation: "auto"
+                }
+            },
+            tooltip: {
+                visible: true,
+                format: "{0}",
+                template: "#= series.name #: #= value #"
+            }
+        });
+    }
+
+    $(document).ready(createChart);
+    $(document).bind("kendo:skinChange", createChart);
+</script>
+
+

@@ -1,0 +1,96 @@
+<div id="animal-weight-lifespan">
+
+            <h4>Select an animal</h4>
+            <input id="autocomplete" style="width: 100%;" />
+
+    <div class="demo-section k-content wide">
+        <div id="column"></div>
+    </div>
+
+    <script>
+        const dataSource  = new kendo.data.DataSource({
+                transport: {
+                    read: {
+                        url: "data/animal-weight-lifespan.json",
+                        dataType: "json",
+                    }
+                },
+            filter:{field:"Animal", value:"Tiger"}
+        });
+
+        function createChart() {
+            console.log(dataSource.view());
+            $("#column").kendoChart({
+                dataSource : dataSource,
+
+                title: {
+                    text: "Animal weight in kg \n vs. life span in years",
+                    visible: false
+                },
+                legend: {
+                    visible: true,
+                    position: "bottom"
+                },
+                seriesDefaults: {
+                    type: "column"
+                },
+                series: [{
+                        field:"Weight_in_kg",
+                        categoryField: "Animal",
+                        name: "Weight",
+                        tooltip: {
+                            visible: true,
+                            template:"#=category # #= series.name #: #= value # kg"
+                        },
+                        color: "#5F4A8C",
+                        axis: "Weight"
+                    },
+                    {
+                        field:"Lifespan_in_yrs",
+                        categoryField: "Animal",
+                        name: "Lifespan",
+                        tooltip: {
+                            visible: true,
+                            template:"#=category # #= series.name #: #= value # yrs"
+                        },
+                        color: "#F2D479",
+                        axis: "Lifespan"
+                    }],
+                    valueAxes: [{
+                        name: "Weight",
+                        color: "#5F4A8C",
+                    }, {
+                        name: "Lifespan",
+                        color: "#F2D479"
+                    }],
+                categoryAxis:{
+                    axisCrossingValues: [0, 1000000],
+                    labels: {
+                        rotation: "auto"
+                    },
+                    visible: false
+                },
+                tooltip: {
+                    visible: true
+                }
+            });
+        }
+
+        $(document).ready(function () {
+
+            // create kendoAutoComplete from input HTML element
+            $("#autocomplete").kendoAutoComplete({
+                dataSource: dataSource,
+                filter: "contains",
+                dataTextField: "Animal"
+            });
+        });
+
+        $(document).ready(createChart);
+        $(document).bind("kendo:skinChange", createChart);
+    </script>
+
+
+
+</div>
+

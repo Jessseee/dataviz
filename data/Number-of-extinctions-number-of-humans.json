@@ -1,0 +1,312 @@
+[
+  {
+    "Entity": "Our World In Data",
+    "Year": "01/01/10000 BCE",
+    "Population size": "2431214.00",
+    "Amount of species that went extinct": "20.00",
+    "Relative number per year": "0.020000000",
+    "Num": "1",
+    "Relpop": "0.000243121",
+    "ImDate": "1/1/20"
+  },
+  {
+    "Entity": "Our World In Data",
+    "Year": "01/01/9000 BCE",
+    "Population size": "3564407.00",
+    "Amount of species that went extinct": "10.00",
+    "Relative number per year": "0.010000000",
+    "Num": "2",
+    "Relpop": "0.000356441",
+    "ImDate": "1/2/20"
+  },
+  {
+    "Entity": "Our World In Data",
+    "Year": "01/01/8000 BCE",
+    "Population size": "5136461.00",
+    "Amount of species that went extinct": "14.00",
+    "Relative number per year": "0.014000000",
+    "Num": "3",
+    "Relpop": "0.000513646",
+    "ImDate": "1/3/20"
+  },
+  {
+    "Entity": "Our World In Data",
+    "Year": "01/01/7000 BCE",
+    "Population size": "7561695.00",
+    "Amount of species that went extinct": "10.00",
+    "Relative number per year": "0.010000000",
+    "Num": "4",
+    "Relpop": "0.000756169",
+    "ImDate": "1/4/20"
+  },
+  {
+    "Entity": "Our World In Data",
+    "Year": "01/01/6000 BCE",
+    "Population size": "11461003.00",
+    "Amount of species that went extinct": "4.00",
+    "Relative number per year": "0.004000000",
+    "Num": "5",
+    "Relpop": "0.0011461",
+    "ImDate": "1/5/20"
+  },
+  {
+    "Entity": "Our World In Data",
+    "Year": "01/01/5000 BCE",
+    "Population size": "17920172.00",
+    "Amount of species that went extinct": "5.00",
+    "Relative number per year": "0.005000000",
+    "Num": "6",
+    "Relpop": "0.001792017",
+    "ImDate": "1/6/20"
+  },
+  {
+    "Entity": "Our World In Data",
+    "Year": "01/01/4000 BCE",
+    "Population size": "28370429.00",
+    "Amount of species that went extinct": "1.00",
+    "Relative number per year": "0.001000000",
+    "Num": "7",
+    "Relpop": "0.002837043",
+    "ImDate": "1/7/20"
+  },
+  {
+    "Entity": "Our World In Data",
+    "Year": "01/01/3000 BCE",
+    "Population size": "44819892.00",
+    "Amount of species that went extinct": "7.00",
+    "Relative number per year": "0.007000000",
+    "Num": "8",
+    "Relpop": "0.004481989",
+    "ImDate": "1/8/20"
+  },
+  {
+    "Entity": "Our World In Data",
+    "Year": "01/01/2000 BCE",
+    "Population size": "72108132.00",
+    "Amount of species that went extinct": "5.00",
+    "Relative number per year": "0.005000000",
+    "Num": "9",
+    "Relpop": "0.007210813",
+    "ImDate": "1/9/20"
+  },
+  {
+    "Entity": "Our World In Data",
+    "Year": "01/01/1000 BCE",
+    "Population size": "115065665.00",
+    "Amount of species that went extinct": "8.00",
+    "Relative number per year": "0.008000000",
+    "Num": "10",
+    "Relpop": "0.011506567",
+    "ImDate": "1/10/20"
+  },
+  {
+    "Entity": "Our World In Data",
+    "Year": "01/01/0001",
+    "Population size": "188239090.00",
+    "Amount of species that went extinct": "0.00",
+    "Relative number per year": "0.000000000",
+    "Num": "11",
+    "Relpop": "0.018823909",
+    "ImDate": "1/11/20"
+  },
+  {
+    "Entity": "Our World In Data",
+    "Year": "01/01/0100",
+    "Population size": "195062192.00",
+    "Amount of species that went extinct": "1.00",
+    "Relative number per year": "0.010000000",
+    "Num": "12",
+    "Relpop": "0.019506219",
+    "ImDate": "1/12/20"
+  },
+  {
+    "Entity": "Our World In Data",
+    "Year": "01/01/0200",
+    "Population size": "202309552.00",
+    "Amount of species that went extinct": "6.00",
+    "Relative number per year": "0.060000000",
+    "Num": "13",
+    "Relpop": "0.020230955",
+    "ImDate": "1/13/20"
+  },
+  {
+    "Entity": "Our World In Data",
+    "Year": "01/01/0300",
+    "Population size": "205316554.00",
+    "Amount of species that went extinct": "1.00",
+    "Relative number per year": "0.010000000",
+    "Num": "14",
+    "Relpop": "0.020531655",
+    "ImDate": "1/14/20"
+  },
+  {
+    "Entity": "Our World In Data",
+    "Year": "01/01/0400",
+    "Population size": "208909833.00",
+    "Amount of species that went extinct": "1.00",
+    "Relative number per year": "0.010000000",
+    "Num": "15",
+    "Relpop": "0.020890983",
+    "ImDate": "1/15/20"
+  },
+  {
+    "Entity": "Our World In Data",
+    "Year": "01/01/0500",
+    "Population size": "210429836.00",
+    "Amount of species that went extinct": "1.00",
+    "Relative number per year": "0.010000000",
+    "Num": "16",
+    "Relpop": "0.021042984",
+    "ImDate": "1/16/20"
+  },
+  {
+    "Entity": "Our World In Data",
+    "Year": "01/01/0600",
+    "Population size": "212642769.00",
+    "Amount of species that went extinct": "3.00",
+    "Relative number per year": "0.030000000",
+    "Num": "17",
+    "Relpop": "0.021264277",
+    "ImDate": "1/17/20"
+  },
+  {
+    "Entity": "Our World In Data",
+    "Year": "01/01/0700",
+    "Population size": "225835011.00",
+    "Amount of species that went extinct": "1.00",
+    "Relative number per year": "0.010000000",
+    "Num": "18",
+    "Relpop": "0.022583501",
+    "ImDate": "1/18/20"
+  },
+  {
+    "Entity": "Our World In Data",
+    "Year": "01/01/0800",
+    "Population size": "240487640.00",
+    "Amount of species that went extinct": "2.00",
+    "Relative number per year": "0.020000000",
+    "Num": "19",
+    "Relpop": "0.024048764",
+    "ImDate": "1/19/20"
+  },
+  {
+    "Entity": "Our World In Data",
+    "Year": "01/01/900",
+    "Population size": "268747447.00",
+    "Amount of species that went extinct": "2.00",
+    "Relative number per year": "0.020000000",
+    "Num": "20",
+    "Relpop": "0.026874745",
+    "ImDate": "1/20/20"
+  },
+  {
+    "Entity": "Our World In Data",
+    "Year": "01/01/1000",
+    "Population size": "295040195.00",
+    "Amount of species that went extinct": "5.00",
+    "Relative number per year": "0.050000000",
+    "Num": "21",
+    "Relpop": "0.029504019",
+    "ImDate": "1/21/20"
+  },
+  {
+    "Entity": "Our World In Data",
+    "Year": "01/01/1100",
+    "Population size": "352606918.00",
+    "Amount of species that went extinct": "0.00",
+    "Relative number per year": "0.000000000",
+    "Num": "22",
+    "Relpop": "0.035260692",
+    "ImDate": "1/22/20"
+  },
+  {
+    "Entity": "Our World In Data",
+    "Year": "01/01/1200",
+    "Population size": "393081040.00",
+    "Amount of species that went extinct": "2.00",
+    "Relative number per year": "0.020000000",
+    "Num": "23",
+    "Relpop": "0.039308104",
+    "ImDate": "1/23/20"
+  },
+  {
+    "Entity": "Our World In Data",
+    "Year": "01/01/1300",
+    "Population size": "392403532.00",
+    "Amount of species that went extinct": "4.00",
+    "Relative number per year": "0.040000000",
+    "Num": "24",
+    "Relpop": "0.039240353",
+    "ImDate": "1/24/20"
+  },
+  {
+    "Entity": "Our World In Data",
+    "Year": "01/01/1400",
+    "Population size": "389774827.00",
+    "Amount of species that went extinct": "4.00",
+    "Relative number per year": "0.040000000",
+    "Num": "25",
+    "Relpop": "0.038977483",
+    "ImDate": "1/25/20"
+  },
+  {
+    "Entity": "Our World In Data",
+    "Year": "01/01/1500",
+    "Population size": "461367657.00",
+    "Amount of species that went extinct": "1.00",
+    "Relative number per year": "0.010000000",
+    "Num": "26",
+    "Relpop": "0.046136766",
+    "ImDate": "1/26/20"
+  },
+  {
+    "Entity": "Our World In Data",
+    "Year": "01/01/1600",
+    "Population size": "553956116.00",
+    "Amount of species that went extinct": "4.00",
+    "Relative number per year": "0.040000000",
+    "Num": "27",
+    "Relpop": "0.055395612",
+    "ImDate": "1/27/20"
+  },
+  {
+    "Entity": "Our World In Data",
+    "Year": "01/01/1700",
+    "Population size": "603167544.00",
+    "Amount of species that went extinct": "5.00",
+    "Relative number per year": "0.050000000",
+    "Num": "28",
+    "Relpop": "0.060316754",
+    "ImDate": "1/28/20"
+  },
+  {
+    "Entity": "Our World In Data",
+    "Year": "01/01/1800",
+    "Population size": "989818305.00",
+    "Amount of species that went extinct": "16.00",
+    "Relative number per year": "0.160000000",
+    "Num": "29",
+    "Relpop": "0.098981831",
+    "ImDate": "1/29/20"
+  },
+  {
+    "Entity": "Our World In Data",
+    "Year": "1/1/00",
+    "Population size": "1650000000.00",
+    "Amount of species that went extinct": "47.00",
+    "Relative number per year": "0.470000000",
+    "Num": "30",
+    "Relpop": "0.165",
+    "ImDate": "1/30/20"
+  },
+  {
+    "Entity": "Our World In Data",
+    "Year": "1/1/00",
+    "Population size": "6143494000.00",
+    "Amount of species that went extinct": "12.00",
+    "Relative number per year": "0.631578947",
+    "Num": "31",
+    "Relpop": "0.6143494",
+    "ImDate": "1/31/20"
+  }
+]
