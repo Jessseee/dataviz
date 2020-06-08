@@ -1,0 +1,64 @@
+<h1>Deadliest Animals on Earth</h1>
+<div id="deadliest-animals-list"></div>
+<small>sources:
+    <ul class="list-unstyled ml-4">
+        <li><a href="https://www.gatesnotes.com/Health/Most-Lethal-Animal-Mosquito-Week">https://www.gatesnotes.com/Health/Most-Lethal-Animal-Mosquito-Week</a></li>
+        <li><a href="https://www.bbc.com/news/world-36320744">https://www.bbc.com/news/world-36320744</a></li>
+    </ul>
+</small>
+
+<script>
+    const deadliestAnimals = [
+        {
+            "name": "snakes",
+            "nrofdeaths": 50000,
+            "icon": '<img src="https://img.icons8.com/ios-filled/24/000000/year-of-snake.png"/>'
+        }, {
+            "name": "dog",
+            "nrofdeaths": 25000,
+            "icon": '<img src="https://img.icons8.com/material/24/000000/angry-dog.png"/>'
+        }, {
+            "name": "snail",
+            "nrofdeaths": 10000,
+            "icon": '<img src="https://img.icons8.com/material/24/000000/snail.png"/>'
+        }, {
+            "name": "Crocodile",
+            "nrofdeaths": 1000,
+            "icon": '<img src="https://img.icons8.com/material/24/000000/alligator.png"/>'
+        }, {
+            "name": "Lion",
+            "nrofdeaths": 100,
+            "icon": '<img src="https://img.icons8.com/material/24/000000/black-jaguar.png"/>'
+        }, {
+            "name": "Shark",
+            "nrofdeaths": 10,
+            "icon": '<img src="https://img.icons8.com/material/24/000000/shark.png"/>'
+        },
+    ];
+
+    let maxNrOfDeaths = -Infinity;
+    deadliestAnimals.forEach(function(animal) {
+        maxNrOfDeaths = Math.max(maxNrOfDeaths, animal.nrofdeaths);
+    });
+
+    let colorScale = chroma.scale(['#e74c3c', '#f1c40f', '#3498db']).mode('lch').colors(deadliestAnimals.length);
+
+    deadliestAnimals.forEach(function(animal) {
+        let perc = (animal.nrofdeaths / maxNrOfDeaths * 100);
+        let bgColor = colorScale[deadliestAnimals.indexOf(animal)];
+
+        $("#deadliest-animals-list").append('<div id=' + animal.name + '></div>');
+        let container = $('#'+animal.name);
+
+        container.append(animal.icon + '<span class="ml-2">' + animal.name + ': </span>');
+        container.append('<span>' + animal.nrofdeaths + '</span>');
+        container.append(
+            '<div class="mt-1 mb-3 bg-light" style="perc: 100%">' +
+                '<div class="bar py-3" style="width: 0; background-color:'+ bgColor +'"></div>' +
+            '</div>'
+        );
+
+        if (perc < 10) perc *= 4
+        container.find(".bar").animate({width: perc + '%'}, 1000);
+    });
+</script>
