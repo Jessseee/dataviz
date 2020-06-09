@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <base href="https://demos.telerik.com/kendo-ui/bubble-charts/index">
+    <style>html { font-size: 14px; font-family: Arial, Helvetica, sans-serif; }</style>
+    <title></title>
+    <link rel="stylesheet" href="https://kendo.cdn.telerik.com/2020.2.513/styles/kendo.default-v2.min.css" />
+
+    <script src="https://kendo.cdn.telerik.com/2020.2.513/js/jquery.min.js"></script>
+
+
+    <script src="https://kendo.cdn.telerik.com/2020.2.513/js/kendo.all.min.js"></script>
+
+
+
+</head>
+<body>
+<div id="example">
+    <div class="demo-section k-content wide">
+        <div id="chartone"></div>
+        <ul class="k-content">
+            <li>Circle size shows number of zoo's</li>
+            <li>Vertical position shows number of inhabitants per state</li>
+            <li>Horizontal position shows intensity of law</li>
+        </ul>
+    </div>
+    <script>
+        function createChart() {
+            $("#chartone").kendoChart({
+                title: {
+                    text: "Amount of zoo's in the United States per State VS the instensity of law-restrictions regarding exotic animal ownership"
+                },
+                legend: {
+                    visible: false
+                },
+                seriesDefaults: {
+                    type: "bubble"
+                },
+                series: [{
+                    data: [{
+                        x: 1,
+                        y: 4600000,
+                        size: 5,
+                        category: "Alabama"
+                    }, {
+                        x: 3,
+                        y: 670000,
+                        size: 2,
+                        category: "Alaska"
+                    },{
+                        x: 2,
+                        y: 6170000,
+                        size: 9,
+                        category: "Arizona"
+                    },{
+                        x: 3,
+                        y: 2810000,
+                        size: 4,
+                        category: "Arkansas"
+                    },{
+                        x: 4,
+                        y: 36460000,
+                        size: 26,
+                        category: "California"
+                    },{
+                        x: 4,
+                        y: 4750000,
+                        size: 9,
+                        category: "Colorado"
+                    },{
+                        x: 3,
+                        y: 3500000,
+                        size: 3,
+                        category: "Conneticut"
+                    },{
+                        x: 2,
+                        y: 850000,
+                        size: 2,
+                        category: "Delaware"
+                    },{
+                        x: 3,
+                        y: 18090000,
+                        size: 31,
+                        category: "Florida"
+                    },{
+                        x: 4,
+                        y: 9360000,
+                        size: 8,
+                        category: "Georgia"
+                    },{
+                        x: 4,
+                        y: 1280000,
+                        size: 2,
+                        category: "Hawaii"
+                    },{
+                        x: 2,
+                        y: 147000,
+                        size: 5,
+                        category: "Idaho"
+                    },{
+                        x: 4,
+                        y: 12830000,
+                        size: 14,
+                        category: "Illinois"
+                    },{
+                        x: 2,
+                        y: 6310000,
+                        size: 9,
+                        category: "Indiana"
+                    },{
+                        x: 4,
+                        y: 2980000,
+                        size: 2,
+                        category: "Iowa"
+                    },{
+                        x: 3,
+                        y: 2760000,
+                        size: 18,
+                        category: "Kansas"
+                    },{
+                        x: 4,
+                        y: 4200000,
+                        size: 6,
+                        category: "Kentucky"
+                    },{
+                        x: 3,
+                        y: 4290000,
+                        size: 9,
+                        category: "Louisiana"
+                    },{
+                        x: 2,
+                        y: 1320000,
+                        size: 2,
+                        category: "Maine"
+                    },{
+                        x: 4,
+                        y: 5620000,
+                        size: 5,
+                        category: "Maryland"
+                    },{
+                        x: 4,
+                        y: 6440000,
+                        size: 13,
+                        category: "Massachusetts"
+                    },{
+                        x: 3,
+                        y: 10100000,
+                        size: 12,
+                        category: "Michigan"
+                    },{
+                        x: 3,
+                        y: 5170000,
+                        size: 9,
+                        category: "Minnesota"
+                    },{
+                        x: 2,
+                        y: 2910000,
+                        size: 4,
+                        category: "Mississippi"
+                    },{
+                        x: 2,
+                        y: 5840000,
+                        size: 9,
+                        category: "Missouri"
+                    },{
+                        x: 2,
+                        y: 940000,
+                        size: 6,
+                        category: "Montana"
+                    },{
+                        x: 3,
+                        y: 1770000,
+                        size: 6,
+                        category: "Nebraska"
+                    },{
+                        x: 1,
+                        y: 2300000,
+                        size: 2,
+                        category: "Nevada"
+                    },{
+                        x: 4,
+                        y: 1310000,
+                        size: 2,
+                        category: "New Hampshire"
+                    },{
+                        x: 4,
+                        y: 8720000,
+                        size: 7,
+                        category: "New Jersey"
+                    },{
+                        x: 4,
+                        y: 1950000,
+                        size: 9,
+                        category: "New Mexico"
+                    },{
+                        x: 4,
+                        y: 19310000,
+                        size: 19,
+                        category: "New York"
+                    },{
+                        x: 1,
+                        y: 8860000,
+                        size: 13,
+                        category: "North Carolina"
+                    },{
+                        x: 2,
+                        y: 640000,
+                        size: 4,
+                        category: "North Dakota"
+                    },{
+                        x: 4,
+                        y: 11480000,
+                        size: 15,
+                        category: "Ohio"
+                    },{
+                        x: 2,
+                        y: 3580000,
+                        size: 3,
+                        category: "Oklahoma"
+                    },{
+                        x: 4,
+                        y: 3700000,
+                        size: 8,
+                        category: "Oregon"
+                    },{
+                        x: 2,
+                        y: 12440000,
+                        size: 20,
+                        category: "Pennsylvania"
+                    },{
+                        x: 2,
+                        y: 1070000,
+                        size: 2,
+                        category: "Rhode Island"
+                    },{
+                        x: 4,
+                        y: 4320000,
+                        size: 9,
+                        category: "South Carolina"
+                    },{
+                        x: 2,
+                        y: 780000,
+                        size: 5,
+                        category: "South Dakota"
+                    },{
+                        x: 3,
+                        y: 6040000,
+                        size: 6,
+                        category: "Tenessee"
+                    },{
+                        x: 2,
+                        y: 23510000,
+                        size: 26,
+                        category: "Texas"
+                    },{
+                        x: 4,
+                        y: 2550000,
+                        size: 4,
+                        category: "Utah"
+                    },{
+                        x: 4,
+                        y: 620000,
+                        size: 2,
+                        category: "Vermont"
+                    },{
+                        x: 3,
+                        y: 7640000,
+                        size: 16,
+                        category: "Virginia"
+                    },{
+                        x: 4,
+                        y: 6400000,
+                        size: 8,
+                        category: "Washington"
+                    },{
+                        x: 3,
+                        y: 1820000,
+                        size: 3,
+                        category: "West Virginia"
+                    },{
+                        x: 2,
+                        y: 5560000,
+                        size: 22,
+                        category: "Wisconsin"
+                    },{
+                        x: 3,
+                        y: 520000,
+                        size: 1,
+                        category: "Wyoming"
+                    },]
+                }],
+                xAxis: {
+                    labels: {
+                        format: "{0:N0}",
+                        skip: 1,
+                        rotation: "auto"
+                    },
+                    axisCrossingValue: -5000,
+                    majorUnit: 1,
+                    plotBands: [{
+                        from: -5000,
+                        to: 0,
+                        color: "#0000ff",
+                        opacity: 0.05
+                    }]
+                },
+                yAxis: {
+                    labels: {
+                        format: "{0:N0}"
+                    },
+                    line: {
+                        width: 0
+                    }
+                },
+                tooltip: {
+                    visible: true,
+                    format: "{3}: {2:N0} zoo's",
+                    opacity: 1
+                }
+            });
+        }
+
+        $(document).ready(createChart);
+        $(document).bind("kendo:skinChange", createChart);
+    </script>
+    <style>
+        .demo-section {
+            position: relative;
+        }
+
+        .demo-section ul {
+            font-size: 11px;
+            margin: 63px 50px 0 0;
+            padding: 30px;
+            position: absolute;
+            right: 0;
+            top: 0;
+            text-transform: uppercase;
+            width: 146px;
+            height: 94px;
+        }
+    </style>
+</div>
+
+
+</body>
+</html>

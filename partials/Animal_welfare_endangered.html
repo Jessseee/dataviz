@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <base href="https://demos.telerik.com/kendo-ui/range-area-charts/index">
+    <style>html { font-size: 14px; font-family: Arial, Helvetica, sans-serif; }</style>
+    <title></title>
+    <link rel="stylesheet" href="https://kendo.cdn.telerik.com/2020.2.513/styles/kendo.default-v2.min.css" />
+
+    <script src="https://kendo.cdn.telerik.com/2020.2.513/js/jquery.min.js"></script>
+
+
+    <script src="https://kendo.cdn.telerik.com/2020.2.513/js/kendo.all.min.js"></script>
+
+
+
+</head>
+<body>
+<div id="example">
+    <div class="demo-section k-content wide">
+        <div id="charttwo"></div>
+    </div>
+
+    <script>
+        function createChart() {
+            $("#charttwo").kendoChart({
+                title: {
+                    text: "Amount of endangered animal species in a country VS amount of laws to enforce animal welfare"
+                },
+                series: [{
+                    type: "rangeArea",
+                    data: [[75, 205],[59, 265],[84, 366], [48, 335], [166, 449]]
+                }],
+                seriesDefaults: {
+                    labels: {
+                        visible: true,
+                        from: {
+                            template: "#=value.from# ",
+                        },
+                        to: {
+                            template: "#=value.to# ",
+                        }
+                    }
+                },
+                categoryAxis: {
+                    categories: ["[Almost no laws to enforce animal welfare]", "[Not many laws to enforce animal welfare]","[Some laws to enforce animal welfare]","[Many laws to enforce animal welfare]","[Very many laws to enforce animal welfare]" ],
+                    labels: {
+                        rotation: "auto"
+                    }
+                },
+                tooltip: {
+                    visible: true,
+                    template: "Upper bound average amount of : #= value.from # endangered species <br>" +
+                        "Lower bound average amount of : #= value.to # endangered species"
+                }
+            });
+        }
+
+        $(document).ready(createChart);
+        $(document).bind("kendo:skinChange", createChart);
+    </script>
+</div>
+
+
+</body>
+</html>
