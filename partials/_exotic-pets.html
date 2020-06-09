@@ -1,0 +1,50 @@
+<h1>Exotic Mamals Kept as Pets in Canada</h1>
+<div id="chart" ></div>
+<small>Source: <a href="https://www.worldanimalprotection.ca/sites/default/files/media/ca_-_en_files/wap_exotic_pets_in_canada_report_final_forweb_oct_3_2019.pdf">https://www.worldanimalprotection.ca/sites/default/files/media/ca_-_en_files/wap_exotic_pets_in_canada_report_final_forweb_oct_3_2019.pdf</a></small>
+
+<script>
+    function createChart() {
+        $("#chart").kendoChart({
+            dataSource: {
+                transport: {
+                    read: {
+                        url: "data/exotic-pets.json",
+                        dataType: "json"
+                    },
+                    group: {
+                        field: "category-name"
+                    }
+                }
+            },
+            legend: {
+                visible: false
+            },
+            chartArea: {
+                background: ""
+            },
+            seriesDefaults: {
+                labels: {
+                    visible: true,
+                    background: "transparent",
+                    template: "#= category #: \n #= value#%"
+                }
+            },
+            series: [{
+                field: "amount",
+                categoryField: "name",
+                overlay: {
+                    gradient: "none"
+                },
+                type: "pie",
+                startAngle: 0,
+            }],
+            tooltip: {
+                visible: true,
+                format: "{0}"
+            }
+        });
+    }
+
+    $(document).ready(createChart);
+    $(document).bind("kendo:skinChange", createChart);
+</script>

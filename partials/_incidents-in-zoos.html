@@ -1,6 +1,6 @@
-<h1>Incidents in U.S. Zoos (2015 - 2018)</h1>
+<h1>Incidents in U.S. Zoos (2014 - 2018)</h1>
 <div id="zoo-incident-map"></div>
-<div id="story-container" class="mt-4" style="min-height: 400px">
+<div id="story-container" class="mt-4 mb-4" style="min-height: 250px">
     <div class="card" style="min-height: 40px">
         <div class="card-body">
             <h4 class="card-title">Flint, Michigan (May 1, 2015)</h4>
@@ -15,8 +15,8 @@
         $("#zoo-incident-map").kendoMap({
             center: [40, -100],
             zoom: 4,
-            zoomable: false,
-            pannable: false,
+            minZoom: 4,
+            maxZoom: 7,
             layers: [{
                 type: "tile",
                 urlTemplate: "http://#= subdomain #.tile.openstreetmap.org/#= zoom #/#= x #/#= y #.png",
