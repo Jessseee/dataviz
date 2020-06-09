@@ -18,13 +18,85 @@
         <link href="https://kendo.cdn.telerik.com/2020.2.513/styles/kendo.common.min.css" rel="stylesheet" />
         <link href="https://kendo.cdn.telerik.com/2020.2.513/styles/kendo.bootstrap.min.css" rel="stylesheet" />
         <link href="https://kendo.cdn.telerik.com/2020.2.513/styles/kendo.bootstrap.mobile.min.css" rel="stylesheet" />
+        <link href="https://kendo.cdn.telerik.com/2020.2.513/styles/kendo.default-v2.min.css" />
+        <script src="https://kendo.cdn.telerik.com/2020.2.513/js/jquery.min.js"></script>
         <script src="https://kendo.cdn.telerik.com/2020.2.513/js/kendo.all.min.js"></script>
+        <link rel="stylesheet" href="https://kendo.cdn.telerik.com/2020.2.513/styles/kendo.default-v2.min.css" />
+
+        <script src="https://kendo.cdn.telerik.com/2020.2.513/js/jquery.min.js"></script>
+
+
+        <script src="https://kendo.cdn.telerik.com/2020.2.513/js/kendo.all.min.js"></script>
+
+        <link rel="stylesheet" href="https://kendo.cdn.telerik.com/2020.2.513/styles/kendo.default-v2.min.css"/>
+
+        <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+        <script src="https://kendo.cdn.telerik.com/2020.2.513/js/kendo.all.min.js"></script>
+
     </head>
     <body>
         <div data-includeHTML="partials/_header.html"></div>
+        <p></p>
         <div class="container">
-            <div id="dataviz-example" data-includeHTML="partials/_dataviz-example.html"></div>
+            <h1> Animals in captivity: Extinct in the Wild</h1>
+            <p> This overview shows which animals are extinct in the wild, only living on in captivity. They are categorized
+                per animal class and continent. Europe is excluded as there are no animals originally from
+                Europe that are extinct in the wild. Data was retrieved from
+                <a href="https://en.wikipedia.org/wiki/Extinct_in_the_wild">Wikipedia</a>,
+                <a href="https://www.iucnredlist.org/">The IUCN Red List of Threatened Species</a>,
+                and
+                <a href="https://www.worldwildlife.org/publications/wildfinder-database">The WWF Wildfinder Database</a>.</p>
+            <p></p>
+            <h4> Animals extinct in the wild, categorized per continent of origin and animal class</h4>
+            <div id="dani-extinct" data-includeHTML="partials/_dani-extinct.html"></div>
+            <p>
+            </p>
         </div>
+        <p></p>
+        <div class="container">
+            <h1>Animals in captivity: Consumption</h1>
+            <p> This overview shows the total amount (in tons) of animals used for meat consumption in Europe. This amount
+                is based on the weight of approved meat, meaning more animals were slaughtered than used eventually. This data
+            was retrieved from the
+            <a href="https://data.europa.eu/euodp/en/data/publisher/estat?q=production+of+meat&ext_boolean=all&sort=">EU Open Data Portal</a>.
+            This information is indicative though not completely representative as not all European countries were included
+            due to a lack of data for some (due to confidentiality). These countries were left out in all visualizations, meaning
+            the total weight is higher and the proportions may differ slightly.</p>
+            <p>The countries that were excluded are: <i>the Netherlands, Luxembourg, Kosovo, North Macedonia, Norway, and Liechtenstein.</i></p>
+            <p></p>
+            <h4>Total weight of animals used for meat consumption (Europe, 2008-2019)</h4>
+            <div id="dani-total" data-includeHTML="partials/_dani-meat-consumption-total.html"></div>
+            <p></p>
+
+            <h4>Subdivision per type of animals used for meat consumption (Europe, 2008-2019)</h4>
+            <div id="dani-captivity" data-includeHTML="partials/_dani-meat-consumption-types.html"></div>
+            <div align="center"><span class="k-icon k-i-round-corners" style="color:#10c4b2;"></span> Pigs &emsp; &emsp;
+                <span class="k-icon k-i-round-corners" style="color:#ff7663;"></span> Cattle &emsp; &emsp;
+                <span class="k-icon k-i-round-corners" style="color:#ffb750;"></span> Sheep and Goats &emsp; &emsp;
+                <span class="k-icon k-i-round-corners" style="color:#a2df53;"></span> Poultry  </div>
+
+        </div>
+        <p></p>
+
+
+        <div class="container">
+            <h1>Animals in captivity: Entertainment</h1>
+            <p> This overview shows the amount of zoos, aquaria, and dolphinariums in each continent,
+                compared to its land size and population. It can provide insights in the factors that are important
+                when deciding on building a zoo, aquarium, or dolphinarium. Is it a cultural preference? Is it based
+                on present (or not present) animal diversity? Is it based on the geographical properties of your continent?
+                Data was retrieved from Wikipedia:</p>
+            <ul>
+                <li><a href="https://en.wikipedia.org/wiki/Continent#Area_and_population">Continent size and population</a></li>
+                <li><a href="https://en.wikipedia.org/wiki/List_of_zoos_by_country">Zoos per country</a></li>
+                <li><a href="https://en.wikipedia.org/wiki/List_of_aquaria">Aquaria per country</a></li>
+                <li><a href="https://en.wikipedia.org/wiki/List_of_dolphinariums">Dolhpinariums per country</a></li>
+            </ul>
+            <p></p>
+            <h4>Amount of zoos, aquaria, and dolphinariums per continent (Worldwide, 2020)</h4>
+            <div id="dani-zoo-aqua-dolphi" data-includeHTML="partials/_dani-zoos-aquaria-dolphinaria.html"></div>
+        </div>
+
         <script>
             $(function() {
                 $("*[data-includeHTML]").each(function() {

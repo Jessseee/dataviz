@@ -1,0 +1,504 @@
+<div id="example">
+    <div class="row">
+        <div id="stats-2008" style="height: 125px; width: 175px;"></div>
+        <div id="stats-2009" style="height: 125px; width: 175px;"></div>
+        <div id="stats-2010" style="height: 125px; width: 175px;"></div>
+        <div id="stats-2011" style="height: 125px; width: 175px;"></div>
+        <div id="stats-2012" style="height: 125px; width: 175px;"></div>
+        <div id="stats-2013" style="height: 125px; width: 175px;"></div>
+        <div id="stats-2014" style="height: 125px; width: 175px;"></div>
+        <div id="stats-2015" style="height: 125px; width: 175px;"></div>
+        <div id="stats-2016" style="height: 125px; width: 175px;"></div>
+        <div id="stats-2017" style="height: 125px; width: 175px;"></div>
+        <div id="stats-2018" style="height: 125px; width: 175px;"></div>
+        <div id="stats-2019" style="height: 125px; width: 175px;"></div>
+    </div>
+    <script>
+        function createChart() {
+            $("#stats-2008").kendoChart({
+                theme: "flat",
+                title: {
+                    position: "bottom",
+                    text: "2008"
+                },
+                legend: {
+                    visible: false
+                },
+
+                seriesDefaults: {
+                    labels: {
+                        visible: false
+                    }
+                },
+                series: [{
+                    type: "pie",
+                    autoFit: true,
+                    data: [{
+                        category: "Pigs",
+                        value: 21394.01,
+
+                    }, {
+                        category: "Cattle",
+                        value: 7742,
+
+                    }, {
+                        category: "Sheep and Goats",
+                        value: 1014.74,
+
+                    }, {
+                        category: "Poultry",
+                        value: 10483.45,
+
+                    }]
+                }],
+                tooltip: {
+                    visible: true,
+                    format: "{0} T meat"
+                }
+            });
+            $("#stats-2009").kendoChart({
+                theme: "flat",
+                title: {
+                    position: "bottom",
+                    text: "2009"
+                },
+                legend: {
+                    visible: false
+                },
+
+                seriesDefaults: {
+                    labels: {
+                        visible: false
+                    }
+                },
+                series: [{
+                    type: "pie",
+                    data: [{
+                        category: "Pigs",
+                        value: 20293.79,
+
+                    }, {
+                        category: "Cattle",
+                        value: 7378.35,
+
+                    }, {
+                        category: "Sheep and Goats",
+                        value: 793.55,
+
+                    }, {
+                        category: "Poultry",
+                        value: 10546.8,
+
+                    }]
+                }],
+                tooltip: {
+                    visible: true,
+                    format: "{0} T meat"
+                }
+            });
+            $("#stats-2010").kendoChart({
+                theme: "flat",
+                title: {
+                    position: "bottom",
+                    text: "2010"
+                },
+                legend: {
+                    visible: false
+                },
+
+                seriesDefaults: {
+                    labels: {
+                        visible: false
+                    }
+                },
+                series: [{
+                    type: "pie",
+                    data: [{
+                        category: "Pigs",
+                        value: 21269.98,
+
+                    }, {
+                        category: "Cattle",
+                        value: 8330.18,
+
+                    }, {
+                        category: "Sheep and Goats",
+                        value: 931.03,
+
+                    }, {
+                        category: "Poultry",
+                        value: 11034.37,
+
+                    }]
+                }],
+                tooltip: {
+                    visible: true,
+                    format: "{0} T meat"
+                }
+            });
+            $("#stats-2011").kendoChart({
+                theme: "flat",
+                title: {
+                    position: "bottom",
+                    text: "2011"
+                },
+                legend: {
+                    visible: false
+                },
+
+                seriesDefaults: {
+                    labels: {
+                        visible: false
+                    }
+                },
+                series: [{
+                    type: "pie",
+                    data: [{
+                        category: "Pigs",
+                        value: 21588.97,
+
+                    }, {
+                        category: "Cattle",
+                        value: 8292.9,
+
+                    }, {
+                        category: "Sheep and Goats",
+                        value: 903.72,
+
+                    }, {
+                        category: "Poultry",
+                        value: 12952.82,
+
+                    }]
+                }],
+                tooltip: {
+                    visible: true,
+                    format: "{0} T meat"
+                }
+            });
+            $("#stats-2012").kendoChart({
+                theme: "flat",
+                title: {
+                    position: "bottom",
+                    text: "2012"
+                },
+                legend: {
+                    visible: false
+                },
+
+                seriesDefaults: {
+                    labels: {
+                        visible: false
+                    }
+                },
+                series: [{
+                    type: "pie",
+                    data: [{
+                        category: "Pigs",
+                        value: 21013.7,
+
+                    }, {
+                        category: "Cattle",
+                        value: 7236.49,
+
+                    }, {
+                        category: "Sheep and Goats",
+                        value: 752.59,
+
+                    }, {
+                        category: "Poultry",
+                        value: 13342.76,
+
+                    }]
+                }],
+                tooltip: {
+                    visible: true,
+                    format: "{0} T meat"
+                }
+            });
+            $("#stats-2013").kendoChart({
+                theme: "flat",
+                title: {
+                    position: "bottom",
+                    text: "2013"
+                },
+                legend: {
+                    visible: false
+                },
+
+                seriesDefaults: {
+                    labels: {
+                        visible: false
+                    }
+                },
+                series: [{
+                    type: "pie",
+                    data: [{
+                        category: "Pigs",
+                        value: 20974.73,
+
+                    }, {
+                        category: "Cattle",
+                        value: 6920.21,
+
+                    }, {
+                        category: "Sheep and Goats",
+                        value: 751.08,
+
+                    }, {
+                        category: "Poultry",
+                        value: 13465.76,
+
+                    }]
+                }],
+                tooltip: {
+                    visible: true,
+                    format: "{0} T meat"
+                }
+            });
+            $("#stats-2014").kendoChart({
+                theme: "flat",
+                title: {
+                    position: "bottom",
+                    text: "2014"
+                },
+                legend: {
+                    visible: false
+                },
+
+                seriesDefaults: {
+                    labels: {
+                        visible: false
+                    }
+                },
+                series: [{
+                    type: "pie",
+                    data: [{
+                        category: "Pigs",
+                        value: 21131.28,
+
+                    }, {
+                        category: "Cattle",
+                        value: 6976.17,
+
+                    }, {
+                        category: "Sheep and Goats",
+                        value: 742.66,
+
+                    }, {
+                        category: "Poultry",
+                        value: 14055.39,
+
+                    }]
+                }],
+                tooltip: {
+                    visible: true,
+                    format: "{0} T meat"
+                }
+            });
+            $("#stats-2015").kendoChart({
+                theme: "flat",
+                title: {
+                    position: "bottom",
+                    text: "2015"
+                },
+                legend: {
+                    visible: false
+                },
+
+                seriesDefaults: {
+                    labels: {
+                        visible: false
+                    }
+                },
+                series: [{
+                    type: "pie",
+                    data: [{
+                        category: "Pigs",
+                        value: 22074.87,
+
+                    }, {
+                        category: "Cattle",
+                        value: 7512.29,
+
+                    }, {
+                        category: "Sheep and Goats",
+                        value: 834.73,
+
+                    }, {
+                        category: "Poultry",
+                        value: 14698.2,
+
+                    }]
+                }],
+                tooltip: {
+                    visible: true,
+                    format: "{0} T meat"
+                }
+            });
+            $("#stats-2016").kendoChart({
+                theme: "flat",
+                title: {
+                    position: "bottom",
+                    text: "2015"
+                },
+                legend: {
+                    visible: false
+                },
+
+                seriesDefaults: {
+                    labels: {
+                        visible: false
+                    }
+                },
+                series: [{
+                    type: "pie",
+                    data: [{
+                        category: "Pigs",
+                        value: 22521.33,
+
+                    }, {
+                        category: "Cattle",
+                        value: 7676.63,
+
+                    }, {
+                        category: "Sheep and Goats",
+                        value: 814.32,
+
+                    }, {
+                        category: "Poultry",
+                        value: 15319.87,
+
+                    }]
+                }],
+                tooltip: {
+                    visible: true,
+                    format: "{0} T meat"
+                }
+            });
+            $("#stats-2017").kendoChart({
+                theme: "flat",
+                title: {
+                    position: "bottom",
+                    text: "2017"
+                },
+                legend: {
+                    visible: false
+                },
+
+                seriesDefaults: {
+                    labels: {
+                        visible: false
+                    }
+                },
+                series: [{
+                    type: "pie",
+                    data: [{
+                        category: "Pigs",
+                        value: 22310.21,
+
+                    }, {
+                        category: "Cattle",
+                        value: 7636.64,
+
+                    }, {
+                        category: "Sheep and Goats",
+                        value: 820.98,
+
+                    }, {
+                        category: "Poultry",
+                        value: 15677.16,
+
+                    }]
+                }],
+                tooltip: {
+                    visible: true,
+                    format: "{0} T meat"
+                }
+            });
+            $("#stats-2018").kendoChart({
+                theme: "flat",
+                title: {
+                    position: "bottom",
+                    text: "2018"
+                },
+                legend: {
+                    visible: false
+                },
+
+                seriesDefaults: {
+                    labels: {
+                        visible: false
+                    }
+                },
+                series: [{
+                    type: "pie",
+                    data: [{
+                        category: "Pigs",
+                        value: 22717.01,
+
+                    }, {
+                        category: "Cattle",
+                        value: 7744.55,
+
+                    }, {
+                        category: "Sheep and Goats",
+                        value: 827.1,
+
+                    }, {
+                        category: "Poultry",
+                        value: 16487.8,
+
+                    }]
+                }],
+                tooltip: {
+                    visible: true,
+                    format: "{0} T meat"
+                }
+            });
+            $("#stats-2019").kendoChart({
+                theme: "flat",
+                title: {
+                    position: "bottom",
+                    text: "2019"
+                },
+                legend: {
+                    visible: false
+                },
+
+                seriesDefaults: {
+                    labels: {
+                        visible: false
+                    }
+                },
+                series: [{
+                    type: "pie",
+                    data: [{
+                        category: "Pigs",
+                        value: 22486.12,
+
+                    }, {
+                        category: "Cattle",
+                        value: 7712.11,
+
+                    }, {
+                        category: "Sheep and Goats",
+                        value: 844.74,
+
+                    }, {
+                        category: "Poultry",
+                        value: 16707.22,
+
+                    }]
+                }],
+                tooltip: {
+                    visible: true,
+                    format: "{0} T meat"
+                }
+            })
+        }
+
+        $(document).ready(createChart);
+        $(document).bind("kendo:skinChange", createChart);
+    </script>
+</div>
