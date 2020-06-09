@@ -1,0 +1,5787 @@
+[
+    {
+      "Animal": "Aardvark",
+      "Weight_in_kg": "60.10",
+      "Lifespan_in_yrs": "30.10",
+      "Averages": "49.40097864"
+    },
+    {
+      "Animal": "Abert's squirrel",
+      "Weight_in_kg": "1.00",
+      "Averages": "14.57764996"
+    },
+    {
+      "Animal": "Abyssinian genet",
+      "Weight_in_kg": "2.00"
+    },
+    {
+      "Animal": "Acacia rat",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Acouchi",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "15.00"
+    },
+    {
+      "Animal": "Addax",
+      "Weight_in_kg": "93.00",
+      "Lifespan_in_yrs": "28.00"
+    },
+    {
+      "Animal": "Afghan mouse-like hamster",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "African buffalo",
+      "Weight_in_kg": "70.10.1",
+      "Lifespan_in_yrs": "30.10"
+    },
+    {
+      "Animal": "African civet",
+      "Weight_in_kg": "14.00",
+      "Lifespan_in_yrs": "28.00"
+    },
+    {
+      "Animal": "African clawless otter",
+      "Weight_in_kg": "24.00",
+      "Lifespan_in_yrs": "14.00"
+    },
+    {
+      "Animal": "African elephant",
+      "Weight_in_kg": "480.10.1",
+      "Lifespan_in_yrs": "65.00"
+    },
+    {
+      "Animal": "African golden cat",
+      "Weight_in_kg": "11.00",
+      "Lifespan_in_yrs": "21.00"
+    },
+    {
+      "Animal": "African mole rat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "11.00"
+    },
+    {
+      "Animal": "African palm civet",
+      "Weight_in_kg": "2.00",
+      "Lifespan_in_yrs": "21.00"
+    },
+    {
+      "Animal": "African porcupine",
+      "Weight_in_kg": "20.10",
+      "Lifespan_in_yrs": "28.00"
+    },
+    {
+      "Animal": "African pygmy (four-toed) hedgehog",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "11.00"
+    },
+    {
+      "Animal": "African spiny mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "6.00"
+    },
+    {
+      "Animal": "African water rat",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "African wild dog",
+      "Weight_in_kg": "27.00",
+      "Lifespan_in_yrs": "17.00"
+    },
+    {
+      "Animal": "Agile gibbon",
+      "Weight_in_kg": "6.00",
+      "Lifespan_in_yrs": "49.00"
+    },
+    {
+      "Animal": "Agile kangaroo rat",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Agile wallaby",
+      "Weight_in_kg": "16.00",
+      "Lifespan_in_yrs": "17.00"
+    },
+    {
+      "Animal": "Agouti",
+      "Weight_in_kg": "3.00",
+      "Lifespan_in_yrs": "18.00"
+    },
+    {
+      "Animal": "Algerian hedgehog",
+      "Weight_in_kg": "1.00"
+    },
+    {
+      "Animal": "Allen's squirrel galago",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Allen's swamp monkey",
+      "Weight_in_kg": "5.00",
+      "Lifespan_in_yrs": "27.00"
+    },
+    {
+      "Animal": "Allied rock wallaby",
+      "Weight_in_kg": "4.00"
+    },
+    {
+      "Animal": "Alpine marmot",
+      "Weight_in_kg": "4.00",
+      "Lifespan_in_yrs": "17.00"
+    },
+    {
+      "Animal": "Alpine musk deer",
+      "Weight_in_kg": "11.00"
+    },
+    {
+      "Animal": "Alpine shrew",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Alston's brown mouse",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Amazon dolphin",
+      "Weight_in_kg": "84.00",
+      "Lifespan_in_yrs": "31.00"
+    },
+    {
+      "Animal": "Amazonian manatee",
+      "Weight_in_kg": "480.10",
+      "Lifespan_in_yrs": "40.10"
+    },
+    {
+      "Animal": "American badger",
+      "Weight_in_kg": "8.00",
+      "Lifespan_in_yrs": "25.00"
+    },
+    {
+      "Animal": "American beaver",
+      "Weight_in_kg": "20.10",
+      "Lifespan_in_yrs": "23.00"
+    },
+    {
+      "Animal": "American bison",
+      "Weight_in_kg": "630.10",
+      "Lifespan_in_yrs": "34.00"
+    },
+    {
+      "Animal": "American black bear",
+      "Weight_in_kg": "154.00",
+      "Lifespan_in_yrs": "34.00"
+    },
+    {
+      "Animal": "American marten",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "18.00"
+    },
+    {
+      "Animal": "Andean hairy armadillo",
+      "Weight_in_kg": "2.00"
+    },
+    {
+      "Animal": "Andean spiny rat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "7.00"
+    },
+    {
+      "Animal": "Angolan colobus",
+      "Weight_in_kg": "9.00",
+      "Lifespan_in_yrs": "35.00"
+    },
+    {
+      "Animal": "Anoa",
+      "Weight_in_kg": "155.00",
+      "Lifespan_in_yrs": "36.00"
+    },
+    {
+      "Animal": "Ansell's mole-rat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "21.00"
+    },
+    {
+      "Animal": "Antarctic fur seal",
+      "Weight_in_kg": "85.00"
+    },
+    {
+      "Animal": "Antilopine wallaroo",
+      "Weight_in_kg": "50.10",
+      "Lifespan_in_yrs": "20.10"
+    },
+    {
+      "Animal": "Aoudad",
+      "Weight_in_kg": "93.00",
+      "Lifespan_in_yrs": "22.00"
+    },
+    {
+      "Animal": "Arabian oryx",
+      "Weight_in_kg": "121.00",
+      "Lifespan_in_yrs": "21.00"
+    },
+    {
+      "Animal": "Arabian tahr",
+      "Weight_in_kg": "23.00"
+    },
+    {
+      "Animal": "Arctic lemming",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Arctic shrew",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Argali",
+      "Weight_in_kg": "160.10",
+      "Lifespan_in_yrs": "17.00"
+    },
+    {
+      "Animal": "Arizona pocket mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "6.00"
+    },
+    {
+      "Animal": "Armored rat",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "7.00"
+    },
+    {
+      "Animal": "Armored spiny rat",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Asian elephant",
+      "Weight_in_kg": "3178.00",
+      "Lifespan_in_yrs": "66.00"
+    },
+    {
+      "Animal": "Asian garden dormouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "6.00"
+    },
+    {
+      "Animal": "Asian long-tailed porcupine",
+      "Weight_in_kg": "2.00"
+    },
+    {
+      "Animal": "Asiatic black bear",
+      "Weight_in_kg": "10.14",
+      "Lifespan_in_yrs": "39.00"
+    },
+    {
+      "Animal": "Asiatic brush-tailed porcupine",
+      "Weight_in_kg": "2.00"
+    },
+    {
+      "Animal": "Asiatic golden cat",
+      "Weight_in_kg": "14.00",
+      "Lifespan_in_yrs": "23.00"
+    },
+    {
+      "Animal": "Assam macaque",
+      "Weight_in_kg": "9.00",
+      "Lifespan_in_yrs": "31.00"
+    },
+    {
+      "Animal": "Atlantic white-sided dolphin",
+      "Weight_in_kg": "20.18",
+      "Lifespan_in_yrs": "27.00"
+    },
+    {
+      "Animal": "Audubon's cottontail rabbit",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "8.00"
+    },
+    {
+      "Animal": "Australian false vampire bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "23.00"
+    },
+    {
+      "Animal": "Australian hopping mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "6.00"
+    },
+    {
+      "Animal": "Australian native mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "8.00"
+    },
+    {
+      "Animal": "Australian sea lion",
+      "Weight_in_kg": "190.10",
+      "Lifespan_in_yrs": "24.00"
+    },
+    {
+      "Animal": "Australian swamp rat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "4.00"
+    },
+    {
+      "Animal": "Australian tiger cat",
+      "Weight_in_kg": "6.00",
+      "Lifespan_in_yrs": "7.00"
+    },
+    {
+      "Animal": "Aye-aye",
+      "Weight_in_kg": "2.00",
+      "Lifespan_in_yrs": "23.00"
+    },
+    {
+      "Animal": "Azara's agouti",
+      "Weight_in_kg": "3.00",
+      "Lifespan_in_yrs": "12.00"
+    },
+    {
+      "Animal": "Azara's opossum",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "4.00"
+    },
+    {
+      "Animal": "Babirusa",
+      "Weight_in_kg": "72.00",
+      "Lifespan_in_yrs": "23.00"
+    },
+    {
+      "Animal": "Bactrian camel",
+      "Weight_in_kg": "475.00",
+      "Lifespan_in_yrs": "35.00"
+    },
+    {
+      "Animal": "Bahamian hutia",
+      "Weight_in_kg": "1.00"
+    },
+    {
+      "Animal": "Baikal seal",
+      "Weight_in_kg": "90.10",
+      "Lifespan_in_yrs": "56.00"
+    },
+    {
+      "Animal": "Baird's beaked whale",
+      "Weight_in_kg": "11380.10",
+      "Lifespan_in_yrs": "84.00"
+    },
+    {
+      "Animal": "Baird's tapir",
+      "Weight_in_kg": "30.10.1",
+      "Lifespan_in_yrs": "30.10"
+    },
+    {
+      "Animal": "Baluchistan gerbil",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "5.00"
+    },
+    {
+      "Animal": "Bamboo lemur",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "23.00"
+    },
+    {
+      "Animal": "Banded hare-wallaby",
+      "Weight_in_kg": "2.00"
+    },
+    {
+      "Animal": "Banded linsang",
+      "Weight_in_kg": "1.00"
+    },
+    {
+      "Animal": "Banded mongoose",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "17.00"
+    },
+    {
+      "Animal": "Banded palm civet",
+      "Weight_in_kg": "2.00",
+      "Lifespan_in_yrs": "16.00"
+    },
+    {
+      "Animal": "Banner-tailed kangaroo rat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "13.00"
+    },
+    {
+      "Animal": "Banteng",
+      "Weight_in_kg": "70.10.1",
+      "Lifespan_in_yrs": "27.00"
+    },
+    {
+      "Animal": "Barasingha",
+      "Weight_in_kg": "170.10",
+      "Lifespan_in_yrs": "25.00"
+    },
+    {
+      "Animal": "Barbary ground squirrel",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Barbary macaque",
+      "Weight_in_kg": "11.00",
+      "Lifespan_in_yrs": "29.00"
+    },
+    {
+      "Animal": "Barbary striped grass mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "4.00"
+    },
+    {
+      "Animal": "Bat-eared fox",
+      "Weight_in_kg": "4.00",
+      "Lifespan_in_yrs": "17.00"
+    },
+    {
+      "Animal": "Bawean deer",
+      "Weight_in_kg": "55.00",
+      "Lifespan_in_yrs": "18.00"
+    },
+    {
+      "Animal": "Bay duiker",
+      "Weight_in_kg": "12.00",
+      "Lifespan_in_yrs": "18.00"
+    },
+    {
+      "Animal": "Bear cuscus",
+      "Weight_in_kg": "7.00"
+    },
+    {
+      "Animal": "Bearded pig",
+      "Weight_in_kg": "10.13",
+      "Lifespan_in_yrs": "16.00"
+    },
+    {
+      "Animal": "Bearded seal",
+      "Weight_in_kg": "373.00"
+    },
+    {
+      "Animal": "Bechstein's bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "20.10"
+    },
+    {
+      "Animal": "Beech marten",
+      "Weight_in_kg": "2.00",
+      "Lifespan_in_yrs": "18.00"
+    },
+    {
+      "Animal": "Belding's ground squirrel",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Beluga",
+      "Weight_in_kg": "1430.10",
+      "Lifespan_in_yrs": "40.10"
+    },
+    {
+      "Animal": "Bennett's tree kangaroo",
+      "Weight_in_kg": "9.00"
+    },
+    {
+      "Animal": "Bharal",
+      "Weight_in_kg": "55.00",
+      "Lifespan_in_yrs": "21.00"
+    },
+    {
+      "Animal": "Bicolored white-toothed shrew",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "3.00"
+    },
+    {
+      "Animal": "Big brown bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "19.00"
+    },
+    {
+      "Animal": "Bighorn sheep",
+      "Weight_in_kg": "70.10",
+      "Lifespan_in_yrs": "21.00"
+    },
+    {
+      "Animal": "Binturong",
+      "Weight_in_kg": "12.00",
+      "Lifespan_in_yrs": "27.00"
+    },
+    {
+      "Animal": "Black duiker",
+      "Weight_in_kg": "18.00",
+      "Lifespan_in_yrs": "15.00"
+    },
+    {
+      "Animal": "Black flying fox",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "20.10"
+    },
+    {
+      "Animal": "Black four-eyed opossum",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Black giant squirrel",
+      "Weight_in_kg": "2.00",
+      "Lifespan_in_yrs": "19.00"
+    },
+    {
+      "Animal": "Black howler monkey",
+      "Weight_in_kg": "5.00",
+      "Lifespan_in_yrs": "32.00"
+    },
+    {
+      "Animal": "Black lemur",
+      "Weight_in_kg": "3.00",
+      "Lifespan_in_yrs": "36.00"
+    },
+    {
+      "Animal": "Black myotis",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "7.00"
+    },
+    {
+      "Animal": "Black rhinoceros",
+      "Weight_in_kg": "110.10.1",
+      "Lifespan_in_yrs": "49.00"
+    },
+    {
+      "Animal": "Black spider monkey",
+      "Weight_in_kg": "8.00",
+      "Lifespan_in_yrs": "46.00"
+    },
+    {
+      "Animal": "Black tree kangaroo",
+      "Weight_in_kg": "8.00",
+      "Lifespan_in_yrs": "20.10"
+    },
+    {
+      "Animal": "Black uakari",
+      "Weight_in_kg": "3.00"
+    },
+    {
+      "Animal": "Black wallaroo",
+      "Weight_in_kg": "18.00",
+      "Lifespan_in_yrs": "12.00"
+    },
+    {
+      "Animal": "Black wildebeest",
+      "Weight_in_kg": "132.00",
+      "Lifespan_in_yrs": "22.00"
+    },
+    {
+      "Animal": "Black-backed jackal",
+      "Weight_in_kg": "10.10",
+      "Lifespan_in_yrs": "17.00"
+    },
+    {
+      "Animal": "Black-bellied hamster",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "4.00"
+    },
+    {
+      "Animal": "Blackbuck",
+      "Weight_in_kg": "38.00",
+      "Lifespan_in_yrs": "24.00"
+    },
+    {
+      "Animal": "Black-cheeked white-nosed monkey",
+      "Weight_in_kg": "4.00",
+      "Lifespan_in_yrs": "31.00"
+    },
+    {
+      "Animal": "Black-chested mustached tamarin",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "20.10"
+    },
+    {
+      "Animal": "Black-footed cat",
+      "Weight_in_kg": "2.00",
+      "Lifespan_in_yrs": "16.00"
+    },
+    {
+      "Animal": "Black-footed ferret",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "9.00"
+    },
+    {
+      "Animal": "Black-footed rock wallaby",
+      "Weight_in_kg": "4.00"
+    },
+    {
+      "Animal": "Black-footed tree rat",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "8.00"
+    },
+    {
+      "Animal": "Black-fronted duiker",
+      "Weight_in_kg": "14.00",
+      "Lifespan_in_yrs": "18.00"
+    },
+    {
+      "Animal": "Black-legged mongoose",
+      "Weight_in_kg": "2.00",
+      "Lifespan_in_yrs": "16.00"
+    },
+    {
+      "Animal": "Black-mantled tamarin",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "20.10"
+    },
+    {
+      "Animal": "Black-pencilled marmoset",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "15.00"
+    },
+    {
+      "Animal": "Black-shouldered opossum",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Black-striped scrub wallaby",
+      "Weight_in_kg": "11.00"
+    },
+    {
+      "Animal": "Black-tailed jack rabbit",
+      "Weight_in_kg": "4.00",
+      "Lifespan_in_yrs": "12.00"
+    },
+    {
+      "Animal": "Black-tailed prairie dog",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "11.00"
+    },
+    {
+      "Animal": "Blainville's beaked whale",
+      "Weight_in_kg": "10.19"
+    },
+    {
+      "Animal": "Blanford's fox",
+      "Weight_in_kg": "1.00"
+    },
+    {
+      "Animal": "Blue duiker",
+      "Weight_in_kg": "6.00",
+      "Lifespan_in_yrs": "16.00"
+    },
+    {
+      "Animal": "Blue monkey",
+      "Weight_in_kg": "9.00",
+      "Lifespan_in_yrs": "38.00"
+    },
+    {
+      "Animal": "Blue whale",
+      "Weight_in_kg": "1360.10.10.1",
+      "Lifespan_in_yrs": "110.10"
+    },
+    {
+      "Animal": "Blue wildebeest",
+      "Weight_in_kg": "165.00",
+      "Lifespan_in_yrs": "24.00"
+    },
+    {
+      "Animal": "Bobak marmot",
+      "Weight_in_kg": "7.00",
+      "Lifespan_in_yrs": "32.00"
+    },
+    {
+      "Animal": "Bobcat",
+      "Weight_in_kg": "9.00",
+      "Lifespan_in_yrs": "30.10"
+    },
+    {
+      "Animal": "Bohar reedbuck",
+      "Weight_in_kg": "46.00"
+    },
+    {
+      "Animal": "Bolivian red howler monkey",
+      "Weight_in_kg": "7.00"
+    },
+    {
+      "Animal": "Bolivian squirrel",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Bolivian squirrel monkey",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "25.00"
+    },
+    {
+      "Animal": "Bolivian titi",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "22.00"
+    },
+    {
+      "Animal": "Bongo",
+      "Weight_in_kg": "30.18",
+      "Lifespan_in_yrs": "17.00"
+    },
+    {
+      "Animal": "Bonnet macaque",
+      "Weight_in_kg": "7.00",
+      "Lifespan_in_yrs": "29.00"
+    },
+    {
+      "Animal": "Booted macaque",
+      "Weight_in_kg": "4.00",
+      "Lifespan_in_yrs": "57.00"
+    },
+    {
+      "Animal": "Borneo gibbon",
+      "Weight_in_kg": "6.00",
+      "Lifespan_in_yrs": "6.00"
+    },
+    {
+      "Animal": "Botta's pocket gopher",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "52.00"
+    },
+    {
+      "Animal": "Bottlenosed dolphin",
+      "Weight_in_kg": "20.10.1",
+      "Lifespan_in_yrs": "211.00"
+    },
+    {
+      "Animal": "Bowhead",
+      "Weight_in_kg": "10.10.10.10.10.1",
+      "Lifespan_in_yrs": "41.00"
+    },
+    {
+      "Animal": "Brandt's bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "4.00"
+    },
+    {
+      "Animal": "Brandt's hamster",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "4.00"
+    },
+    {
+      "Animal": "Brandt's vole",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "3.00"
+    },
+    {
+      "Animal": "Brant's climbing mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "19.00"
+    },
+    {
+      "Animal": "Brazilian bare-faced tamarin",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "12.00"
+    },
+    {
+      "Animal": "Brazilian free-tailed bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "6.00"
+    },
+    {
+      "Animal": "Brazilian guinea pig",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "7.00"
+    },
+    {
+      "Animal": "Brazilian spiny rat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "37.00"
+    },
+    {
+      "Animal": "Brazilian tapir",
+      "Weight_in_kg": "250.10",
+      "Lifespan_in_yrs": "7.00"
+    },
+    {
+      "Animal": "Brindled bandicoot",
+      "Weight_in_kg": "2.00",
+      "Lifespan_in_yrs": "5.00"
+    },
+    {
+      "Animal": "Brown antechinus",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "40.10"
+    },
+    {
+      "Animal": "Brown bear and grizzly bear",
+      "Weight_in_kg": "278.00",
+      "Lifespan_in_yrs": "30.10"
+    },
+    {
+      "Animal": "Brown big-eared bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "46.00"
+    },
+    {
+      "Animal": "Brown capuchin",
+      "Weight_in_kg": "3.00",
+      "Lifespan_in_yrs": "12.00"
+    },
+    {
+      "Animal": "Brown dorcopsis",
+      "Weight_in_kg": "5.00",
+      "Lifespan_in_yrs": "3.00"
+    },
+    {
+      "Animal": "Brown four-eyed opossum",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "32.00"
+    },
+    {
+      "Animal": "Brown hyena",
+      "Weight_in_kg": "42.00",
+      "Lifespan_in_yrs": "36.00"
+    },
+    {
+      "Animal": "Brown lemur",
+      "Weight_in_kg": "3.00",
+      "Lifespan_in_yrs": "20.10"
+    },
+    {
+      "Animal": "Brown mouse lemur",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Brown-bearded saki",
+      "Weight_in_kg": "3.00",
+      "Lifespan_in_yrs": "14.00"
+    },
+    {
+      "Animal": "Brown's hutia",
+      "Weight_in_kg": "2.00",
+      "Lifespan_in_yrs": "23.00"
+    },
+    {
+      "Animal": "Brush rabbit",
+      "Weight_in_kg": "1.00"
+    },
+    {
+      "Animal": "Brush-tailed porcupine",
+      "Weight_in_kg": "3.00",
+      "Lifespan_in_yrs": "16.00"
+    },
+    {
+      "Animal": "Brush-tailed possum",
+      "Weight_in_kg": "2.00",
+      "Lifespan_in_yrs": "5.00"
+    },
+    {
+      "Animal": "Brush-tailed rabbit rat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "14.00"
+    },
+    {
+      "Animal": "Brush-tailed rock wallaby",
+      "Weight_in_kg": "6.00",
+      "Lifespan_in_yrs": "72.00"
+    },
+    {
+      "Animal": "Bryde's whale",
+      "Weight_in_kg": "160.10.10.1",
+      "Lifespan_in_yrs": "6.00"
+    },
+    {
+      "Animal": "Bunny or coney rat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "38.00"
+    },
+    {
+      "Animal": "Burchell's zebra",
+      "Weight_in_kg": "280.10",
+      "Lifespan_in_yrs": "14.00"
+    },
+    {
+      "Animal": "Burmese ferret badger",
+      "Weight_in_kg": "2.00"
+    },
+    {
+      "Animal": "Burrowing bettong",
+      "Weight_in_kg": "1.00"
+    },
+    {
+      "Animal": "Bush dog",
+      "Weight_in_kg": "6.00",
+      "Lifespan_in_yrs": "15.00"
+    },
+    {
+      "Animal": "Bush duiker",
+      "Weight_in_kg": "19.00",
+      "Lifespan_in_yrs": "5.00"
+    },
+    {
+      "Animal": "Bush hyrax",
+      "Weight_in_kg": "2.00"
+    },
+    {
+      "Animal": "Bush rat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "15.00"
+    },
+    {
+      "Animal": "Bushbuck",
+      "Weight_in_kg": "60.10",
+      "Lifespan_in_yrs": "7.00"
+    },
+    {
+      "Animal": "Bushpig",
+      "Weight_in_kg": "88.00"
+    },
+    {
+      "Animal": "Bushy-tailed jird",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "24.00"
+    },
+    {
+      "Animal": "Bushy-tailed woodrat",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Cacomistle",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "7.00"
+    },
+    {
+      "Animal": "Cactus mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "13.00"
+    },
+    {
+      "Animal": "Calabar angwantibo",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "17.00"
+    },
+    {
+      "Animal": "Calamian deer",
+      "Weight_in_kg": "41.00",
+      "Lifespan_in_yrs": "17.00"
+    },
+    {
+      "Animal": "California leaf-nosed bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "6.00"
+    },
+    {
+      "Animal": "California mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "36.00"
+    },
+    {
+      "Animal": "California sea lion",
+      "Weight_in_kg": "180.10",
+      "Lifespan_in_yrs": "30.10"
+    },
+    {
+      "Animal": "Campbell's monkey",
+      "Weight_in_kg": "4.00",
+      "Lifespan_in_yrs": "27.00"
+    },
+    {
+      "Animal": "Canada lynx",
+      "Weight_in_kg": "10.10",
+      "Lifespan_in_yrs": "5.00"
+    },
+    {
+      "Animal": "Cane rat",
+      "Weight_in_kg": "7.00",
+      "Lifespan_in_yrs": "8.00"
+    },
+    {
+      "Animal": "Canyon mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "6.00"
+    },
+    {
+      "Animal": "Cape elephant shrew",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Cape fox",
+      "Weight_in_kg": "4.00"
+    },
+    {
+      "Animal": "Cape gerbil",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "12.00"
+    },
+    {
+      "Animal": "Cape grey mongoose",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "11.00"
+    },
+    {
+      "Animal": "Cape grysbok",
+      "Weight_in_kg": "10.10"
+    },
+    {
+      "Animal": "Cape hare",
+      "Weight_in_kg": "2.00"
+    },
+    {
+      "Animal": "Cape mole-rat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "23.00"
+    },
+    {
+      "Animal": "Cape porcupine",
+      "Weight_in_kg": "24.00",
+      "Lifespan_in_yrs": "6.00"
+    },
+    {
+      "Animal": "Cape short-eared gerbil",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "25.00"
+    },
+    {
+      "Animal": "Capped leaf monkey",
+      "Weight_in_kg": "11.00",
+      "Lifespan_in_yrs": "15.00"
+    },
+    {
+      "Animal": "Capybara",
+      "Weight_in_kg": "55.00",
+      "Lifespan_in_yrs": "20.10"
+    },
+    {
+      "Animal": "Caracal",
+      "Weight_in_kg": "16.00",
+      "Lifespan_in_yrs": "56.00"
+    },
+    {
+      "Animal": "Caribbean manatee",
+      "Weight_in_kg": "322.00",
+      "Lifespan_in_yrs": "22.00"
+    },
+    {
+      "Animal": "Caribou and reindeer",
+      "Weight_in_kg": "10.11",
+      "Lifespan_in_yrs": "6.00"
+    },
+    {
+      "Animal": "Carpentarian rock rat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "11.00"
+    },
+    {
+      "Animal": "Cascade golden-mantled ground squirrel",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Caspian seal",
+      "Weight_in_kg": "86.00"
+    },
+    {
+      "Animal": "Cave myotis",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "34.00"
+    },
+    {
+      "Animal": "Cayenne spiny rat",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Celebes crested macaque",
+      "Weight_in_kg": "8.00",
+      "Lifespan_in_yrs": "14.00"
+    },
+    {
+      "Animal": "Central American agouti",
+      "Weight_in_kg": "2.00",
+      "Lifespan_in_yrs": "47.00"
+    },
+    {
+      "Animal": "Central American spider monkey",
+      "Weight_in_kg": "7.00",
+      "Lifespan_in_yrs": "9.00"
+    },
+    {
+      "Animal": "Central American squirrel monkey",
+      "Weight_in_kg": "1.00"
+    },
+    {
+      "Animal": "Central American woolly opossum",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "8.00"
+    },
+    {
+      "Animal": "Central rock rat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "43.00"
+    },
+    {
+      "Animal": "Chaco tuco-tuco",
+      "Weight_in_kg": "1.00"
+    },
+    {
+      "Animal": "Chacoan peccary",
+      "Weight_in_kg": "35.00"
+    },
+    {
+      "Animal": "Chamek spider monkey",
+      "Weight_in_kg": "6.00",
+      "Lifespan_in_yrs": "18.00"
+    },
+    {
+      "Animal": "Chamois",
+      "Weight_in_kg": "38.00",
+      "Lifespan_in_yrs": "21.00"
+    },
+    {
+      "Animal": "Checkered elephant shrew",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Cheetah",
+      "Weight_in_kg": "54.00",
+      "Lifespan_in_yrs": "74.00"
+    },
+    {
+      "Animal": "Chilean guemal",
+      "Weight_in_kg": "70.10"
+    },
+    {
+      "Animal": "Chimpanzee",
+      "Weight_in_kg": "45.00",
+      "Lifespan_in_yrs": "17.00"
+    },
+    {
+      "Animal": "Chinchilla",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "2.00"
+    },
+    {
+      "Animal": "Chinchilla-rat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "20.10"
+    },
+    {
+      "Animal": "Chinese forest musk deer",
+      "Weight_in_kg": "12.00"
+    },
+    {
+      "Animal": "Chinese goral",
+      "Weight_in_kg": "27.00",
+      "Lifespan_in_yrs": "14.00"
+    },
+    {
+      "Animal": "Chinese pangolin",
+      "Weight_in_kg": "2.00"
+    },
+    {
+      "Animal": "Chinese water deer",
+      "Weight_in_kg": "12.00",
+      "Lifespan_in_yrs": "21.00"
+    },
+    {
+      "Animal": "Chital",
+      "Weight_in_kg": "36.00",
+      "Lifespan_in_yrs": "13.00"
+    },
+    {
+      "Animal": "Chozchoz",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Cinereus shrew",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Cinnamon antechinus",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Cliff chipmunk",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "20.10"
+    },
+    {
+      "Animal": "Clouded leopard",
+      "Weight_in_kg": "20.10",
+      "Lifespan_in_yrs": "4.00"
+    },
+    {
+      "Animal": "Cloudy short-tailed opossum",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "30.10"
+    },
+    {
+      "Animal": "Coarse-haired wombat",
+      "Weight_in_kg": "26.00",
+      "Lifespan_in_yrs": "24.00"
+    },
+    {
+      "Animal": "Coatimundi",
+      "Weight_in_kg": "5.00",
+      "Lifespan_in_yrs": "3.00"
+    },
+    {
+      "Animal": "Collared lemming",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "32.00"
+    },
+    {
+      "Animal": "Collared peccary",
+      "Weight_in_kg": "20.10",
+      "Lifespan_in_yrs": "22.00"
+    },
+    {
+      "Animal": "Collared pika",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Colorado chipmunk",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Commerson's dolphin",
+      "Weight_in_kg": "50.10"
+    },
+    {
+      "Animal": "Common long-nosed armadillo",
+      "Weight_in_kg": "6.00",
+      "Lifespan_in_yrs": "25.00"
+    },
+    {
+      "Animal": "Common palm civet",
+      "Weight_in_kg": "3.00",
+      "Lifespan_in_yrs": "16.00"
+    },
+    {
+      "Animal": "Common pipistrelle",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "21.00"
+    },
+    {
+      "Animal": "Common raccoon",
+      "Weight_in_kg": "6.00",
+      "Lifespan_in_yrs": "5.00"
+    },
+    {
+      "Animal": "Common rhebok",
+      "Weight_in_kg": "25.00"
+    },
+    {
+      "Animal": "Common rock rat",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Common vole",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "9.00"
+    },
+    {
+      "Animal": "Common weasel",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "4.00"
+    },
+    {
+      "Animal": "Common yellow-toothed cavy",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "15.00"
+    },
+    {
+      "Animal": "Comoro black flying fox",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "26.00"
+    },
+    {
+      "Animal": "Congo rope squirrel",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Coppery titi",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "13.00"
+    },
+    {
+      "Animal": "Corsac fox",
+      "Weight_in_kg": "3.00",
+      "Lifespan_in_yrs": "11.00"
+    },
+    {
+      "Animal": "Coruro",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "26.00"
+    },
+    {
+      "Animal": "Cotton-top tamarin",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "24.00"
+    },
+    {
+      "Animal": "Cougar",
+      "Weight_in_kg": "63.00",
+      "Lifespan_in_yrs": "22.00"
+    },
+    {
+      "Animal": "Coyote",
+      "Weight_in_kg": "13.00",
+      "Lifespan_in_yrs": "13.00"
+    },
+    {
+      "Animal": "Crab-eating fox",
+      "Weight_in_kg": "7.00",
+      "Lifespan_in_yrs": "13.00"
+    },
+    {
+      "Animal": "Crab-eating mongoose",
+      "Weight_in_kg": "2.00",
+      "Lifespan_in_yrs": "19.00"
+    },
+    {
+      "Animal": "Crab-eating raccoon",
+      "Weight_in_kg": "6.00",
+      "Lifespan_in_yrs": "8.00"
+    },
+    {
+      "Animal": "Crested rat",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "27.00"
+    },
+    {
+      "Animal": "Cretan spiny mouse",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Crowned guenon",
+      "Weight_in_kg": "4.00",
+      "Lifespan_in_yrs": "27.00"
+    },
+    {
+      "Animal": "Crowned lemur",
+      "Weight_in_kg": "3.00",
+      "Lifespan_in_yrs": "14.00"
+    },
+    {
+      "Animal": "Crowned shrew",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Cuban hutia",
+      "Weight_in_kg": "5.00",
+      "Lifespan_in_yrs": "62.00"
+    },
+    {
+      "Animal": "Cuban solenodon",
+      "Weight_in_kg": "1.00"
+    },
+    {
+      "Animal": "Cuvier's beaked whale",
+      "Weight_in_kg": "270.11",
+      "Lifespan_in_yrs": "18.00"
+    },
+    {
+      "Animal": "Cuvier's gazelle",
+      "Weight_in_kg": "18.00",
+      "Lifespan_in_yrs": "22.00"
+    },
+    {
+      "Animal": "Dall's porpoise",
+      "Weight_in_kg": "120.10",
+      "Lifespan_in_yrs": "20.10"
+    },
+    {
+      "Animal": "Dall's sheep",
+      "Weight_in_kg": "73.00",
+      "Lifespan_in_yrs": "19.00"
+    },
+    {
+      "Animal": "Dama gazelle",
+      "Weight_in_kg": "73.00",
+      "Lifespan_in_yrs": "16.00"
+    },
+    {
+      "Animal": "Damaraland mole-rat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "31.00"
+    },
+    {
+      "Animal": "Dark kangaroo mouse",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Darwin's leaf-eared mouse",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Dassie rat",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "De Brazza's monkey",
+      "Weight_in_kg": "6.00",
+      "Lifespan_in_yrs": "8.00"
+    },
+    {
+      "Animal": "Deer mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "14.00"
+    },
+    {
+      "Animal": "Degus",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "5.00"
+    },
+    {
+      "Animal": "Deppe's squirrel",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Desert kangaroo rat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "11.00"
+    },
+    {
+      "Animal": "Desert woodrat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "16.00"
+    },
+    {
+      "Animal": "Dhole",
+      "Weight_in_kg": "16.00",
+      "Lifespan_in_yrs": "35.00"
+    },
+    {
+      "Animal": "Diademed sifaka",
+      "Weight_in_kg": "6.00"
+    },
+    {
+      "Animal": "Diana monkey",
+      "Weight_in_kg": "5.00",
+      "Lifespan_in_yrs": "6.00"
+    },
+    {
+      "Animal": "Dibatag",
+      "Weight_in_kg": "31.00"
+    },
+    {
+      "Animal": "Dobson's long-tailed tenrec",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "24.00"
+    },
+    {
+      "Animal": "Dorcas gazelle",
+      "Weight_in_kg": "15.00",
+      "Lifespan_in_yrs": "19.00"
+    },
+    {
+      "Animal": "Doria's tree kangaroo",
+      "Weight_in_kg": "10.10",
+      "Lifespan_in_yrs": "10.10"
+    },
+    {
+      "Animal": "Dormouse possum",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "26.00"
+    },
+    {
+      "Animal": "Douc langur",
+      "Weight_in_kg": "10.10",
+      "Lifespan_in_yrs": "39.00"
+    },
+    {
+      "Animal": "Drill",
+      "Weight_in_kg": "18.00",
+      "Lifespan_in_yrs": "23.00"
+    },
+    {
+      "Animal": "Duck-billed platypus",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "73.00"
+    },
+    {
+      "Animal": "Dugong",
+      "Weight_in_kg": "360.10",
+      "Lifespan_in_yrs": "3.00"
+    },
+    {
+      "Animal": "Dusky antechinus",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "34.00"
+    },
+    {
+      "Animal": "Dusky leaf monkey",
+      "Weight_in_kg": "7.00",
+      "Lifespan_in_yrs": "9.00"
+    },
+    {
+      "Animal": "Dusky titi",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "18.00"
+    },
+    {
+      "Animal": "Dwarf mongoose",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "4.00"
+    },
+    {
+      "Animal": "Dzhungarian hamster",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "20.10"
+    },
+    {
+      "Animal": "Ear-spot squirrel",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "East African mole rat",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "East Caucasian tur",
+      "Weight_in_kg": "50.10",
+      "Lifespan_in_yrs": "10.10"
+    },
+    {
+      "Animal": "Eastern aquatic mole",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Eastern chipmunk",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "10.10"
+    },
+    {
+      "Animal": "Eastern cottontail",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "7.00"
+    },
+    {
+      "Animal": "Eastern European hedgehog",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "16.00"
+    },
+    {
+      "Animal": "Eastern fox squirrel",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "25.00"
+    },
+    {
+      "Animal": "Eastern gray kangaroo",
+      "Weight_in_kg": "50.10",
+      "Lifespan_in_yrs": "24.00"
+    },
+    {
+      "Animal": "Eastern gray squirrel",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "15.00"
+    },
+    {
+      "Animal": "Eastern heather vole",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Eastern pipistrelle",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "12.00"
+    },
+    {
+      "Animal": "Eastern roe deer",
+      "Weight_in_kg": "39.00"
+    },
+    {
+      "Animal": "Eastern small-footed myotis",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "9.00"
+    },
+    {
+      "Animal": "Eastern woodrat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "21.00"
+    },
+    {
+      "Animal": "Eld's deer",
+      "Weight_in_kg": "123.00",
+      "Lifespan_in_yrs": "3.00"
+    },
+    {
+      "Animal": "Elliot's short-tailed shrew",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "24.00"
+    },
+    {
+      "Animal": "Emperor tamarin",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "13.00"
+    },
+    {
+      "Animal": "Equatorial saki",
+      "Weight_in_kg": "1.00"
+    },
+    {
+      "Animal": "Ermine",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "4.00"
+    },
+    {
+      "Animal": "Euphrates jerboa",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "15.00"
+    },
+    {
+      "Animal": "Eurasian pygmy shrew",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Eurasian red squirrel",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "18.00"
+    },
+    {
+      "Animal": "Eurasian river otter",
+      "Weight_in_kg": "7.00",
+      "Lifespan_in_yrs": "3.00"
+    },
+    {
+      "Animal": "Eurasian shrew",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "3.00"
+    },
+    {
+      "Animal": "Eurasian water shrew",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "26.00"
+    },
+    {
+      "Animal": "European beaver",
+      "Weight_in_kg": "25.00"
+    },
+    {
+      "Animal": "European bison",
+      "Weight_in_kg": "610.10",
+      "Lifespan_in_yrs": "13.00"
+    },
+    {
+      "Animal": "European free-tailed bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "7.00"
+    },
+    {
+      "Animal": "European ground squirrel",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "11.00"
+    },
+    {
+      "Animal": "European hare",
+      "Weight_in_kg": "4.00",
+      "Lifespan_in_yrs": "8.00"
+    },
+    {
+      "Animal": "European mink",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "18.00"
+    },
+    {
+      "Animal": "European mole, common mole",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "European pine marten",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "11.00"
+    },
+    {
+      "Animal": "European pine vole",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "European polecat",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "3.00"
+    },
+    {
+      "Animal": "European water vole",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "6.00"
+    },
+    {
+      "Animal": "Evening bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "21.00"
+    },
+    {
+      "Animal": "Fallow deer",
+      "Weight_in_kg": "70.10",
+      "Lifespan_in_yrs": "63.00"
+    },
+    {
+      "Animal": "False killer whale",
+      "Weight_in_kg": "748.00",
+      "Lifespan_in_yrs": "3.00"
+    },
+    {
+      "Animal": "Fat mouse",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Fat sand rat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "5.00"
+    },
+    {
+      "Animal": "Fat-tailed dunnart",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "23.00"
+    },
+    {
+      "Animal": "Fat-tailed dwarf lemur",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "8.00"
+    },
+    {
+      "Animal": "Fat-tailed gerbil",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "7.00"
+    },
+    {
+      "Animal": "Fat-tailed marsupial mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "3.00"
+    },
+    {
+      "Animal": "Fawn antechinus",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "16.00"
+    },
+    {
+      "Animal": "Fawn-colored mouse",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Fea's muntjac",
+      "Weight_in_kg": "22.00"
+    },
+    {
+      "Animal": "Feather-tailed possum",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Fennec",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "19.00"
+    },
+    {
+      "Animal": "Ferret badger",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "5.00"
+    },
+    {
+      "Animal": "Field vole",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "114.00"
+    },
+    {
+      "Animal": "Fin whale",
+      "Weight_in_kg": "70.10.10.10.1",
+      "Lifespan_in_yrs": "13.00"
+    },
+    {
+      "Animal": "Finless porpoise",
+      "Weight_in_kg": "33.00",
+      "Lifespan_in_yrs": "10.10"
+    },
+    {
+      "Animal": "Fire-footed rope squirrel",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "10.10"
+    },
+    {
+      "Animal": "Fish-eating bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "14.00"
+    },
+    {
+      "Animal": "Fisher",
+      "Weight_in_kg": "3.00",
+      "Lifespan_in_yrs": "17.00"
+    },
+    {
+      "Animal": "Fishing cat",
+      "Weight_in_kg": "11.00",
+      "Lifespan_in_yrs": "5.00"
+    },
+    {
+      "Animal": "Five-toed jerboa",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "14.00"
+    },
+    {
+      "Animal": "Flat-headed cat",
+      "Weight_in_kg": "7.00",
+      "Lifespan_in_yrs": "7.00"
+    },
+    {
+      "Animal": "Flat-headed vole",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Florida mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "15.00"
+    },
+    {
+      "Animal": "Fluffy glider",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "4.00"
+    },
+    {
+      "Animal": "Flying lemur (glider)",
+      "Weight_in_kg": "1.00"
+    },
+    {
+      "Animal": "Forest dormouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "2.00"
+    },
+    {
+      "Animal": "Forest shrew",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "25.00"
+    },
+    {
+      "Animal": "Fork-marked lemur",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "23.00"
+    },
+    {
+      "Animal": "Fossa",
+      "Weight_in_kg": "10.10",
+      "Lifespan_in_yrs": "17.00"
+    },
+    {
+      "Animal": "Four-horned antelope",
+      "Weight_in_kg": "19.00",
+      "Lifespan_in_yrs": "5.00"
+    },
+    {
+      "Animal": "Four-striped grass mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "26.00"
+    },
+    {
+      "Animal": "Four-toed elephant shrew",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Franciscana",
+      "Weight_in_kg": "41.00"
+    },
+    {
+      "Animal": "Francois' langur",
+      "Weight_in_kg": "7.00",
+      "Lifespan_in_yrs": "7.00"
+    },
+    {
+      "Animal": "Franklin's ground squirrel",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "18.00"
+    },
+    {
+      "Animal": "Fraser's dolphin",
+      "Weight_in_kg": "164.00"
+    },
+    {
+      "Animal": "Fresno kangaroo rat",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Fringed myotis",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "13.00"
+    },
+    {
+      "Animal": "Fulvus roundleaf bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "8.00"
+    },
+    {
+      "Animal": "Gambian epauletted fruit bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "8.00"
+    },
+    {
+      "Animal": "Gambian rat",
+      "Weight_in_kg": "2.00",
+      "Lifespan_in_yrs": "6.00"
+    },
+    {
+      "Animal": "Ganges dolphin",
+      "Weight_in_kg": "70.10"
+    },
+    {
+      "Animal": "Garden dormouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "26.00"
+    },
+    {
+      "Animal": "Gaur",
+      "Weight_in_kg": "825.00",
+      "Lifespan_in_yrs": "36.00"
+    },
+    {
+      "Animal": "Gelada baboon",
+      "Weight_in_kg": "16.00",
+      "Lifespan_in_yrs": "24.00"
+    },
+    {
+      "Animal": "Gemsbok",
+      "Weight_in_kg": "170.10",
+      "Lifespan_in_yrs": "23.00"
+    },
+    {
+      "Animal": "Geoffroy's bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "18.00"
+    },
+    {
+      "Animal": "Geoffroy's marmoset",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "10.10"
+    },
+    {
+      "Animal": "Geoffroy's tailless bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "21.00"
+    },
+    {
+      "Animal": "Geoffroy's tamarin",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "17.00"
+    },
+    {
+      "Animal": "Gerenuk",
+      "Weight_in_kg": "44.00",
+      "Lifespan_in_yrs": "48.00"
+    },
+    {
+      "Animal": "Gervais's beaked whale",
+      "Weight_in_kg": "560.10.1",
+      "Lifespan_in_yrs": "31.00"
+    },
+    {
+      "Animal": "Giant anteater",
+      "Weight_in_kg": "29.00",
+      "Lifespan_in_yrs": "15.00"
+    },
+    {
+      "Animal": "Giant armadillo",
+      "Weight_in_kg": "33.00",
+      "Lifespan_in_yrs": "17.00"
+    },
+    {
+      "Animal": "Giant forest hog",
+      "Weight_in_kg": "20.13"
+    },
+    {
+      "Animal": "Giant mole-rat",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Giant otter",
+      "Weight_in_kg": "24.00",
+      "Lifespan_in_yrs": "37.00"
+    },
+    {
+      "Animal": "Giant panda",
+      "Weight_in_kg": "118.00",
+      "Lifespan_in_yrs": "7.00"
+    },
+    {
+      "Animal": "Giant rat",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "40.10"
+    },
+    {
+      "Animal": "Giraffe",
+      "Weight_in_kg": "80.10.1",
+      "Lifespan_in_yrs": "22.00"
+    },
+    {
+      "Animal": "Goeldi's monkey",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "16.00"
+    },
+    {
+      "Animal": "Goitered gazelle",
+      "Weight_in_kg": "49.00",
+      "Lifespan_in_yrs": "7.00"
+    },
+    {
+      "Animal": "Golden bamboo lemur",
+      "Weight_in_kg": "1.00"
+    },
+    {
+      "Animal": "Golden bandicoot",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "4.00"
+    },
+    {
+      "Animal": "Golden hamster",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "19.00"
+    },
+    {
+      "Animal": "Golden jackal",
+      "Weight_in_kg": "11.00",
+      "Lifespan_in_yrs": "32.00"
+    },
+    {
+      "Animal": "Golden leaf monkey",
+      "Weight_in_kg": "8.00"
+    },
+    {
+      "Animal": "Golden lion tamarin",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "8.00"
+    },
+    {
+      "Animal": "Golden mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "7.00"
+    },
+    {
+      "Animal": "Golden spiny mouse",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Golden-backed tree rat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "7.00"
+    },
+    {
+      "Animal": "Golden-bellied water rat",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "20.10"
+    },
+    {
+      "Animal": "Golden-crowned sifaka",
+      "Weight_in_kg": "4.00",
+      "Lifespan_in_yrs": "21.00"
+    },
+    {
+      "Animal": "Golden-headed lion tamarin",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "10.10"
+    },
+    {
+      "Animal": "Golden-mantled ground squirrel",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "11.00"
+    },
+    {
+      "Animal": "Golden-rumped elephant shrew",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "18.00"
+    },
+    {
+      "Animal": "Golden-rumped lion tamarin",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "24.00"
+    },
+    {
+      "Animal": "Goodfellow's tree kangaroo",
+      "Weight_in_kg": "7.00",
+      "Lifespan_in_yrs": "18.00"
+    },
+    {
+      "Animal": "Goral",
+      "Weight_in_kg": "32.00",
+      "Lifespan_in_yrs": "54.00"
+    },
+    {
+      "Animal": "Gorilla",
+      "Weight_in_kg": "140.10",
+      "Lifespan_in_yrs": "20.10"
+    },
+    {
+      "Animal": "Grant's gazelle",
+      "Weight_in_kg": "67.00",
+      "Lifespan_in_yrs": "15.00"
+    },
+    {
+      "Animal": "Gray big-eared bat",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Gray brocket",
+      "Weight_in_kg": "17.00",
+      "Lifespan_in_yrs": "4.00"
+    },
+    {
+      "Animal": "Gray climbing mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "14.00"
+    },
+    {
+      "Animal": "Gray cuscus",
+      "Weight_in_kg": "3.00"
+    },
+    {
+      "Animal": "Gray dorcopsis",
+      "Weight_in_kg": "4.00",
+      "Lifespan_in_yrs": "4.00"
+    },
+    {
+      "Animal": "Gray four-eyed opossum",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "16.00"
+    },
+    {
+      "Animal": "Gray fox",
+      "Weight_in_kg": "5.00",
+      "Lifespan_in_yrs": "18.00"
+    },
+    {
+      "Animal": "Gray monk saki",
+      "Weight_in_kg": "1.00"
+    },
+    {
+      "Animal": "Gray mouse lemur",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "17.00"
+    },
+    {
+      "Animal": "Gray myotis",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "43.00"
+    },
+    {
+      "Animal": "Gray seal",
+      "Weight_in_kg": "268.00",
+      "Lifespan_in_yrs": "77.00"
+    },
+    {
+      "Animal": "Gray tree rat",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Gray whale",
+      "Weight_in_kg": "2850.10.1",
+      "Lifespan_in_yrs": "21.00"
+    },
+    {
+      "Animal": "Gray wolf",
+      "Weight_in_kg": "27.00",
+      "Lifespan_in_yrs": "4.00"
+    },
+    {
+      "Animal": "Gray-bellied dunnart",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "14.00"
+    },
+    {
+      "Animal": "Gray-bellied squirrel",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "36.00"
+    },
+    {
+      "Animal": "Gray-cheeked mangabey",
+      "Weight_in_kg": "9.00",
+      "Lifespan_in_yrs": "24.00"
+    },
+    {
+      "Animal": "Gray-headed flying fox",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "6.00"
+    },
+    {
+      "Animal": "Great Basin pocket mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "5.00"
+    },
+    {
+      "Animal": "Great fruit-eating bat",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Great gerbil",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "7.00"
+    },
+    {
+      "Animal": "Great jerboa",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "18.00"
+    },
+    {
+      "Animal": "Greater bamboo lemur",
+      "Weight_in_kg": "2.00",
+      "Lifespan_in_yrs": "12.00"
+    },
+    {
+      "Animal": "Greater bulldog bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "13.00"
+    },
+    {
+      "Animal": "Greater dwarf lemur",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "8.00"
+    },
+    {
+      "Animal": "Greater Egyptian gerbil",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "6.00"
+    },
+    {
+      "Animal": "Greater Egyptian jerboa",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "14.00"
+    },
+    {
+      "Animal": "Greater false vampire bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "23.00"
+    },
+    {
+      "Animal": "Greater galago",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "14.00"
+    },
+    {
+      "Animal": "Greater gliding possum",
+      "Weight_in_kg": "1.00"
+    },
+    {
+      "Animal": "Greater hedgehog tenrec",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "31.00"
+    },
+    {
+      "Animal": "Greater horseshoe bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "24.00"
+    },
+    {
+      "Animal": "Greater kudu",
+      "Weight_in_kg": "218.00",
+      "Lifespan_in_yrs": "6.00"
+    },
+    {
+      "Animal": "Greater long-nosed bandicoot",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "17.00"
+    },
+    {
+      "Animal": "Greater mouse-deer",
+      "Weight_in_kg": "7.00",
+      "Lifespan_in_yrs": "2.00"
+    },
+    {
+      "Animal": "Greater red musk shrew",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "6.00"
+    },
+    {
+      "Animal": "Greater sac-winged bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "10.10"
+    },
+    {
+      "Animal": "Greater short-nosed fruit bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "18.00"
+    },
+    {
+      "Animal": "Greater spear-nosed bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "5.00"
+    },
+    {
+      "Animal": "Greater stick-nest rat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "31.00"
+    },
+    {
+      "Animal": "Green bush squirrel",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Grevy's zebra",
+      "Weight_in_kg": "384.00",
+      "Lifespan_in_yrs": "13.00"
+    },
+    {
+      "Animal": "Grey red-backed vole",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Grison",
+      "Weight_in_kg": "2.00",
+      "Lifespan_in_yrs": "24.00"
+    },
+    {
+      "Animal": "Grizzled leaf monkey",
+      "Weight_in_kg": "7.00"
+    },
+    {
+      "Animal": "Grizzled tree kangaroo",
+      "Weight_in_kg": "11.00",
+      "Lifespan_in_yrs": "19.00"
+    },
+    {
+      "Animal": "Ground cuscus",
+      "Weight_in_kg": "2.00",
+      "Lifespan_in_yrs": "34.00"
+    },
+    {
+      "Animal": "Guanaco",
+      "Weight_in_kg": "128.00",
+      "Lifespan_in_yrs": "6.00"
+    },
+    {
+      "Animal": "Guatemalan deer mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "35.00"
+    },
+    {
+      "Animal": "Guayaquil squirrel",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Guemals",
+      "Weight_in_kg": "45.00"
+    },
+    {
+      "Animal": "Guereza",
+      "Weight_in_kg": "10.10",
+      "Lifespan_in_yrs": "36.00"
+    },
+    {
+      "Animal": "Guianan saki",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "12.00"
+    },
+    {
+      "Animal": "Guianan squirrel",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Guinea multimammate mouse",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Guinea pig",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "6.00"
+    },
+    {
+      "Animal": "Gundi",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "18.00"
+    },
+    {
+      "Animal": "Gunnison's prairie dog",
+      "Weight_in_kg": "1.00"
+    },
+    {
+      "Animal": "Gunther's dik-dik",
+      "Weight_in_kg": "5.00",
+      "Lifespan_in_yrs": "14.00"
+    },
+    {
+      "Animal": "Guyanan agouti",
+      "Weight_in_kg": "3.00",
+      "Lifespan_in_yrs": "25.00"
+    },
+    {
+      "Animal": "Hairy armadillo",
+      "Weight_in_kg": "2.00",
+      "Lifespan_in_yrs": "30.10"
+    },
+    {
+      "Animal": "Hairy tree porcupine",
+      "Weight_in_kg": "2.00"
+    },
+    {
+      "Animal": "Hairy-nosed wombat",
+      "Weight_in_kg": "26.00",
+      "Lifespan_in_yrs": "16.00"
+    },
+    {
+      "Animal": "Hairy-rumpted agouti",
+      "Weight_in_kg": "3.00",
+      "Lifespan_in_yrs": "12.00"
+    },
+    {
+      "Animal": "Hairy-tailed mole",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Haitian solenodon",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "38.00"
+    },
+    {
+      "Animal": "Hamadryas baboon",
+      "Weight_in_kg": "18.00",
+      "Lifespan_in_yrs": "29.00"
+    },
+    {
+      "Animal": "Hammer-headed fruit bat",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Hanuman langur",
+      "Weight_in_kg": "14.00",
+      "Lifespan_in_yrs": "20.10"
+    },
+    {
+      "Animal": "Harbor porpoise",
+      "Weight_in_kg": "53.00",
+      "Lifespan_in_yrs": "48.00"
+    },
+    {
+      "Animal": "Harbor seal",
+      "Weight_in_kg": "115.00",
+      "Lifespan_in_yrs": "11.00"
+    },
+    {
+      "Animal": "Harp seal",
+      "Weight_in_kg": "180.10"
+    },
+    {
+      "Animal": "Harris's antelope squirrel",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "23.00"
+    },
+    {
+      "Animal": "Hartebeest",
+      "Weight_in_kg": "159.00",
+      "Lifespan_in_yrs": "5.00"
+    },
+    {
+      "Animal": "Hawaiian monk seal",
+      "Weight_in_kg": "223.00"
+    },
+    {
+      "Animal": "Hazel dormouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "6.00"
+    },
+    {
+      "Animal": "Heath mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "8.00"
+    },
+    {
+      "Animal": "Hector's dolphin",
+      "Weight_in_kg": "56.00"
+    },
+    {
+      "Animal": "Heermann's kangaroo rat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "22.00"
+    },
+    {
+      "Animal": "Highland gerbil mouse",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Himalayan tahr",
+      "Weight_in_kg": "35.00",
+      "Lifespan_in_yrs": "61.00"
+    },
+    {
+      "Animal": "Hippopotamus",
+      "Weight_in_kg": "3750.10",
+      "Lifespan_in_yrs": "16.00"
+    },
+    {
+      "Animal": "Hispaniolan hutia",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "5.00"
+    },
+    {
+      "Animal": "Hispid cotton rat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "14.00"
+    },
+    {
+      "Animal": "Hoary bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "12.00"
+    },
+    {
+      "Animal": "Hoary marmot",
+      "Weight_in_kg": "6.00",
+      "Lifespan_in_yrs": "35.00"
+    },
+    {
+      "Animal": "Hodgson's giant flying squirrel",
+      "Weight_in_kg": "2.00"
+    },
+    {
+      "Animal": "Hoffmann's two-toed sloth",
+      "Weight_in_kg": "6.00",
+      "Lifespan_in_yrs": "16.00"
+    },
+    {
+      "Animal": "Hog badger",
+      "Weight_in_kg": "11.00",
+      "Lifespan_in_yrs": "10.10"
+    },
+    {
+      "Animal": "Hog-nosed skunk",
+      "Weight_in_kg": "2.00",
+      "Lifespan_in_yrs": "31.00"
+    },
+    {
+      "Animal": "Honey badger",
+      "Weight_in_kg": "10.10",
+      "Lifespan_in_yrs": "14.00"
+    },
+    {
+      "Animal": "Honey possum",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Hooded seal",
+      "Weight_in_kg": "40.15"
+    },
+    {
+      "Animal": "Hooded skunk",
+      "Weight_in_kg": "1.00"
+    },
+    {
+      "Animal": "Horse-tailed squirrel",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "4.00"
+    },
+    {
+      "Animal": "House mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "3.00"
+    },
+    {
+      "Animal": "House shrew",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "95.00"
+    },
+    {
+      "Animal": "Humpback whale",
+      "Weight_in_kg": "30.10.10.10.1",
+      "Lifespan_in_yrs": "21.00"
+    },
+    {
+      "Animal": "Ibex",
+      "Weight_in_kg": "83.00",
+      "Lifespan_in_yrs": "26.00"
+    },
+    {
+      "Animal": "Impala",
+      "Weight_in_kg": "53.00",
+      "Lifespan_in_yrs": "27.00"
+    },
+    {
+      "Animal": "Indian crested porcupine",
+      "Weight_in_kg": "20.10",
+      "Lifespan_in_yrs": "40.10"
+    },
+    {
+      "Animal": "Indian flying fox",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "7.00"
+    },
+    {
+      "Animal": "Indian fox",
+      "Weight_in_kg": "2.00"
+    },
+    {
+      "Animal": "Indian gazelle",
+      "Weight_in_kg": "19.00"
+    },
+    {
+      "Animal": "Indian gerbil",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "20.10"
+    },
+    {
+      "Animal": "Indian giant flying squirrel",
+      "Weight_in_kg": "2.00"
+    },
+    {
+      "Animal": "Indian giant squirrel",
+      "Weight_in_kg": "2.00",
+      "Lifespan_in_yrs": "19.00"
+    },
+    {
+      "Animal": "Indian muntjac",
+      "Weight_in_kg": "21.00",
+      "Lifespan_in_yrs": "44.00"
+    },
+    {
+      "Animal": "Indian palm squirrel",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Indian pangolin",
+      "Weight_in_kg": "13.00"
+    },
+    {
+      "Animal": "Indian rhinoceros",
+      "Weight_in_kg": "160.12",
+      "Lifespan_in_yrs": "15.00"
+    },
+    {
+      "Animal": "Indian spotted chevrotain",
+      "Weight_in_kg": "2.00",
+      "Lifespan_in_yrs": "20.10"
+    },
+    {
+      "Animal": "Indiana bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "30.10"
+    },
+    {
+      "Animal": "Indonesian porcupine",
+      "Weight_in_kg": "3.00"
+    },
+    {
+      "Animal": "Indo-Pacific humpbacked dolphin",
+      "Weight_in_kg": "280.10"
+    },
+    {
+      "Animal": "Irrawaddy dolphin",
+      "Weight_in_kg": "190.10",
+      "Lifespan_in_yrs": "28.00"
+    },
+    {
+      "Animal": "Island gray fox",
+      "Weight_in_kg": "2.00"
+    },
+    {
+      "Animal": "Jaguar",
+      "Weight_in_kg": "81.00",
+      "Lifespan_in_yrs": "19.00"
+    },
+    {
+      "Animal": "Jamaican fruit-eating bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "7.00"
+    },
+    {
+      "Animal": "Japanese dormouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "19.00"
+    },
+    {
+      "Animal": "Japanese giant flying squirrel",
+      "Weight_in_kg": "2.00",
+      "Lifespan_in_yrs": "13.00"
+    },
+    {
+      "Animal": "Japanese macaque",
+      "Weight_in_kg": "9.00",
+      "Lifespan_in_yrs": "3.00"
+    },
+    {
+      "Animal": "Japanese marten",
+      "Weight_in_kg": "1.00"
+    },
+    {
+      "Animal": "Javan mongoose",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "17.00"
+    },
+    {
+      "Animal": "Javan pig",
+      "Weight_in_kg": "76.00",
+      "Lifespan_in_yrs": "21.00"
+    },
+    {
+      "Animal": "Javan rhinoceros",
+      "Weight_in_kg": "1750.10"
+    },
+    {
+      "Animal": "Jentink's duiker",
+      "Weight_in_kg": "70.10",
+      "Lifespan_in_yrs": "20.10"
+    },
+    {
+      "Animal": "Julia Creek dunnart",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Jungle cat",
+      "Weight_in_kg": "10.10",
+      "Lifespan_in_yrs": "19.00"
+    },
+    {
+      "Animal": "Keen's myotis",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "30.10"
+    },
+    {
+      "Animal": "Kiang",
+      "Weight_in_kg": "275.00",
+      "Lifespan_in_yrs": "90.10"
+    },
+    {
+      "Animal": "Killer whale",
+      "Weight_in_kg": "3988.00",
+      "Lifespan_in_yrs": "7.00"
+    },
+    {
+      "Animal": "Kimberly mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "34.00"
+    },
+    {
+      "Animal": "King colobus",
+      "Weight_in_kg": "10.10",
+      "Lifespan_in_yrs": "38.00"
+    },
+    {
+      "Animal": "Kinkajou",
+      "Weight_in_kg": "3.00",
+      "Lifespan_in_yrs": "17.00"
+    },
+    {
+      "Animal": "Kintampo rope squirrel",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Kirk's dik-dik",
+      "Weight_in_kg": "5.00",
+      "Lifespan_in_yrs": "16.00"
+    },
+    {
+      "Animal": "Kit fox",
+      "Weight_in_kg": "2.00",
+      "Lifespan_in_yrs": "26.00"
+    },
+    {
+      "Animal": "Klipspringer",
+      "Weight_in_kg": "12.00",
+      "Lifespan_in_yrs": "37.00"
+    },
+    {
+      "Animal": "Kloss's gibbon",
+      "Weight_in_kg": "6.00",
+      "Lifespan_in_yrs": "22.00"
+    },
+    {
+      "Animal": "Koala",
+      "Weight_in_kg": "9.00",
+      "Lifespan_in_yrs": "22.00"
+    },
+    {
+      "Animal": "Kob",
+      "Weight_in_kg": "10.15",
+      "Lifespan_in_yrs": "4.00"
+    },
+    {
+      "Animal": "Korean field mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "8.00"
+    },
+    {
+      "Animal": "Kouprey",
+      "Weight_in_kg": "80.10.1"
+    },
+    {
+      "Animal": "Kuhl's pipistrelle",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "26.00"
+    },
+    {
+      "Animal": "Kulan",
+      "Weight_in_kg": "230.10",
+      "Lifespan_in_yrs": "4.00"
+    },
+    {
+      "Animal": "Kultarr",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "36.00"
+    },
+    {
+      "Animal": "La Plata three-banded armadillo",
+      "Weight_in_kg": "2.00",
+      "Lifespan_in_yrs": "21.00"
+    },
+    {
+      "Animal": "Large bamboo rat",
+      "Weight_in_kg": "3.00"
+    },
+    {
+      "Animal": "Large flying fox",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "5.00"
+    },
+    {
+      "Animal": "Large tree shrew",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "21.00"
+    },
+    {
+      "Animal": "Large-eared tenrec",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Large-spotted genet",
+      "Weight_in_kg": "2.00",
+      "Lifespan_in_yrs": "3.00"
+    },
+    {
+      "Animal": "Laxmann's shrew",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "14.00"
+    },
+    {
+      "Animal": "Leadbeater's possum",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "10.10"
+    },
+    {
+      "Animal": "Least chipmunk",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "4.00"
+    },
+    {
+      "Animal": "Least shrew",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "25.00"
+    },
+    {
+      "Animal": "Lechwe",
+      "Weight_in_kg": "95.00",
+      "Lifespan_in_yrs": "16.00"
+    },
+    {
+      "Animal": "Leeser hairy armadillo",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "34.00"
+    },
+    {
+      "Animal": "Lemurine night monkey",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "5.00"
+    },
+    {
+      "Animal": "Lemuroid ringtail possum",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "27.00"
+    },
+    {
+      "Animal": "Leopard",
+      "Weight_in_kg": "54.00",
+      "Lifespan_in_yrs": "17.00"
+    },
+    {
+      "Animal": "Leopard cat",
+      "Weight_in_kg": "5.00",
+      "Lifespan_in_yrs": "14.00"
+    },
+    {
+      "Animal": "Leopard seal",
+      "Weight_in_kg": "368.00"
+    },
+    {
+      "Animal": "Leschenault's rousette",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "5.00"
+    },
+    {
+      "Animal": "Lesser bamboo rat",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "6.00"
+    },
+    {
+      "Animal": "Lesser Egyptian gerbil",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "7.00"
+    },
+    {
+      "Animal": "Lesser Egyptian jerboa",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "5.00"
+    },
+    {
+      "Animal": "Lesser hairy-footed dunnart",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "19.00"
+    },
+    {
+      "Animal": "Lesser hedgehog tenrec",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "21.00"
+    },
+    {
+      "Animal": "Lesser horseshoe bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "20.10"
+    },
+    {
+      "Animal": "Lesser kudu",
+      "Weight_in_kg": "83.00",
+      "Lifespan_in_yrs": "14.00"
+    },
+    {
+      "Animal": "Lesser mouse-deer",
+      "Weight_in_kg": "4.00",
+      "Lifespan_in_yrs": "33.00"
+    },
+    {
+      "Animal": "Lesser mouse-eared bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "16.00"
+    },
+    {
+      "Animal": "Lesser noctule",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "19.00"
+    },
+    {
+      "Animal": "Lesser panda",
+      "Weight_in_kg": "4.00",
+      "Lifespan_in_yrs": "10.10"
+    },
+    {
+      "Animal": "Lesser short-nosed fruit bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "3.00"
+    },
+    {
+      "Animal": "Lesser shrew",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "12.00"
+    },
+    {
+      "Animal": "Lesser tree shrew",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "29.00"
+    },
+    {
+      "Animal": "Lesser white-nosed monkey",
+      "Weight_in_kg": "4.00",
+      "Lifespan_in_yrs": "24.00"
+    },
+    {
+      "Animal": "L'hoest's monkey",
+      "Weight_in_kg": "5.00",
+      "Lifespan_in_yrs": "5.00"
+    },
+    {
+      "Animal": "Libyan jird",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "37.00"
+    },
+    {
+      "Animal": "Linne's two-toed sloth",
+      "Weight_in_kg": "6.00",
+      "Lifespan_in_yrs": "27.00"
+    },
+    {
+      "Animal": "Lion",
+      "Weight_in_kg": "175.00",
+      "Lifespan_in_yrs": "40.10"
+    },
+    {
+      "Animal": "Liontail macaque",
+      "Weight_in_kg": "8.00",
+      "Lifespan_in_yrs": "34.00"
+    },
+    {
+      "Animal": "Little brown bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "17.00"
+    },
+    {
+      "Animal": "Little golden-mantled flying fox",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "10.10"
+    },
+    {
+      "Animal": "Little grison",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "7.00"
+    },
+    {
+      "Animal": "Little ground squirrel",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "8.00"
+    },
+    {
+      "Animal": "Little long-tailed dunnart",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Little pocket mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "16.00"
+    },
+    {
+      "Animal": "Little red flying fox",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "22.00"
+    },
+    {
+      "Animal": "Little red kaluta",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Little spotted cat",
+      "Weight_in_kg": "2.00",
+      "Lifespan_in_yrs": "12.00"
+    },
+    {
+      "Animal": "Little yellow-shouldered bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "8.00"
+    },
+    {
+      "Animal": "Long-eared chipmunk",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Long-eared desert hedgehog",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "9.00"
+    },
+    {
+      "Animal": "Long-eared elephant shrew",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "60.10"
+    },
+    {
+      "Animal": "Long-finned pilot whale",
+      "Weight_in_kg": "10.160.1",
+      "Lifespan_in_yrs": "15.00"
+    },
+    {
+      "Animal": "Long-footed potoroo",
+      "Weight_in_kg": "2.00",
+      "Lifespan_in_yrs": "19.00"
+    },
+    {
+      "Animal": "Long-haired rousette",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "21.00"
+    },
+    {
+      "Animal": "Long-legged myotis",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "6.00"
+    },
+    {
+      "Animal": "Long-nosed bandicoot",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "13.00"
+    },
+    {
+      "Animal": "Long-nosed cusimanse",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "41.00"
+    },
+    {
+      "Animal": "Long-nosed echidna",
+      "Weight_in_kg": "8.00",
+      "Lifespan_in_yrs": "39.00"
+    },
+    {
+      "Animal": "Long-snouted mongoose",
+      "Weight_in_kg": "3.00"
+    },
+    {
+      "Animal": "Long-tailed macaque",
+      "Weight_in_kg": "6.00",
+      "Lifespan_in_yrs": "7.00"
+    },
+    {
+      "Animal": "Long-tailed mouse",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Long-tailed planigale",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Long-tailed pocket mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "3.00"
+    },
+    {
+      "Animal": "Long-tailed pygmy possum",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Long-tailed tree mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "9.00"
+    },
+    {
+      "Animal": "Long-tailed vole",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Long-tailed weasel",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "11.00"
+    },
+    {
+      "Animal": "Low's squirrel",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "20.10"
+    },
+    {
+      "Animal": "Lyle's flying fox",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "24.00"
+    },
+    {
+      "Animal": "Lynx",
+      "Weight_in_kg": "23.00",
+      "Lifespan_in_yrs": "15.00"
+    },
+    {
+      "Animal": "Malabar spiny dormouse",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Malagasy civet",
+      "Weight_in_kg": "2.00",
+      "Lifespan_in_yrs": "13.00"
+    },
+    {
+      "Animal": "Malagasy giant rat",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "26.00"
+    },
+    {
+      "Animal": "Malagasy ring-tailed mongoose",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "37.00"
+    },
+    {
+      "Animal": "Malayan tapir",
+      "Weight_in_kg": "250.10",
+      "Lifespan_in_yrs": "8.00"
+    },
+    {
+      "Animal": "Mandrill",
+      "Weight_in_kg": "23.00",
+      "Lifespan_in_yrs": "17.00"
+    },
+    {
+      "Animal": "Maned sloth",
+      "Weight_in_kg": "4.00"
+    },
+    {
+      "Animal": "Maned wolf",
+      "Weight_in_kg": "22.00",
+      "Lifespan_in_yrs": "24.00"
+    },
+    {
+      "Animal": "Mantled howler monkey",
+      "Weight_in_kg": "7.00",
+      "Lifespan_in_yrs": "9.00"
+    },
+    {
+      "Animal": "Marbled cat",
+      "Weight_in_kg": "4.00"
+    },
+    {
+      "Animal": "Marbled polecat",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "24.00"
+    },
+    {
+      "Animal": "Margay",
+      "Weight_in_kg": "4.00",
+      "Lifespan_in_yrs": "19.00"
+    },
+    {
+      "Animal": "Markhor",
+      "Weight_in_kg": "41.00",
+      "Lifespan_in_yrs": "8.00"
+    },
+    {
+      "Animal": "Marsh cottontail rabbit",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "21.00"
+    },
+    {
+      "Animal": "Marsh deer",
+      "Weight_in_kg": "10.13"
+    },
+    {
+      "Animal": "Marsh mongoose",
+      "Weight_in_kg": "3.00",
+      "Lifespan_in_yrs": "27.00"
+    },
+    {
+      "Animal": "Marsupial mole",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Masked palm civet",
+      "Weight_in_kg": "4.00",
+      "Lifespan_in_yrs": "27.00"
+    },
+    {
+      "Animal": "Matschie's tree kangaroo",
+      "Weight_in_kg": "7.00",
+      "Lifespan_in_yrs": "19.00"
+    },
+    {
+      "Animal": "Mauritius flying fox",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "18.00"
+    },
+    {
+      "Animal": "Maxwell's duiker",
+      "Weight_in_kg": "7.00",
+      "Lifespan_in_yrs": "6.00"
+    },
+    {
+      "Animal": "Meadow jumping mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "21.00"
+    },
+    {
+      "Animal": "Meadow vole",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Mediterranean monk seal",
+      "Weight_in_kg": "275.00"
+    },
+    {
+      "Animal": "Mediterranean pine vole",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Meerkat",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "47.00"
+    },
+    {
+      "Animal": "Melon-headed whale",
+      "Weight_in_kg": "20.16",
+      "Lifespan_in_yrs": "10.10"
+    },
+    {
+      "Animal": "Merriam's kangaroo rat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "13.00"
+    },
+    {
+      "Animal": "Merriam's pocket mouse",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Mexican agouti",
+      "Weight_in_kg": "3.00",
+      "Lifespan_in_yrs": "17.00"
+    },
+    {
+      "Animal": "Mexican black howler monkey",
+      "Weight_in_kg": "7.00"
+    },
+    {
+      "Animal": "Mexican mouse opossum",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Mexican tree porcupine",
+      "Weight_in_kg": "2.00",
+      "Lifespan_in_yrs": "21.00"
+    },
+    {
+      "Animal": "Midas tamarin",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "7.00"
+    },
+    {
+      "Animal": "Mid-day jird",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "50.10"
+    },
+    {
+      "Animal": "Minke whale",
+      "Weight_in_kg": "750.10.1",
+      "Lifespan_in_yrs": "5.00"
+    },
+    {
+      "Animal": "Mitchell's hopping mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "20.10"
+    },
+    {
+      "Animal": "Mitred leaf monkey",
+      "Weight_in_kg": "7.00",
+      "Lifespan_in_yrs": "8.00"
+    },
+    {
+      "Animal": "Mohave ground squirrel",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "10.10"
+    },
+    {
+      "Animal": "Molina's hog-nosed skunk",
+      "Weight_in_kg": "3.00",
+      "Lifespan_in_yrs": "12.00"
+    },
+    {
+      "Animal": "Moluccan naked-backed fruit bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "30.10"
+    },
+    {
+      "Animal": "Mona monkey",
+      "Weight_in_kg": "5.00",
+      "Lifespan_in_yrs": "12.00"
+    },
+    {
+      "Animal": "Mongolian gazelle",
+      "Weight_in_kg": "30.10",
+      "Lifespan_in_yrs": "6.00"
+    },
+    {
+      "Animal": "Mongolian jird",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "4.00"
+    },
+    {
+      "Animal": "Mongoose",
+      "Weight_in_kg": "2.00"
+    },
+    {
+      "Animal": "Mongoose lemur",
+      "Weight_in_kg": "2.00",
+      "Lifespan_in_yrs": "25.00"
+    },
+    {
+      "Animal": "Monito del monte",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Monk saki",
+      "Weight_in_kg": "2.00",
+      "Lifespan_in_yrs": "29.00"
+    },
+    {
+      "Animal": "Montane shrew",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Moonrat",
+      "Weight_in_kg": "1.00"
+    },
+    {
+      "Animal": "Moose",
+      "Weight_in_kg": "386.00"
+    },
+    {
+      "Animal": "Mountain anoa",
+      "Weight_in_kg": "150.10",
+      "Lifespan_in_yrs": "18.00"
+    },
+    {
+      "Animal": "Mountain beaver",
+      "Weight_in_kg": "1.00"
+    },
+    {
+      "Animal": "Mountain brush-tailed possum",
+      "Weight_in_kg": "3.00"
+    },
+    {
+      "Animal": "Mountain gazelle",
+      "Weight_in_kg": "23.00",
+      "Lifespan_in_yrs": "21.00"
+    },
+    {
+      "Animal": "Mountain goat",
+      "Weight_in_kg": "90.10",
+      "Lifespan_in_yrs": "18.00"
+    },
+    {
+      "Animal": "Mountain hare",
+      "Weight_in_kg": "4.00",
+      "Lifespan_in_yrs": "19.00"
+    },
+    {
+      "Animal": "Mountain paca",
+      "Weight_in_kg": "9.00",
+      "Lifespan_in_yrs": "12.00"
+    },
+    {
+      "Animal": "Mountain pygmy possum",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "15.00"
+    },
+    {
+      "Animal": "Mountain reedbuck",
+      "Weight_in_kg": "30.10",
+      "Lifespan_in_yrs": "29.00"
+    },
+    {
+      "Animal": "Mountain tapir",
+      "Weight_in_kg": "149.00",
+      "Lifespan_in_yrs": "20.10"
+    },
+    {
+      "Animal": "Mountain viscacha",
+      "Weight_in_kg": "2.00",
+      "Lifespan_in_yrs": "33.00"
+    },
+    {
+      "Animal": "Mountain zebra",
+      "Weight_in_kg": "296.00",
+      "Lifespan_in_yrs": "4.00"
+    },
+    {
+      "Animal": "Mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "22.00"
+    },
+    {
+      "Animal": "Mouse-eared bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "9.00"
+    },
+    {
+      "Animal": "Mouse-like hamster",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "36.00"
+    },
+    {
+      "Animal": "Moustached monkey",
+      "Weight_in_kg": "4.00",
+      "Lifespan_in_yrs": "22.00"
+    },
+    {
+      "Animal": "Mueller's giant Sunda rat",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Mule deer",
+      "Weight_in_kg": "57.00",
+      "Lifespan_in_yrs": "7.00"
+    },
+    {
+      "Animal": "Mulgara",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "4.00"
+    },
+    {
+      "Animal": "Murine mouse opossum",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "27.00"
+    },
+    {
+      "Animal": "Muskox",
+      "Weight_in_kg": "315.00",
+      "Lifespan_in_yrs": "12.00"
+    },
+    {
+      "Animal": "Muskrat",
+      "Weight_in_kg": "1.00"
+    },
+    {
+      "Animal": "Musky rat kangaroo",
+      "Weight_in_kg": "1.00"
+    },
+    {
+      "Animal": "Nabarlek",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "28.00"
+    },
+    {
+      "Animal": "Naked mole-rat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "5.00"
+    },
+    {
+      "Animal": "Narrow-nosed planigale",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "50.10"
+    },
+    {
+      "Animal": "Narrow-striped mongoose",
+      "Weight_in_kg": "1.00"
+    },
+    {
+      "Animal": "Narwhal",
+      "Weight_in_kg": "1250.10",
+      "Lifespan_in_yrs": "15.00"
+    },
+    {
+      "Animal": "Natal duiker",
+      "Weight_in_kg": "10.10",
+      "Lifespan_in_yrs": "11.00"
+    },
+    {
+      "Animal": "Nathusius's pipistrelle",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "20.10"
+    },
+    {
+      "Animal": "Natterer's bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "9.00"
+    },
+    {
+      "Animal": "Nelson's antelope squirrel",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Nelson's pocket mouse",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Neotropical river otter",
+      "Weight_in_kg": "8.00"
+    },
+    {
+      "Animal": "New England cottontail rabbit",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "3.00"
+    },
+    {
+      "Animal": "New Guinea spiny bandicoot",
+      "Weight_in_kg": "1.00"
+    },
+    {
+      "Animal": "New Guinean bandicoot",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "8.00"
+    },
+    {
+      "Animal": "New Zealand fur seal",
+      "Weight_in_kg": "55.00"
+    },
+    {
+      "Animal": "New Zealand lesser short-tailed bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "7.00"
+    },
+    {
+      "Animal": "New Zealand sea lion",
+      "Weight_in_kg": "188.00"
+    },
+    {
+      "Animal": "Nile kusu",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "21.00"
+    },
+    {
+      "Animal": "Nile lechwe",
+      "Weight_in_kg": "90.10",
+      "Lifespan_in_yrs": "22.00"
+    },
+    {
+      "Animal": "Nilgai",
+      "Weight_in_kg": "180.10",
+      "Lifespan_in_yrs": "17.00"
+    },
+    {
+      "Animal": "Nilgiri tahr",
+      "Weight_in_kg": "75.00",
+      "Lifespan_in_yrs": "12.00"
+    },
+    {
+      "Animal": "Ningbing pseudantechinus",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Noctule",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "22.00"
+    },
+    {
+      "Animal": "Noisy night monkey",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "7.00"
+    },
+    {
+      "Animal": "North African elephant shrew",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "7.00"
+    },
+    {
+      "Animal": "North American pika",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "23.00"
+    },
+    {
+      "Animal": "North American porcupine",
+      "Weight_in_kg": "9.00",
+      "Lifespan_in_yrs": "16.00"
+    },
+    {
+      "Animal": "North Sumatran leaf monkey",
+      "Weight_in_kg": "7.00"
+    },
+    {
+      "Animal": "Northern bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "37.00"
+    },
+    {
+      "Animal": "Northern bettong",
+      "Weight_in_kg": "1.00"
+    },
+    {
+      "Animal": "Northern birch mouse",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Northern bottlenose whale",
+      "Weight_in_kg": "650.10.1",
+      "Lifespan_in_yrs": "14.00"
+    },
+    {
+      "Animal": "Northern elephant seal",
+      "Weight_in_kg": "160.10.1"
+    },
+    {
+      "Animal": "Northern flying squirrel",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "6.00"
+    },
+    {
+      "Animal": "Northern fur seal",
+      "Weight_in_kg": "166.00"
+    },
+    {
+      "Animal": "Northern grasshopper mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "30.10"
+    },
+    {
+      "Animal": "Northern hairy-nosed wombat",
+      "Weight_in_kg": "31.00",
+      "Lifespan_in_yrs": "11.00"
+    },
+    {
+      "Animal": "Northern hopping mouse",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Northern nail-tailed wallaby",
+      "Weight_in_kg": "6.00",
+      "Lifespan_in_yrs": "30.10"
+    },
+    {
+      "Animal": "Northern naked-tailed armadillo",
+      "Weight_in_kg": "3.00"
+    },
+    {
+      "Animal": "Northern night monkey",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "9.00"
+    },
+    {
+      "Animal": "Northern palm squirrel",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Northern pocket gopher",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Northern pygmy mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "6.00"
+    },
+    {
+      "Animal": "Northern quoll",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "67.00"
+    },
+    {
+      "Animal": "Northern right whale",
+      "Weight_in_kg": "230.10.10.1",
+      "Lifespan_in_yrs": "27.00"
+    },
+    {
+      "Animal": "Northern river otter",
+      "Weight_in_kg": "9.00",
+      "Lifespan_in_yrs": "33.00"
+    },
+    {
+      "Animal": "Northern sea lion",
+      "Weight_in_kg": "415.00",
+      "Lifespan_in_yrs": "16.00"
+    },
+    {
+      "Animal": "Northern tamandua",
+      "Weight_in_kg": "5.00",
+      "Lifespan_in_yrs": "11.00"
+    },
+    {
+      "Animal": "Northern tree shrew",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "3.00"
+    },
+    {
+      "Animal": "Norway lemming",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "5.00"
+    },
+    {
+      "Animal": "Norway rat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "19.00"
+    },
+    {
+      "Animal": "Nubian ibex",
+      "Weight_in_kg": "46.00",
+      "Lifespan_in_yrs": "11.00"
+    },
+    {
+      "Animal": "Numbat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "9.00"
+    },
+    {
+      "Animal": "Nutria",
+      "Weight_in_kg": "8.00",
+      "Lifespan_in_yrs": "7.00"
+    },
+    {
+      "Animal": "Nuttall's cottontail rabbit",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "19.00"
+    },
+    {
+      "Animal": "Nyala",
+      "Weight_in_kg": "120.10",
+      "Lifespan_in_yrs": "28.00"
+    },
+    {
+      "Animal": "Ocelot",
+      "Weight_in_kg": "9.00",
+      "Lifespan_in_yrs": "34.00"
+    },
+    {
+      "Animal": "Okapi",
+      "Weight_in_kg": "225.00",
+      "Lifespan_in_yrs": "19.00"
+    },
+    {
+      "Animal": "Old World badger",
+      "Weight_in_kg": "13.00",
+      "Lifespan_in_yrs": "4.00"
+    },
+    {
+      "Animal": "Old World harvest mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "27.00"
+    },
+    {
+      "Animal": "Old World porcupine",
+      "Weight_in_kg": "8.00",
+      "Lifespan_in_yrs": "6.00"
+    },
+    {
+      "Animal": "Old World rabbit",
+      "Weight_in_kg": "2.00"
+    },
+    {
+      "Animal": "Old World wood and field mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "6.00"
+    },
+    {
+      "Animal": "Oldfield mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "22.00"
+    },
+    {
+      "Animal": "Olingo",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "59.00"
+    },
+    {
+      "Animal": "Ooldea dunnart",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Orange-bellied Himalayan squirrel",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Orangutan",
+      "Weight_in_kg": "64.00",
+      "Lifespan_in_yrs": "10.10"
+    },
+    {
+      "Animal": "Ord's kangaroo rat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "16.00"
+    },
+    {
+      "Animal": "Oribi",
+      "Weight_in_kg": "17.00",
+      "Lifespan_in_yrs": "22.00"
+    },
+    {
+      "Animal": "Oriental civet",
+      "Weight_in_kg": "10.10",
+      "Lifespan_in_yrs": "23.00"
+    },
+    {
+      "Animal": "Oriental small-clawed otter",
+      "Weight_in_kg": "3.00",
+      "Lifespan_in_yrs": "29.00"
+    },
+    {
+      "Animal": "Ornate shrew",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Otter civet",
+      "Weight_in_kg": "4.00"
+    },
+    {
+      "Animal": "Owl-faced monkey",
+      "Weight_in_kg": "4.00",
+      "Lifespan_in_yrs": "16.00"
+    },
+    {
+      "Animal": "Owston's palm civet",
+      "Weight_in_kg": "3.00"
+    },
+    {
+      "Animal": "Paca",
+      "Weight_in_kg": "9.00",
+      "Lifespan_in_yrs": "13.00"
+    },
+    {
+      "Animal": "Pacarana",
+      "Weight_in_kg": "12.00",
+      "Lifespan_in_yrs": "46.00"
+    },
+    {
+      "Animal": "Pacific white-sided dolphin",
+      "Weight_in_kg": "10.13",
+      "Lifespan_in_yrs": "16.00"
+    },
+    {
+      "Animal": "Pale fox",
+      "Weight_in_kg": "3.00",
+      "Lifespan_in_yrs": "6.00"
+    },
+    {
+      "Animal": "Pale gerbil",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "9.00"
+    },
+    {
+      "Animal": "Pale giant squirrel",
+      "Weight_in_kg": "1.00"
+    },
+    {
+      "Animal": "Pale spear-nosed bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "15.00"
+    },
+    {
+      "Animal": "Palestine mole rat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "11.00"
+    },
+    {
+      "Animal": "Pallas's long-tongued bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "17.00"
+    },
+    {
+      "Animal": "Pallas's squirrel",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "15.00"
+    },
+    {
+      "Animal": "Pallid bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "22.00"
+    },
+    {
+      "Animal": "Pampas deer",
+      "Weight_in_kg": "33.00",
+      "Lifespan_in_yrs": "9.00"
+    },
+    {
+      "Animal": "Panamanian spiny pocket mouse",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Panther genet",
+      "Weight_in_kg": "2.00",
+      "Lifespan_in_yrs": "46.00"
+    },
+    {
+      "Animal": "Pantropical spotted dolphin",
+      "Weight_in_kg": "113.00",
+      "Lifespan_in_yrs": "8.00"
+    },
+    {
+      "Animal": "Papuan mountain wallaby",
+      "Weight_in_kg": "3.00",
+      "Lifespan_in_yrs": "6.00"
+    },
+    {
+      "Animal": "Paraguayan slender mouse opossum",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "16.00"
+    },
+    {
+      "Animal": "Parma wallaby",
+      "Weight_in_kg": "4.00",
+      "Lifespan_in_yrs": "12.00"
+    },
+    {
+      "Animal": "Particolored bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "14.00"
+    },
+    {
+      "Animal": "Patagonian cavy",
+      "Weight_in_kg": "13.00",
+      "Lifespan_in_yrs": "28.00"
+    },
+    {
+      "Animal": "Patas monkey",
+      "Weight_in_kg": "8.00",
+      "Lifespan_in_yrs": "4.00"
+    },
+    {
+      "Animal": "Paucident planigale",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Pemba flying fox",
+      "Weight_in_kg": "1.00"
+    },
+    {
+      "Animal": "Pencil-tailed tree mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "28.00"
+    },
+    {
+      "Animal": "Pen-tailed tree shrew",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Pere David's deer",
+      "Weight_in_kg": "187.00",
+      "Lifespan_in_yrs": "6.00"
+    },
+    {
+      "Animal": "Persian jird",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "6.00"
+    },
+    {
+      "Animal": "Peruvian guinea pig",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "5.00"
+    },
+    {
+      "Animal": "Peruvian mountain viscacha",
+      "Weight_in_kg": "1.00"
+    },
+    {
+      "Animal": "Peters's climbing rat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "10.10"
+    },
+    {
+      "Animal": "Philippine brown deer",
+      "Weight_in_kg": "50.10"
+    },
+    {
+      "Animal": "Philippine pygmy fruit bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "16.00"
+    },
+    {
+      "Animal": "Philippine tarsier",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "12.00"
+    },
+    {
+      "Animal": "Philippine tree shrew",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "13.00"
+    },
+    {
+      "Animal": "Pichi",
+      "Weight_in_kg": "2.00",
+      "Lifespan_in_yrs": "38.00"
+    },
+    {
+      "Animal": "Pigtail macaque",
+      "Weight_in_kg": "8.00",
+      "Lifespan_in_yrs": "38.00"
+    },
+    {
+      "Animal": "Pilbara ningaui",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Pileated gibbon",
+      "Weight_in_kg": "6.00",
+      "Lifespan_in_yrs": "5.00"
+    },
+    {
+      "Animal": "Pink fairy armadillo",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Pinyon mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "12.00"
+    },
+    {
+      "Animal": "Plains pocket gopher",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "11.00"
+    },
+    {
+      "Animal": "Plains pocket mouse",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Plains viscacha",
+      "Weight_in_kg": "6.00",
+      "Lifespan_in_yrs": "15.00"
+    },
+    {
+      "Animal": "Plantain squirrel",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "44.00"
+    },
+    {
+      "Animal": "Polar bear",
+      "Weight_in_kg": "475.00",
+      "Lifespan_in_yrs": "21.00"
+    },
+    {
+      "Animal": "Pond bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "15.00"
+    },
+    {
+      "Animal": "Potoroo",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "27.00"
+    },
+    {
+      "Animal": "Potto",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "5.00"
+    },
+    {
+      "Animal": "Pouched mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "5.00"
+    },
+    {
+      "Animal": "Prairie vole",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "27.00"
+    },
+    {
+      "Animal": "Prehensile-tailed porcupine",
+      "Weight_in_kg": "4.00",
+      "Lifespan_in_yrs": "26.00"
+    },
+    {
+      "Animal": "Preuss's monkey",
+      "Weight_in_kg": "5.00",
+      "Lifespan_in_yrs": "21.00"
+    },
+    {
+      "Animal": "Prevost's squirrel",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "25.00"
+    },
+    {
+      "Animal": "Proboscis monkey",
+      "Weight_in_kg": "15.00",
+      "Lifespan_in_yrs": "16.00"
+    },
+    {
+      "Animal": "Pronghorn",
+      "Weight_in_kg": "46.00",
+      "Lifespan_in_yrs": "26.00"
+    },
+    {
+      "Animal": "Purple-faced leaf monkey",
+      "Weight_in_kg": "7.00",
+      "Lifespan_in_yrs": "55.00"
+    },
+    {
+      "Animal": "Pygmy chimpanzee or bonono",
+      "Weight_in_kg": "40.10",
+      "Lifespan_in_yrs": "9.00"
+    },
+    {
+      "Animal": "Pygmy gliding possum",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "42.00"
+    },
+    {
+      "Animal": "Pygmy hippopotamus",
+      "Weight_in_kg": "215.00",
+      "Lifespan_in_yrs": "14.00"
+    },
+    {
+      "Animal": "Pygmy hog",
+      "Weight_in_kg": "8.00",
+      "Lifespan_in_yrs": "17.00"
+    },
+    {
+      "Animal": "Pygmy loris",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "6.00"
+    },
+    {
+      "Animal": "Pygmy planigale",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "17.00"
+    },
+    {
+      "Animal": "Pygmy rabbit",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Pygmy sperm whale",
+      "Weight_in_kg": "425.00",
+      "Lifespan_in_yrs": "14.00"
+    },
+    {
+      "Animal": "Pyranean chamois",
+      "Weight_in_kg": "30.10"
+    },
+    {
+      "Animal": "Pyrenean desman",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Quaira spiny rat",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Quokka",
+      "Weight_in_kg": "4.00",
+      "Lifespan_in_yrs": "7.00"
+    },
+    {
+      "Animal": "Quoll",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "10.10"
+    },
+    {
+      "Animal": "Rabbit-bandicoot or bilby",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "17.00"
+    },
+    {
+      "Animal": "Raccoon dog",
+      "Weight_in_kg": "7.00",
+      "Lifespan_in_yrs": "4.00"
+    },
+    {
+      "Animal": "Rafinesque's big-eared bat",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Rat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "21.00"
+    },
+    {
+      "Animal": "Red and white giant flying squirrel",
+      "Weight_in_kg": "2.00",
+      "Lifespan_in_yrs": "17.00"
+    },
+    {
+      "Animal": "Red brocket",
+      "Weight_in_kg": "46.00",
+      "Lifespan_in_yrs": "32.00"
+    },
+    {
+      "Animal": "Red deer",
+      "Weight_in_kg": "20.10.1",
+      "Lifespan_in_yrs": "21.00"
+    },
+    {
+      "Animal": "Red fox",
+      "Weight_in_kg": "4.00",
+      "Lifespan_in_yrs": "19.00"
+    },
+    {
+      "Animal": "Red giant flying squirrel",
+      "Weight_in_kg": "2.00"
+    },
+    {
+      "Animal": "Red howler monkey",
+      "Weight_in_kg": "7.00",
+      "Lifespan_in_yrs": "25.00"
+    },
+    {
+      "Animal": "Red kangaroo",
+      "Weight_in_kg": "55.00",
+      "Lifespan_in_yrs": "22.00"
+    },
+    {
+      "Animal": "Red river hog",
+      "Weight_in_kg": "88.00",
+      "Lifespan_in_yrs": "10.10"
+    },
+    {
+      "Animal": "Red squirrel",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "36.00"
+    },
+    {
+      "Animal": "Red uakari",
+      "Weight_in_kg": "3.00",
+      "Lifespan_in_yrs": "5.00"
+    },
+    {
+      "Animal": "Red-backed mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "20.10"
+    },
+    {
+      "Animal": "Red-bellied lemur",
+      "Weight_in_kg": "2.00",
+      "Lifespan_in_yrs": "24.00"
+    },
+    {
+      "Animal": "Red-bellied monkey",
+      "Weight_in_kg": "3.00",
+      "Lifespan_in_yrs": "12.00"
+    },
+    {
+      "Animal": "Red-bellied squirrel",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "46.00"
+    },
+    {
+      "Animal": "Red-capped mangabey",
+      "Weight_in_kg": "9.00",
+      "Lifespan_in_yrs": "5.00"
+    },
+    {
+      "Animal": "Red-cheeked dunnart",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "21.00"
+    },
+    {
+      "Animal": "Red-chested mustached tamarin",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "15.00"
+    },
+    {
+      "Animal": "Red-flanked duiker",
+      "Weight_in_kg": "13.00",
+      "Lifespan_in_yrs": "15.00"
+    },
+    {
+      "Animal": "Red-fronted gazelle",
+      "Weight_in_kg": "15.00",
+      "Lifespan_in_yrs": "10.10"
+    },
+    {
+      "Animal": "Red-legged pademelon",
+      "Weight_in_kg": "4.00",
+      "Lifespan_in_yrs": "9.00"
+    },
+    {
+      "Animal": "Red-legged sun squirrel",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "9.00"
+    },
+    {
+      "Animal": "Red-necked pademelon",
+      "Weight_in_kg": "4.00",
+      "Lifespan_in_yrs": "15.00"
+    },
+    {
+      "Animal": "Red-necked wallaby",
+      "Weight_in_kg": "16.00",
+      "Lifespan_in_yrs": "5.00"
+    },
+    {
+      "Animal": "Red-nosed mouse",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Red-tailed chipmunk",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Red-tailed phascogale",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "12.00"
+    },
+    {
+      "Animal": "Red-tailed sportive lemur",
+      "Weight_in_kg": "1.00"
+    },
+    {
+      "Animal": "Red-tailed squirrel",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "23.00"
+    },
+    {
+      "Animal": "Reeves's muntjac",
+      "Weight_in_kg": "18.00",
+      "Lifespan_in_yrs": "40.10"
+    },
+    {
+      "Animal": "Rhesus monkey",
+      "Weight_in_kg": "8.00",
+      "Lifespan_in_yrs": "15.00"
+    },
+    {
+      "Animal": "Rhim gazelle",
+      "Weight_in_kg": "49.00",
+      "Lifespan_in_yrs": "7.00"
+    },
+    {
+      "Animal": "Ribbon seal",
+      "Weight_in_kg": "90.10"
+    },
+    {
+      "Animal": "Richardson's collared lemming",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Richardson's ground squirrel",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Ridled nail-tailed wallaby",
+      "Weight_in_kg": "6.00",
+      "Lifespan_in_yrs": "46.00"
+    },
+    {
+      "Animal": "Ringed seal",
+      "Weight_in_kg": "90.10",
+      "Lifespan_in_yrs": "19.00"
+    },
+    {
+      "Animal": "Ringtail",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "37.00"
+    },
+    {
+      "Animal": "Ring-tailed lemur",
+      "Weight_in_kg": "3.00",
+      "Lifespan_in_yrs": "10.10"
+    },
+    {
+      "Animal": "Ring-tailed possum",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "14.00"
+    },
+    {
+      "Animal": "Ringtailed rock wallaby",
+      "Weight_in_kg": "6.00",
+      "Lifespan_in_yrs": "5.00"
+    },
+    {
+      "Animal": "Rio Napo mouse opossum",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "43.00"
+    },
+    {
+      "Animal": "Risso's dolphin",
+      "Weight_in_kg": "425.00",
+      "Lifespan_in_yrs": "26.00"
+    },
+    {
+      "Animal": "River dolphin",
+      "Weight_in_kg": "47.00"
+    },
+    {
+      "Animal": "Riverine or bushman rabbit",
+      "Weight_in_kg": "1.00"
+    },
+    {
+      "Animal": "Roan antelope",
+      "Weight_in_kg": "225.00",
+      "Lifespan_in_yrs": "5.00"
+    },
+    {
+      "Animal": "Robinson's mouse opossum",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "13.00"
+    },
+    {
+      "Animal": "Rock cavy",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "7.00"
+    },
+    {
+      "Animal": "Rock dormouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "15.00"
+    },
+    {
+      "Animal": "Rock hyrax",
+      "Weight_in_kg": "4.00",
+      "Lifespan_in_yrs": "5.00"
+    },
+    {
+      "Animal": "Rock mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "10.10"
+    },
+    {
+      "Animal": "Rock squirrel",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "28.00"
+    },
+    {
+      "Animal": "Rodriguez flying fox",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "32.00"
+    },
+    {
+      "Animal": "Ross seal",
+      "Weight_in_kg": "177.00"
+    },
+    {
+      "Animal": "Rough-toothed dolphin",
+      "Weight_in_kg": "114.00",
+      "Lifespan_in_yrs": "9.00"
+    },
+    {
+      "Animal": "Round-tailed ground squirrel",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "11.00"
+    },
+    {
+      "Animal": "Royal antelope",
+      "Weight_in_kg": "2.00",
+      "Lifespan_in_yrs": "14.00"
+    },
+    {
+      "Animal": "Ruddy mongoose",
+      "Weight_in_kg": "2.00",
+      "Lifespan_in_yrs": "36.00"
+    },
+    {
+      "Animal": "Ruffed lemur",
+      "Weight_in_kg": "4.00",
+      "Lifespan_in_yrs": "8.00"
+    },
+    {
+      "Animal": "Rufous elephant shrew",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "13.00"
+    },
+    {
+      "Animal": "Rufous hare-wallaby",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "13.00"
+    },
+    {
+      "Animal": "Rufous 'rat'-kangaroo",
+      "Weight_in_kg": "3.00",
+      "Lifespan_in_yrs": "3.00"
+    },
+    {
+      "Animal": "Rufous spiny bandicoot",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "18.00"
+    },
+    {
+      "Animal": "Rusty-spotted cat",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "24.00"
+    },
+    {
+      "Animal": "Ryukyu flying fox",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "18.00"
+    },
+    {
+      "Animal": "Ryukyu mouse",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Sable",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "22.00"
+    },
+    {
+      "Animal": "Sable antelope",
+      "Weight_in_kg": "225.00",
+      "Lifespan_in_yrs": "25.00"
+    },
+    {
+      "Animal": "Saddlebacked tamarin",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "26.00"
+    },
+    {
+      "Animal": "Saiga",
+      "Weight_in_kg": "38.00"
+    },
+    {
+      "Animal": "Sambar",
+      "Weight_in_kg": "185.00",
+      "Lifespan_in_yrs": "8.00"
+    },
+    {
+      "Animal": "San Diego pocket mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "14.00"
+    },
+    {
+      "Animal": "Sand cat",
+      "Weight_in_kg": "3.00",
+      "Lifespan_in_yrs": "4.00"
+    },
+    {
+      "Animal": "Sand-colored rat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "23.00"
+    },
+    {
+      "Animal": "Sandstone marsupial mouse",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Sassaby or blesbok",
+      "Weight_in_kg": "85.00",
+      "Lifespan_in_yrs": "5.00"
+    },
+    {
+      "Animal": "Savanna gerbil",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "28.00"
+    },
+    {
+      "Animal": "Scaly-tailed possum",
+      "Weight_in_kg": "2.00"
+    },
+    {
+      "Animal": "Scimitar-horned oryx",
+      "Weight_in_kg": "178.00",
+      "Lifespan_in_yrs": "27.00"
+    },
+    {
+      "Animal": "Sea otter",
+      "Weight_in_kg": "26.00",
+      "Lifespan_in_yrs": "17.00"
+    },
+    {
+      "Animal": "Seba's short-tailed bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "74.00"
+    },
+    {
+      "Animal": "Sei whale",
+      "Weight_in_kg": "20.10.10.10.1",
+      "Lifespan_in_yrs": "17.00"
+    },
+    {
+      "Animal": "Senegal galago",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "19.00"
+    },
+    {
+      "Animal": "Serotine",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "22.00"
+    },
+    {
+      "Animal": "Serval",
+      "Weight_in_kg": "13.00",
+      "Lifespan_in_yrs": "17.00"
+    },
+    {
+      "Animal": "Servaline genet",
+      "Weight_in_kg": "1.00"
+    },
+    {
+      "Animal": "Seven-banded armadillo",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "6.00"
+    },
+    {
+      "Animal": "Shark Bay Islands barred bandicoot",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "4.00"
+    },
+    {
+      "Animal": "Shaw's jird",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Short bare-tailed opossum",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "9.00"
+    },
+    {
+      "Animal": "Short-beaked saddleback dolphin",
+      "Weight_in_kg": "80.10"
+    },
+    {
+      "Animal": "Short-eared elephant shrew",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "63.00"
+    },
+    {
+      "Animal": "Short-finned pilot whale",
+      "Weight_in_kg": "220.10.1",
+      "Lifespan_in_yrs": "50.10"
+    },
+    {
+      "Animal": "Short-nosed echidna",
+      "Weight_in_kg": "2.00",
+      "Lifespan_in_yrs": "5.00"
+    },
+    {
+      "Animal": "Short-nosed elephant shrew",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Short-tailed mongoose",
+      "Weight_in_kg": "1.00"
+    },
+    {
+      "Animal": "Shorttailed opossum",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "2.00"
+    },
+    {
+      "Animal": "Short-tailed shrew",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "10.10"
+    },
+    {
+      "Animal": "Siberian chipmunk",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "5.00"
+    },
+    {
+      "Animal": "Siberian five-toed jerboa",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "11.00"
+    },
+    {
+      "Animal": "Siberian flying squirrel",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "9.00"
+    },
+    {
+      "Animal": "Siberian musk deer",
+      "Weight_in_kg": "10.10"
+    },
+    {
+      "Animal": "Siberian weasel",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "14.00"
+    },
+    {
+      "Animal": "Side-striped jackal",
+      "Weight_in_kg": "10.10",
+      "Lifespan_in_yrs": "26.00"
+    },
+    {
+      "Animal": "Sika deer",
+      "Weight_in_kg": "42.00",
+      "Lifespan_in_yrs": "12.00"
+    },
+    {
+      "Animal": "Silky anteater",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Silky pocket mouse",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Silver mountain vole",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Silver-haired bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "45.00"
+    },
+    {
+      "Animal": "Silvery gibbon",
+      "Weight_in_kg": "6.00",
+      "Lifespan_in_yrs": "15.00"
+    },
+    {
+      "Animal": "Silvery mole-rat",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Silvery-brown bare-face tamarin",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "23.00"
+    },
+    {
+      "Animal": "Sitatunga",
+      "Weight_in_kg": "88.00",
+      "Lifespan_in_yrs": "22.00"
+    },
+    {
+      "Animal": "Six-banded armadillo",
+      "Weight_in_kg": "5.00",
+      "Lifespan_in_yrs": "19.00"
+    },
+    {
+      "Animal": "Slender gerbil",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Slender loris",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "13.00"
+    },
+    {
+      "Animal": "Slender mongoose",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "10.10"
+    },
+    {
+      "Animal": "Slender squirrel",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "14.00"
+    },
+    {
+      "Animal": "Slender-tailed cloud rat",
+      "Weight_in_kg": "2.00",
+      "Lifespan_in_yrs": "33.00"
+    },
+    {
+      "Animal": "Sloth bear",
+      "Weight_in_kg": "10.10.1",
+      "Lifespan_in_yrs": "26.00"
+    },
+    {
+      "Animal": "Slow loris",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "5.00"
+    },
+    {
+      "Animal": "Small Indian civet",
+      "Weight_in_kg": "3.00"
+    },
+    {
+      "Animal": "Small pika",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Small-eared dog",
+      "Weight_in_kg": "10.10",
+      "Lifespan_in_yrs": "18.00"
+    },
+    {
+      "Animal": "Small-eared galago",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "23.00"
+    },
+    {
+      "Animal": "Smaller horseshoe bat",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Small-spotted genet",
+      "Weight_in_kg": "2.00",
+      "Lifespan_in_yrs": "16.00"
+    },
+    {
+      "Animal": "Small-toothed palm civet",
+      "Weight_in_kg": "2.00",
+      "Lifespan_in_yrs": "7.00"
+    },
+    {
+      "Animal": "Smith's bush squirrel",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Smoky mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "21.00"
+    },
+    {
+      "Animal": "Smoky shrew",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Smooth-coated otter",
+      "Weight_in_kg": "9.00"
+    },
+    {
+      "Animal": "Snow leopard",
+      "Weight_in_kg": "50.10",
+      "Lifespan_in_yrs": "16.00"
+    },
+    {
+      "Animal": "Snowshoe rabbit",
+      "Weight_in_kg": "2.00"
+    },
+    {
+      "Animal": "Soemmering's gazelle",
+      "Weight_in_kg": "49.00",
+      "Lifespan_in_yrs": "18.00"
+    },
+    {
+      "Animal": "Sooty agouti",
+      "Weight_in_kg": "4.00",
+      "Lifespan_in_yrs": "32.00"
+    },
+    {
+      "Animal": "South African broad-headed mouse",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "South African fur seal",
+      "Weight_in_kg": "128.00",
+      "Lifespan_in_yrs": "17.00"
+    },
+    {
+      "Animal": "South African galago",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "12.00"
+    },
+    {
+      "Animal": "South African ground squirrel",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "31.00"
+    },
+    {
+      "Animal": "South African hedgehog",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "South American fur seal",
+      "Weight_in_kg": "110.10",
+      "Lifespan_in_yrs": "30.10"
+    },
+    {
+      "Animal": "South American squirrel monkey",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "7.00"
+    },
+    {
+      "Animal": "Southern bog lemming",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Southern brown bandicoot",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "25.00"
+    },
+    {
+      "Animal": "Southern bushy-tailed olingo",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "19.00"
+    },
+    {
+      "Animal": "Southern elephant seal",
+      "Weight_in_kg": "140.10.1"
+    },
+    {
+      "Animal": "Southern flying squirrel",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "5.00"
+    },
+    {
+      "Animal": "Southern free-tailed bat",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Southern fur seal",
+      "Weight_in_kg": "46.00"
+    },
+    {
+      "Animal": "Southern grasshopper mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "4.00"
+    },
+    {
+      "Animal": "Southern naked-tailed armadillo",
+      "Weight_in_kg": "4.00"
+    },
+    {
+      "Animal": "Southern opossum",
+      "Weight_in_kg": "2.00",
+      "Lifespan_in_yrs": "18.00"
+    },
+    {
+      "Animal": "Southern plains woodrat",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Southern pudu",
+      "Weight_in_kg": "10.10",
+      "Lifespan_in_yrs": "17.00"
+    },
+    {
+      "Animal": "Southern reedbuck",
+      "Weight_in_kg": "58.00",
+      "Lifespan_in_yrs": "70.10"
+    },
+    {
+      "Animal": "Southern right whale",
+      "Weight_in_kg": "450.10.10.1",
+      "Lifespan_in_yrs": "29.00"
+    },
+    {
+      "Animal": "Southern sea lion",
+      "Weight_in_kg": "20.18",
+      "Lifespan_in_yrs": "19.00"
+    },
+    {
+      "Animal": "Southern tamandua",
+      "Weight_in_kg": "5.00",
+      "Lifespan_in_yrs": "6.00"
+    },
+    {
+      "Animal": "Southern water shrew",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Spanish ibex",
+      "Weight_in_kg": "58.00"
+    },
+    {
+      "Animal": "Spanish lynx",
+      "Weight_in_kg": "11.00"
+    },
+    {
+      "Animal": "Speckled marsupial mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "39.00"
+    },
+    {
+      "Animal": "Spectacled bear",
+      "Weight_in_kg": "10.19",
+      "Lifespan_in_yrs": "9.00"
+    },
+    {
+      "Animal": "Spectacled flying fox",
+      "Weight_in_kg": "1.00"
+    },
+    {
+      "Animal": "Spectacled hare-wallaby",
+      "Weight_in_kg": "3.00",
+      "Lifespan_in_yrs": "6.00"
+    },
+    {
+      "Animal": "Spectral tarsier",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Speke's gazelle",
+      "Weight_in_kg": "20.10"
+    },
+    {
+      "Animal": "Speke's gundi",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Spiny mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "6.00"
+    },
+    {
+      "Animal": "Spiny rat",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "17.00"
+    },
+    {
+      "Animal": "Splendid climbing mouse",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Spotted cuscus",
+      "Weight_in_kg": "4.00",
+      "Lifespan_in_yrs": "41.00"
+    },
+    {
+      "Animal": "Spotted hyena",
+      "Weight_in_kg": "63.00",
+      "Lifespan_in_yrs": "11.00"
+    },
+    {
+      "Animal": "Spotted seal",
+      "Weight_in_kg": "85.00"
+    },
+    {
+      "Animal": "Spotted skunk",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "20.10"
+    },
+    {
+      "Animal": "Springbok",
+      "Weight_in_kg": "39.00",
+      "Lifespan_in_yrs": "20.10"
+    },
+    {
+      "Animal": "Springhare",
+      "Weight_in_kg": "4.00",
+      "Lifespan_in_yrs": "15.00"
+    },
+    {
+      "Animal": "Squirrel glider",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "3.00"
+    },
+    {
+      "Animal": "Star-nosed mole",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "9.00"
+    },
+    {
+      "Animal": "Steenbok",
+      "Weight_in_kg": "13.00",
+      "Lifespan_in_yrs": "4.00"
+    },
+    {
+      "Animal": "Steppe lemming",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "4.00"
+    },
+    {
+      "Animal": "Straw-colored fruit bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "3.00"
+    },
+    {
+      "Animal": "Streaked tenrec",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "58.00"
+    },
+    {
+      "Animal": "Striped dolphin",
+      "Weight_in_kg": "113.00",
+      "Lifespan_in_yrs": "5.00"
+    },
+    {
+      "Animal": "Striped field mouse",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Striped ground squirrel",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "25.00"
+    },
+    {
+      "Animal": "Striped hyena",
+      "Weight_in_kg": "40.10",
+      "Lifespan_in_yrs": "14.00"
+    },
+    {
+      "Animal": "Striped polecat, zorilla",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "10.10"
+    },
+    {
+      "Animal": "Striped possum",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "14.00"
+    },
+    {
+      "Animal": "Striped skunk",
+      "Weight_in_kg": "4.00",
+      "Lifespan_in_yrs": "13.00"
+    },
+    {
+      "Animal": "Striped-necked mongoose",
+      "Weight_in_kg": "2.00",
+      "Lifespan_in_yrs": "5.00"
+    },
+    {
+      "Animal": "Stripe-faced dunnart",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "29.00"
+    },
+    {
+      "Animal": "Stump-tailed macaque",
+      "Weight_in_kg": "9.00",
+      "Lifespan_in_yrs": "18.00"
+    },
+    {
+      "Animal": "Sub-Antarctic fur seal",
+      "Weight_in_kg": "50.10"
+    },
+    {
+      "Animal": "Sugar glider",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "33.00"
+    },
+    {
+      "Animal": "Sumatran rhinoceros",
+      "Weight_in_kg": "1260.10",
+      "Lifespan_in_yrs": "36.00"
+    },
+    {
+      "Animal": "Sun bear",
+      "Weight_in_kg": "46.00",
+      "Lifespan_in_yrs": "6.00"
+    },
+    {
+      "Animal": "Sundevall's jird",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "14.00"
+    },
+    {
+      "Animal": "Suni",
+      "Weight_in_kg": "7.00",
+      "Lifespan_in_yrs": "17.00"
+    },
+    {
+      "Animal": "Sun-tailed monkey",
+      "Weight_in_kg": "5.00"
+    },
+    {
+      "Animal": "Swamp antechinus",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Swamp wallaby",
+      "Weight_in_kg": "15.00",
+      "Lifespan_in_yrs": "16.00"
+    },
+    {
+      "Animal": "Swift fox",
+      "Weight_in_kg": "2.00",
+      "Lifespan_in_yrs": "22.00"
+    },
+    {
+      "Animal": "Takin",
+      "Weight_in_kg": "180.10",
+      "Lifespan_in_yrs": "28.00"
+    },
+    {
+      "Animal": "Talapoin",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "6.00"
+    },
+    {
+      "Animal": "Talazaci's long-tailed tenrec",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "15.00"
+    },
+    {
+      "Animal": "Tamaraw",
+      "Weight_in_kg": "240.10"
+    },
+    {
+      "Animal": "Tammar wallaby",
+      "Weight_in_kg": "7.00",
+      "Lifespan_in_yrs": "15.00"
+    },
+    {
+      "Animal": "Tana River mangabey",
+      "Weight_in_kg": "9.00"
+    },
+    {
+      "Animal": "Tangalunga",
+      "Weight_in_kg": "7.00",
+      "Lifespan_in_yrs": "13.00"
+    },
+    {
+      "Animal": "Tasmanian bettong",
+      "Weight_in_kg": "2.00"
+    },
+    {
+      "Animal": "Tasmanian devil",
+      "Weight_in_kg": "7.00",
+      "Lifespan_in_yrs": "9.00"
+    },
+    {
+      "Animal": "Tasmanian red-bellied pademelon",
+      "Weight_in_kg": "5.00",
+      "Lifespan_in_yrs": "22.00"
+    },
+    {
+      "Animal": "Tayra",
+      "Weight_in_kg": "5.00",
+      "Lifespan_in_yrs": "9.00"
+    },
+    {
+      "Animal": "Tenrec",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "3.00"
+    },
+    {
+      "Animal": "Texas pocket gopher",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Thicket rat",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Thick-tailed opossum",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "8.00"
+    },
+    {
+      "Animal": "Thirteen-lined ground squirrel",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "10.10"
+    },
+    {
+      "Animal": "Thomas's rope squirrel",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "20.10"
+    },
+    {
+      "Animal": "Thomson's gazelle",
+      "Weight_in_kg": "25.00",
+      "Lifespan_in_yrs": "21.00"
+    },
+    {
+      "Animal": "Thorold's deer",
+      "Weight_in_kg": "135.00",
+      "Lifespan_in_yrs": "27.00"
+    },
+    {
+      "Animal": "Three-banded armadillo",
+      "Weight_in_kg": "1.00"
+    },
+    {
+      "Animal": "Three-striped ground squirrel",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Three-toed tree sloth",
+      "Weight_in_kg": "4.00"
+    },
+    {
+      "Animal": "Tibetan macaque",
+      "Weight_in_kg": "10.10",
+      "Lifespan_in_yrs": "26.00"
+    },
+    {
+      "Animal": "Tiger",
+      "Weight_in_kg": "120.10",
+      "Lifespan_in_yrs": "21.00"
+    },
+    {
+      "Animal": "Timor deer",
+      "Weight_in_kg": "63.00",
+      "Lifespan_in_yrs": "28.00"
+    },
+    {
+      "Animal": "Tonkean macaque",
+      "Weight_in_kg": "12.00",
+      "Lifespan_in_yrs": "24.00"
+    },
+    {
+      "Animal": "Topi",
+      "Weight_in_kg": "110.10",
+      "Lifespan_in_yrs": "29.00"
+    },
+    {
+      "Animal": "Toque macaque",
+      "Weight_in_kg": "4.00",
+      "Lifespan_in_yrs": "21.00"
+    },
+    {
+      "Animal": "Townsend's big-eared bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "9.00"
+    },
+    {
+      "Animal": "Townsend's chipmunk",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "14.00"
+    },
+    {
+      "Animal": "Tree hyrax",
+      "Weight_in_kg": "3.00",
+      "Lifespan_in_yrs": "12.00"
+    },
+    {
+      "Animal": "Tree shrew",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "6.00"
+    },
+    {
+      "Animal": "Trowbridge's shrew",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Tuan",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "23.00"
+    },
+    {
+      "Animal": "Tuco-tuco",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Tufted deer",
+      "Weight_in_kg": "34.00",
+      "Lifespan_in_yrs": "5.00"
+    },
+    {
+      "Animal": "Tullberg's rock rat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "4.00"
+    },
+    {
+      "Animal": "Tundra vole",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Typical striped grass mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "29.00"
+    },
+    {
+      "Animal": "Vagrant shrew",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Vampire bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "12.00"
+    },
+    {
+      "Animal": "Vancouver marmot",
+      "Weight_in_kg": "5.00",
+      "Lifespan_in_yrs": "20.10"
+    },
+    {
+      "Animal": "Variable flying fox",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "15.00"
+    },
+    {
+      "Animal": "Variegated squirrel",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "31.00"
+    },
+    {
+      "Animal": "Verreaux's sifaka",
+      "Weight_in_kg": "5.00",
+      "Lifespan_in_yrs": "6.00"
+    },
+    {
+      "Animal": "Vesper rat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "32.00"
+    },
+    {
+      "Animal": "Vicugna",
+      "Weight_in_kg": "50.10",
+      "Lifespan_in_yrs": "7.00"
+    },
+    {
+      "Animal": "Vinogradov's jird",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "7.00"
+    },
+    {
+      "Animal": "Virginia opossum",
+      "Weight_in_kg": "3.00",
+      "Lifespan_in_yrs": "19.00"
+    },
+    {
+      "Animal": "Vlei rat",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Vole",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "10.10"
+    },
+    {
+      "Animal": "Wahlberg's epauletted fruit bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "22.00"
+    },
+    {
+      "Animal": "Wallaroo",
+      "Weight_in_kg": "30.10",
+      "Lifespan_in_yrs": "21.00"
+    },
+    {
+      "Animal": "Walrus",
+      "Weight_in_kg": "10.11"
+    },
+    {
+      "Animal": "Wart hog",
+      "Weight_in_kg": "10.10.1",
+      "Lifespan_in_yrs": "35.00"
+    },
+    {
+      "Animal": "Water buffalo",
+      "Weight_in_kg": "725.00",
+      "Lifespan_in_yrs": "3.00"
+    },
+    {
+      "Animal": "Water chevrotain",
+      "Weight_in_kg": "11.00"
+    },
+    {
+      "Animal": "Water opossum (yapok)",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "30.10"
+    },
+    {
+      "Animal": "Water shrew",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Water vole",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Waterbuck",
+      "Weight_in_kg": "175.00",
+      "Lifespan_in_yrs": "47.00"
+    },
+    {
+      "Animal": "Weasel sportive lemur",
+      "Weight_in_kg": "1.00"
+    },
+    {
+      "Animal": "Weddell seal",
+      "Weight_in_kg": "425.00"
+    },
+    {
+      "Animal": "Weeping capuchin",
+      "Weight_in_kg": "3.00",
+      "Lifespan_in_yrs": "20.10"
+    },
+    {
+      "Animal": "Weid's black-tufted-ear marmoset",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "19.00"
+    },
+    {
+      "Animal": "West Caucasian tur",
+      "Weight_in_kg": "70.10",
+      "Lifespan_in_yrs": "23.00"
+    },
+    {
+      "Animal": "Western barbastelle",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "10.10"
+    },
+    {
+      "Animal": "Western broad-nosed bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "12.00"
+    },
+    {
+      "Animal": "Western European hedgehog",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "23.00"
+    },
+    {
+      "Animal": "Western gray kangaroo",
+      "Weight_in_kg": "28.00",
+      "Lifespan_in_yrs": "22.00"
+    },
+    {
+      "Animal": "Western gray squirrel",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Western harvest mouse",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Western heather vole",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Western jumping mouse",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Western long-eared myotis",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "7.00"
+    },
+    {
+      "Animal": "Western needle-clawed galago",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Western pebble-mound mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "6.00"
+    },
+    {
+      "Animal": "Western pocket gopher",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Western quoll",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "10.10"
+    },
+    {
+      "Animal": "Western rock wallaby",
+      "Weight_in_kg": "4.00",
+      "Lifespan_in_yrs": "18.00"
+    },
+    {
+      "Animal": "Western roe deer",
+      "Weight_in_kg": "22.00",
+      "Lifespan_in_yrs": "16.00"
+    },
+    {
+      "Animal": "Western tarsier",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "15.00"
+    },
+    {
+      "Animal": "Whiptail wallaby",
+      "Weight_in_kg": "17.00"
+    },
+    {
+      "Animal": "Whiskered bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "45.00"
+    },
+    {
+      "Animal": "White rhinoceros",
+      "Weight_in_kg": "2175.00",
+      "Lifespan_in_yrs": "37.00"
+    },
+    {
+      "Animal": "White-bellied spider monkey",
+      "Weight_in_kg": "8.00",
+      "Lifespan_in_yrs": "54.00"
+    },
+    {
+      "Animal": "White-eared opossum",
+      "Weight_in_kg": "1.00"
+    },
+    {
+      "Animal": "White-faced capuchin",
+      "Weight_in_kg": "3.00",
+      "Lifespan_in_yrs": "8.00"
+    },
+    {
+      "Animal": "White-footed mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "40.10"
+    },
+    {
+      "Animal": "White-fronted capuchin",
+      "Weight_in_kg": "2.00",
+      "Lifespan_in_yrs": "57.00"
+    },
+    {
+      "Animal": "White-handed gibbon",
+      "Weight_in_kg": "7.00",
+      "Lifespan_in_yrs": "13.00"
+    },
+    {
+      "Animal": "White-lined broad-nosed bat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "29.00"
+    },
+    {
+      "Animal": "White-lipped peccary",
+      "Weight_in_kg": "22.00",
+      "Lifespan_in_yrs": "20.10"
+    },
+    {
+      "Animal": "White-naped weasel",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "White-nosed bearded saki",
+      "Weight_in_kg": "3.00",
+      "Lifespan_in_yrs": "26.00"
+    },
+    {
+      "Animal": "White-nosed coati",
+      "Weight_in_kg": "4.00",
+      "Lifespan_in_yrs": "31.00"
+    },
+    {
+      "Animal": "White-nosed guenon",
+      "Weight_in_kg": "5.00",
+      "Lifespan_in_yrs": "11.00"
+    },
+    {
+      "Animal": "White-tailed antelope squirrel",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "22.00"
+    },
+    {
+      "Animal": "White-tailed deer",
+      "Weight_in_kg": "87.00",
+      "Lifespan_in_yrs": "15.00"
+    },
+    {
+      "Animal": "White-tailed jackrabbit",
+      "Weight_in_kg": "3.00"
+    },
+    {
+      "Animal": "White-tailed mongoose",
+      "Weight_in_kg": "4.00",
+      "Lifespan_in_yrs": "6.00"
+    },
+    {
+      "Animal": "White-tailed mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "10.10"
+    },
+    {
+      "Animal": "White-throated woodrat",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "3.00"
+    },
+    {
+      "Animal": "White-toothed pygmy shrew",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "4.00"
+    },
+    {
+      "Animal": "White-toothed shrew",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "17.00"
+    },
+    {
+      "Animal": "White-tufted-ear marmoset",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "44.00"
+    },
+    {
+      "Animal": "White-whiskered spider monkey",
+      "Weight_in_kg": "6.00",
+      "Lifespan_in_yrs": "27.00"
+    },
+    {
+      "Animal": "Wild boar",
+      "Weight_in_kg": "180.10",
+      "Lifespan_in_yrs": "19.00"
+    },
+    {
+      "Animal": "Wild cat",
+      "Weight_in_kg": "6.00",
+      "Lifespan_in_yrs": "20.10"
+    },
+    {
+      "Animal": "Wolverine",
+      "Weight_in_kg": "16.00",
+      "Lifespan_in_yrs": "14.00"
+    },
+    {
+      "Animal": "Wongai ningaui",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Wood lemming",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Woodchuck",
+      "Weight_in_kg": "4.00",
+      "Lifespan_in_yrs": "7.00"
+    },
+    {
+      "Animal": "Woodland dormouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "4.00"
+    },
+    {
+      "Animal": "Woodland jumping mouse",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Woodland mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "4.00"
+    },
+    {
+      "Animal": "Woodland vole",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "9.00"
+    },
+    {
+      "Animal": "Woolley's pseudantechinus",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Woolly opossum",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "19.00"
+    },
+    {
+      "Animal": "Woolly spider monkey or muriqui",
+      "Weight_in_kg": "11.00"
+    },
+    {
+      "Animal": "Woylie",
+      "Weight_in_kg": "2.00",
+      "Lifespan_in_yrs": "26.00"
+    },
+    {
+      "Animal": "Yak",
+      "Weight_in_kg": "667.00",
+      "Lifespan_in_yrs": "24.00"
+    },
+    {
+      "Animal": "Yangzte river dolphin or baiji",
+      "Weight_in_kg": "84.00",
+      "Lifespan_in_yrs": "15.00"
+    },
+    {
+      "Animal": "Yellow mongoose",
+      "Weight_in_kg": "1.00",
+      "Lifespan_in_yrs": "23.00"
+    },
+    {
+      "Animal": "Yellow-backed duiker",
+      "Weight_in_kg": "62.00",
+      "Lifespan_in_yrs": "21.00"
+    },
+    {
+      "Animal": "Yellow-bellied marmot",
+      "Weight_in_kg": "4.00",
+      "Lifespan_in_yrs": "4.00"
+    },
+    {
+      "Animal": "Yellow-faced pocket gopher",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Yellow-footed marsupial mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "5.00"
+    },
+    {
+      "Animal": "Yellow-necked mouse",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "16.00"
+    },
+    {
+      "Animal": "Yellow-pine chipmunk",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Yellow-throated marten",
+      "Weight_in_kg": "3.00",
+      "Lifespan_in_yrs": "5.00"
+    },
+    {
+      "Animal": "Yellow-toothed cavy",
+      "Weight_in_kg": "0.10",
+      "Lifespan_in_yrs": "9.00"
+    },
+    {
+      "Animal": "Yuma myotis",
+      "Weight_in_kg": "0.10"
+    },
+    {
+      "Animal": "Zebra duiker",
+      "Weight_in_kg": "18.00"
+    }
+  ]
