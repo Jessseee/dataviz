@@ -1,0 +1,76 @@
+<div id="deforestation-by-continent">
+    <div class="deforestation-over-years">
+        <div id="chart"></div>
+    </div>
+    <script>
+        function createChart() {
+            $("#chart").kendoChart({
+                title: {
+                    text: "Deforestation by continent"
+                },
+                legend: {
+                    position: "bottom"
+                },
+                seriesDefaults: {
+                    type: "area",
+                    area: {
+                        line: {
+                            style: "smooth"
+                        }
+                    }
+                },
+                series: [{
+                    name: "Europe",
+                    data: [1015, 1005, 1001.3]
+                }, {
+                    name: "South America",
+                    data: [842, 864.3, 831.5]
+                }, {
+                    name: "North and Central America",
+                    data: [751, 705.4, 705.8]
+                }, {
+                    name: "Africa",
+                    data: [624, 674.4, 635.4]
+                }, {
+                    name: "Asia",
+                    data: [593, 592.5, 571.6]
+                }, {
+                    name: "Oceania",
+                    data: [174, 191.4, 206.2]
+                }],
+                valueAxis: {
+                    labels: {
+                        format: "{0}"
+
+                    },
+                    line: {
+                        visible: false
+                    },
+                    axisCrossingValue: -10
+                },
+                categoryAxis: {
+                    categories: [2005, 2010, 2015],
+                    majorGridLines: {
+                        visible: false
+                    },
+                    labels: {
+                        rotation: "auto"
+                    }
+                },
+                tooltip: {
+                    visible: true,
+                    format: "{0}%",
+                    template: "#= series.name #: #= value #"
+                }
+            });
+        }
+
+        $(document).ready(createChart);
+        $(document).bind("kendo:skinChange", createChart);
+    </script>
+    <style type="text/css">
+        #chart {
+            background: center no-repeat url('../content/shared/styles/world-map.png');
+        }
+    </style>
+</div>

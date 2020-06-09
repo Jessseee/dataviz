@@ -1,0 +1,61 @@
+<div id="deforestation">
+    <h4>Deforestation between 2000 and 2005</h4>
+    <h4>in 1000 ha/year</h4>
+    <div id="deforestation-in-years"></div>
+    <script>
+        function createDeforestationMap() {
+            $("#deforestation-in-years").kendoMap({
+                center: [30.2681, -97.7448],
+                zoom: 3,
+                layers: [{
+                    type: "shape",
+                    dataSource: {
+                        type: "geojson",
+                        transport: {
+                            read: "data/deforestation-per-country.geo.json"
+                        }
+                    },
+                    style: {
+                        fill: {
+                            opacity: 0.7
+                        }
+                    }
+                }],
+                shapeCreated: onShapeCreated,
+                shapeFeatureCreated: onShapeFeatureCreated,
+                shapeMouseEnter: onShapeMouseEnter,
+                shapeMouseLeave: onShapeMouseLeave
+            });
+        }
+
+        var scaleDeforestation = chroma
+            .scale(["red", "green"])
+            .domain([-100, 100]);
+
+        function onShapeCreated(e) {
+            var shape = e.shape;
+            var forest_area = shape.dataItem.properties["deforestation"];
+            if (forest_area) {
+                var color = scaleDeforestation(forest_area).hex();
+                shape.options.fill.set("color", color);
+            }
+        }
+
+        function onShapeFeatureCreated(e) {
+            e.group.options.tooltip = {
+                content: e.properties["deforestation"],
+                position: "cursor",
+                offset: 10,
+            };
+        }
+
+        function onShapeMouseEnter(e) {
+            e.shape.options.set("fill.opacity", 1);
+        }
+
+        function onShapeMouseLeave(e) {
+            e.shape.options.set("fill.opacity", 0.7);
+        }
+        $(document).ready(createDeforestationMap);
+    </script>
+</div>
