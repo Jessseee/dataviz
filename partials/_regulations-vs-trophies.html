@@ -1,68 +1,72 @@
-<div id="example">
-    <div class="demo-section k-content wide">
-        <div id="chartthree"></div>
-    </div>
-    <script>
-        function createChart() {
-            $("#chartthree").kendoChart({
-                title: {
-                    text: "Anual exotic animal trophy import in US \n VS \n Strictness of hunting regulations from imported countries"
-                },
-                legend: {
-                    position: "bottom"
-                },
-                seriesDefaults: {
-                    type: "area",
-                    area: {
-                        line: {
-                            style: "smooth"
-                        }
-                    }
-                },
-                series: [{
-                    name: "Strict Regulations",
-                    data: [7030,	38439,	15511,	10030,	12745,	9047,	7724,	6915,	8266,	11339
-
-
-
-                    ]
-                }, {
-                    name: "Medium Regulations",
-                    data: [50333,	43287,	43257,	46934,	48037,	61685,	54455,	42955,	42530, 42028
-
-                    ]
-                }, {
-                    name: "Loose Regulations",
-                    data: [8810,	15859,	8850,	7292,	6058,	7872,	5241,	8971,	5361,	5223
-                    ]
-                }],
-                valueAxis: {
-                    labels: {
-                        format: "{0}"
-                    },
+<div id="chartthree"></div>
+<p>Exotic animals are often killed by humans for sport. When this happend the carcass of the hunted animal is often sold or kept as a trophy by the hunter. Because these hunting session the biodiversity has dropped in many countries and some of them have installed laws an regulations on hunting for sports to keep the population of specific species stable. For this visualisation we took the data from the 8 biggest exporters of exotic animals towards the United States (the largest importer of animal trophies in the world) and grouped them by their regulations. The result is quite clear, the countries with strict regulations are a lot less popular and provide less trophies, when the regulation loosen a little the import rises quickly. One thing that is interesting is that countries with very loose regulations have a smaller impact than countries with strict regulations. This could be because these countries are generally not visited for the purpouse of hunting or have a different biodiversity that is not interesting for tophy hunting.</p>
+<i>Sources:<br>
+    <a href="https://www.hsi.org/wp-content/uploads/assets/pdfs/report_trophy_hunting_by_the.pdf">Trophy hunting data and regulations is various countries </a><br>
+    <a href="https://en.wikipedia.org/wiki/Hunting_in_New_Zealand">Hunting legislation in New Zealand</a><br>
+    <a href="https://www.shakariconnection.com/hunting-tanzania.html#:~:text=Tanzania%20Hunting%20Laws,species%20that%20may%20be%20hunted.">Hunting legislation in Tanzania </a><br>
+    <a href="https://www.rainsfordhunting.com/en/hunting-destinations/hunting-in-argentina/">Hunting legislation in Argentina </a><br>
+    <a href="https://www.africahunting.com/threads/zambia-hunting-information.14231/#:~:text=%2D%20Trophy%20hunting%20may%20take%20place,upon%20the%20species%20being%20hunted.">Hunting legislation Zambia </a><br>
+</i>
+<script>
+    function createChart() {
+        $("#chartthree").kendoChart({
+            title: {
+                text: "Anual exotic animal trophy import in US \n VS \n Strictness of hunting regulations from imported countries"
+            },
+            legend: {
+                position: "bottom"
+            },
+            seriesDefaults: {
+                type: "area",
+                area: {
                     line: {
-                        visible: false
-                    },
-                    axisCrossingValue: -10
-                },
-                categoryAxis: {
-                    categories: [2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014],
-                    majorGridLines: {
-                        visible: false
-                    },
-                    labels: {
-                        rotation: "auto"
+                        style: "smooth"
                     }
-                },
-                tooltip: {
-                    visible: true,
-                    format: "{0}%",
-                    template: "#= series.name #: #= value #"
                 }
-            });
-        }
+            },
+            series: [{
+                name: "Strict Regulations",
+                data: [7030,	38439,	15511,	10030,	12745,	9047,	7724,	6915,	8266,	11339
 
-        $(document).ready(createChart);
-        $(document).bind("kendo:skinChange", createChart);
-    </script>
-</div>
+
+
+                ]
+            }, {
+                name: "Medium Regulations",
+                data: [50333,	43287,	43257,	46934,	48037,	61685,	54455,	42955,	42530, 42028
+
+                ]
+            }, {
+                name: "Loose Regulations",
+                data: [8810,	15859,	8850,	7292,	6058,	7872,	5241,	8971,	5361,	5223
+                ]
+            }],
+            valueAxis: {
+                labels: {
+                    format: "{0}"
+                },
+                line: {
+                    visible: false
+                },
+                axisCrossingValue: -10
+            },
+            categoryAxis: {
+                categories: [2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014],
+                majorGridLines: {
+                    visible: false
+                },
+                labels: {
+                    rotation: "auto"
+                }
+            },
+            tooltip: {
+                visible: true,
+                format: "{0}%",
+                template: "#= series.name #: #= value #"
+            }
+        });
+    }
+
+    $(document).ready(createChart);
+    $(document).bind("kendo:skinChange", createChart);
+</script>

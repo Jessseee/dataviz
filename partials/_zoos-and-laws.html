@@ -12,9 +12,17 @@
     <a href="https://www.africahunting.com/threads/zambia-hunting-information.14231/#:~:text=%2D%20Trophy%20hunting%20may%20take%20place,upon%20the%20species%20being%20hunted.">Hunting legislation Zambia </a><br>
     <a href="https://demos.telerik.com/kendo-ui/area-charts/index">KendoUI - Demo - Area chart </a><br><br>
 </i>
+<p>In the graph above the amount of zoo's in the United states is shown together with the intensity of the regulations regarding exotic pet ownership. To add up to that, the amount of inhabitants of the different states is portrayed on the y axis to distinguish between states with a lot of inhabitant and state with less inhabitants, this is done to make sure that the data is less misleading. From the visualisation we can derrive that there are just a few states with small law-restrictions. When you take a closer look between the intensities 3 and 4, tou can see that small states with the intensity 3 have more zoos than small states with the intensity 4. This could mean that there is a slight relation between the intensity of laws regarding exotic animal ownership and the amount of zoos per state in the US.</p>
+<i>Sources:<br>
+    <a href="https://www.animallaw.info/content/map-private-exotic-pet-ownership-laws">Laws regarding Exotic animal ownership per state in the US</a><br>
+    <a href="https://en.wikipedia.org/wiki/List_of_zoos_in_the_United_States">Amount of zoo's per state in te US </a><br>
+</i>
 <script>
     function createChart() {
         $("#chartone").kendoChart({
+            title: {
+                text: "Amount of Zoos and Intencity of Laws"
+            },
             legend: {
                 visible: false
             },

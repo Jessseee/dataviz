@@ -24,23 +24,28 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/chroma-js/2.1.0/chroma.min.js"></script>
 
 </head>
-<body>
-<div data-includeHTML="partials/_header.html"></div>
-<div class="container">
+    <body>
+        <div data-includeHTML="partials/_header.html"></div>
+        <div class="container">
+            <h1>The influence of Humans on Animal Lives</h1>
 
-    <div id="dani-total" data-includeHTML="partials/_dani-meat-consumption-total.html"></div>
+            <div id="total-consumption" data-includeHTML="partials/_dani-meat-consumption-total.html"></div>
 
-    <div id="dani-captivity" data-includeHTML="partials/_dani-meat-consumption-types.html"></div>
+            <div id="deadliest-animal" data-includeHTML="partials/_deadliest-animals.html"></div>
 
-    <div id="dani-zoo-aqua-dolphi" class="mt-4" data-includeHTML="partials/_dani-zoos-aquaria-dolphinaria.html"></div>
-</div>
-<script>
-    $(function() {
-        $("*[data-includeHTML]").each(function() {
-            $(this).load($(this).attr("data-includeHTML"));
-        });
-    });
-</script>
-<script src="js/bootstrap.min.js"></script>
-</body>
+            <div id="captivity" data-includeHTML="partials/_dani-meat-consumption-types.html"></div>
+
+            <div id="zoos-aquaria-dolphinaria" class="mt-5" data-includeHTML="partials/_dani-zoos-aquaria-dolphinaria.html"></div>
+
+            <div id="deforestation" class="mt-5" data-includeHTML="partials/_deforestation.html"></div>
+        </div>
+        <script>
+            $(function() {
+                $("*[data-includeHTML]").each(function() {
+                    $(this).load($(this).attr("data-includeHTML"));
+                });
+            });
+        </script>
+        <script src="js/bootstrap.min.js"></script>
+    </body>
 </html>
