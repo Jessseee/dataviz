@@ -668,7 +668,7 @@
     },
     {
       "Animal": "Blue whale",
-      "Weight_in_kg": "1360.10.10.1",
+      "Weight_in_kg": "173000.00",
       "Lifespan_in_yrs": "110.10"
     },
     {
@@ -736,7 +736,7 @@
     {
       "Animal": "Bottlenosed dolphin",
       "Weight_in_kg": "20.10.1",
-      "Lifespan_in_yrs": "211.00"
+      "Lifespan_in_yrs": "50.00"
     },
     {
       "Animal": "Bowhead",
