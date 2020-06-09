@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
+
         <title>DataViz</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -16,15 +17,20 @@
 
         <!-- Kendo -->
         <link href="https://kendo.cdn.telerik.com/2020.2.513/styles/kendo.common.min.css" rel="stylesheet" />
-        <link href="https://kendo.cdn.telerik.com/2020.2.513/styles/kendo.bootstrap.min.css" rel="stylesheet" />
-        <link href="https://kendo.cdn.telerik.com/2020.2.513/styles/kendo.bootstrap.mobile.min.css" rel="stylesheet" />
+        <link href="https://kendo.cdn.telerik.com/2020.2.513/styles/kendo.default.min.css" rel="stylesheet" />
+        <link href="https://kendo.cdn.telerik.com/2020.2.513/styles/kendo.default.mobile.min.css" rel="stylesheet" />
         <script src="https://kendo.cdn.telerik.com/2020.2.513/js/kendo.all.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/chroma-js/2.1.0/chroma.min.js"></script>
+
     </head>
     <body>
         <div data-includeHTML="partials/_header.html"></div>
         <div class="container">
-            <div id="dataviz-example" data-includeHTML="partials/_dataviz-example.html"></div>
+            <div id="endangered-animals-per-country" data-includeHTML="partials/_endangered-animals-countries.html"></div>
+            <div id="tigers-by-numbers" data-includeHTML="partials/_tigers-by-numbers.html"></div>
+            <div id="deforestation" data-includeHTML="partials/_deforestation.html"></div>
         </div>
+
         <script>
             $(function() {
                 $("*[data-includeHTML]").each(function() {
