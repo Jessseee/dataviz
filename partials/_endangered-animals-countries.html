@@ -1,13 +1,13 @@
 <div id="endangered-animals-per-country">
     <h4>Amount of endangered animal species per country</h4>
     <p>With humans having a major impact on ecosystems all over the world it is clear that more species than ever are struggling to survive. this visualisation aims to show where the most species are in trouble</p>
-    <small>source:<a href="https://www.endangeredearth.com/threatened-by-country/">https://www.endangeredearth.com/threatened-by-country/</a></small>
+    <small>source: <a href="https://www.endangeredearth.com/threatened-by-country/">https://www.endangeredearth.com/threatened-by-country/</a></small>
     <div id="endangered-animals-per-country-map"></div>
     <script>
         function createEndangeredMap() {
             $("#endangered-animals-per-country-map").kendoMap({
-                center: [30.2681, -97.7448],
-                zoom: 3,
+                center: [0, 0],
+                zoom: 2,
                 layers: [{
                     type: "shape",
                     dataSource: {
