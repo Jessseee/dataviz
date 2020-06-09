@@ -117,5 +117,75 @@
     "State":"Washington",
     "Story":"A 6- month-old lion cub escaped from an enclosure at the Woodland Park Zoo after a keeper left the door open. He was loose in a service area for about an hour before being recaptured. ",
     "Location":[47.6038, -122.3301]
+  },
+  {
+    "Date":"October 22, 2014",
+    "City":"Gentry",
+    "State":"Arkansas",
+    "Story":"A visitor to the Wild Wilderness Drive-Through Safari was either bitten or scratched by an uncontrolled 12-week-old lion cub during a park-allowed public interaction. The person later sought medical attention for the injury. ",
+    "Location": [36.2676, -94.4847]
+  },
+  {
+    "Date":"October 10, 2014",
+    "City":"Little Rock",
+    "State":"Arkansas",
+    "Story":"A 3-year-old child fell into a jaguar exhibit at the Little Rock Zoo. Two jaguars attacked the child, and fire extinguishers were used to keep the jaguars back as the boy was retrieved. He was taken to the hospital and listed in critical condition with a depressed skull fracture, an extensive scalp laceration, and puncture wounds. He was released from the hospital a week later.",
+    "Location": [34.7465, -92.2896]
+  },
+  {
+    "Date":"October 9, 2014",
+    "City":"St. Paul",
+    "State":"Minnesota",
+    "Story":"A 23-year-old man was clawed by a cougar after climbing a guardrail at the Como Park Zoo.",
+    "Location": [44.9504, -93.1015]
+  },
+  {
+    "Date":"October 6, 2014",
+    "City":"Jupiter",
+    "State":"Florida",
+    "Story":"A construction worker who was working at a large-cat breeding facility lost his thumb after he stuck his hand in a cage containing a tiger and the animal mauled it. The tiger belongs to Mario Tabraue, owner of Zoological Wildlife Foundation in Miami.",
+    "Location": [26.9342, -80.0942]
+  },
+  {
+    "Date":"August 23, 2014",
+    "City":"Dallas",
+    "State":"Texas",
+    "Story":"A zookeeper at the Dallas Zoo was attacked by a lioness after failing to secure the door to an enclosure. He was hospitalized with a puncture wound to his back as well as scratches. ",
+    "Location": [32.7763, -96.7969]
+  },
+  {
+    "Date":"August 19, 2014",
+    "City":"Charlestown",
+    "State":"Indiana",
+    "Story":"During a U.S. Department of Agriculture (USDA) inspection of Wildlife in Need, the inspector observed several incidents that took place during “Tiger Playtime,” when approximately 30 members of the public sit in an enclosed area and are allowed to interact freely with two tiger cubs. An attendee was pawed and mouthed in the face, one child was bitten on the top of his thigh, another child was grabbed from behind and both sides of the head and ears were mouthed by a cub, and the inspector was bitten on the back, resulting in broken skin and bleeding.",
+    "Location": [38.4531, -85.6702]
+  },
+  {
+    "Date":"July 26, 2014",
+    "City":"Baldwin Township",
+    "State":"Michigan",
+    "Story":"A caged lion at Sunrise Side Nature Trail and Exotic Park bit part of a visitor’s finger off when she attempted to pet the animal.",
+    "Location": [44.2695, -83.5147]
+  },
+  {
+    "Date":"April 8, 2014",
+    "City":"Jackson",
+    "State":"New Jersey",
+    "Story":"A few students were nipped by a couple of 3-month-old lion cubs while they were visiting Six Flags Great Adventure as part of an internship.",
+    "Location": [40.1152, -74.3648]
+  },
+  {
+    "Date":"January 17, 2014",
+    "City":"Charlestown",
+    "State":"Indiana",
+    "Story":"According to a USDA inspection report, during an inspection of Wildlife in Need, Inc., the licensee admitted that people had been scratched and nipped by tiger cubs during “Tiger Baby Playtime.” The inspector noted that the cubs were “too large, too strong and aggressive” and that the licensee must stop using them for directcontact exhibitions. The animals used in the event were approximately 15 to 16 weeks old.",
+    "Location": [38.4531, -85.6702]
+  },
+  {
+    "Date":"January 3, 2014",
+    "City":"Spring Hill",
+    "State":"Florida",
+    "Story":"Savannah, a 7-year-old lioness, escaped from an enclosure at the Survival Outreach Sanctuary. She was recaptured on the facility’s grounds and relocated to a new cage. ",
+    "Location": [26.7153, -80.0534]
   }
 ]
