@@ -1,0 +1,91 @@
+<div id="zoos-aquaria-dolphinariums">
+    <h2>Animals in captivity: Entertainment</h2>
+    <p> This overview shows the amount of zoos, aquaria, and dolphinariums in each continent,
+        compared to its land size and population. It can provide insights in the factors that are important
+        when deciding on building a zoo, aquarium, or dolphinarium. Is it a cultural preference? Is it based
+        on present (or not present) animal diversity? Is it based on the geographical properties of your continent?
+        Data was retrieved from Wikipedia:</p>
+    <ul>
+        <li><a href="https://en.wikipedia.org/wiki/Continent#Area_and_population">Continent size and population</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/List_of_zoos_by_country">Zoos per country</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/List_of_aquaria">Aquaria per country</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/List_of_dolphinariums">Dolhpinariums per country</a></li>
+    </ul>
+    <h4>Amount of zoos, aquaria, and dolphinariums per continent (Worldwide, 2020)</h4>
+    <div class="demo-section k-content wide">
+        <div id="zoos-chart"></div>
+    </div>
+    <script>
+        function createChart() {
+            $("#zoos-chart").kendoChart({
+                theme: "flat",
+                legend: {
+                    position: "bottom"
+                },
+                series: [{
+                    //line chart size
+                    type: "line",
+                    style: "smooth",
+                    data: [20.4, 29.5, 6.8, 16.5, 12.0, 5.9],
+                    name: "Land size as % of world",
+                    axis: "percentage"
+                },{
+                    //line chart population
+                    type: "line",
+                    style: "smooth",
+                    data: [16.9, 59.5, 9.7, 7.7, 5.6, 0.5],
+                    name: "Population as % of world",
+                    axis: "percentage"
+                },{
+                    //area chart
+                    type: "column",
+                    style: "smooth",
+                    stack: "Building",
+                    name: "Zoos",
+                    data: [69, 428, 793, 519, 127, 122],
+                    axis: "zoos",
+                }, {
+                    type: "column",
+                    style: "smooth",
+                    stack: "Building",
+                    name: "Aquaria",
+                    data: [7, 157, 167, 203, 28, 28],
+                    axis: "zoos",
+                }, {
+                    type: "column",
+                    style: "smooth",
+                    stack: "Building",
+                    name: "Dolhpinariums",
+                    data: [4, 72, 45, 82, 8, 5],
+                    axis: "zoos",
+                }],
+                valueAxes: [{
+                    name: "percentage",
+                    min: 0,
+                    max: 100,
+                    title: {
+                        text: "Land size | Population [%]"
+                    }
+                },{
+                    name: "zoos",
+                    title: {
+                        text: "Amount of Zoos / Aquaria / Dolphinariums"
+                    }
+                }],
+                categoryAxis: {
+                    categories: ["Africa", "Asia", "Europe", "North America", "South America", "Oceania"],
+                    axisCrossingValues: [7,0],
+                    justified: true
+                },
+                tooltip: {
+                    visible: true,
+                    format: "{0}",
+                    template: "#= category #: #= value #"
+                }
+            });
+        }
+
+        $(document).ready(createChart);
+        $(document).bind("kendo:skinChange", createChart);
+    </script>
+</div>

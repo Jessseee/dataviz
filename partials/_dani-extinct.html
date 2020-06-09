@@ -1,0 +1,246 @@
+<div id="extinct-total">
+    <div id="continents-treeMap" style="height: 400px; font-size: 12px;"></div>
+    <script>
+        var continents =  new kendo.data.HierarchicalDataSource({
+            data: [{
+                "value": 28,
+                "types": [
+                    {
+                        "name": "<b>America</b>",
+                        "value": 12,
+                        "classes": [
+                            {
+                                "name": "Fish",
+                                "value": 7,
+                                "animals": [
+                                    {
+                                        "name": "Banded Allotoca",
+                                        "value": 1
+                                    },
+                                    {
+                                        "name": "La Palma Pupfish",
+                                        "value": 1
+                                    },
+                                    {
+                                        "name": "Charco Palma Pupfish",
+                                        "value": 1
+                                    },
+                                    {
+                                        "name": "Ameca Shiner",
+                                        "value": 1
+                                    },
+                                    {
+                                        "name": "Golden Skiffia",
+                                        "value": 1
+                                    },
+                                    {
+                                        "name": "Monterrey Platyfish",
+                                        "value": 1
+                                    },
+                                    {
+                                        "name": "Marbled Swordtail",
+                                        "value": 1
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Amphibian",
+                                "value": 1,
+                                "animals": [
+                                    {
+                                        "name": "Wyoming Toad",
+                                        "value": 1
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Invertebrate",
+                                "value": 1,
+                                "animals": [
+                                    {
+                                        "name": "Socorro Isopod",
+                                        "value": 1
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bird",
+                                "value": 3,
+                                "animals": [
+                                    {
+                                        "name": "Socorro Dove",
+                                        "value": 1
+                                    },
+                                    {
+                                        "name": "Spix's Macaw",
+                                        "value": 1
+                                    },
+                                    {
+                                        "name": "Alagoas Curassow",
+                                        "value": 1
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "<b>Africa</b>",
+                        "value": 3,
+                        "classes": [
+                            {
+                                "name": "Amphibian",
+                                "value": 1,
+                                "animals": [
+                                    {
+                                        "name": "Kihansi Spray Toad",
+                                        "value": 1
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mammal",
+                                "value": 2,
+                                "animals": [
+                                    {
+                                        "name": "Scimitar-Horned Oryx",
+                                        "value": 1
+                                    },
+                                    {
+                                        "name": "Barbary Lion",
+                                        "value": 1
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "<b>Asia</b>",
+                        "value": 5,
+                        "classes": [
+                            {
+                                "name": "Reptile",
+                                "value": 3,
+                                "animals": [
+                                    {
+                                        "name": "Christmas Island Blue-Tailed Shining Skink",
+                                        "value": 1
+                                    },
+                                    {
+                                        "name": "Christmas Island Chained Gecko",
+                                        "value": 1
+                                    },
+                                    {
+                                        "name": "Black Soft-Shell Turtle",
+                                        "value": 1
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mammal",
+                                "value": 1,
+                                "animals": [
+                                    {
+                                        "name": "Pere David's Deer",
+                                        "value": 1
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fish",
+                                "value": 1,
+                                "animals": [
+                                    {
+                                        "name": "Beloribitsa Whitefish",
+                                        "value": 1
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "<b>Oceania</b>",
+                        "value": 8,
+                        "classes": [
+                            {
+                                "name": "Bird",
+                                "value": 2,
+                                "animals": [
+                                    {
+                                        "name": "Hawaiian Crow",
+                                        "value": 1
+                                    },
+                                    {
+                                        "name": "Guam Kingfisher",
+                                        "value": 1
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Invertebrate",
+                                "value": 5,
+                                "animals": [
+                                    {
+                                        "name": "Captain Cook's Bean Snail",
+                                        "value": 1
+                                    },
+                                    {
+                                        "name": "Rose-Tipped Partula Snail",
+                                        "value": 1
+                                    },
+                                    {
+                                        "name": "Moorean Viviparous Tree Snail",
+                                        "value": 1
+                                    },
+                                    {
+                                        "name": "Rosy Tree Snail",
+                                        "value": 1
+                                    },
+                                    {
+                                        "name": "Polynesian Tree Snail",
+                                        "value": 1
+                                    },
+                                    {
+                                        "name": "O'ahu Deceptor Bush Cricket",
+                                        "value": 1
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }],
+            schema: {
+                model: {
+                    children: {
+                        schema: {
+                            data: "types",
+                            model: {
+                                children: {
+                                    schema: {
+                                        data: "classes",
+                                        model: {
+                                            children: "animals"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        });
+
+
+        function createTreeMap() {
+            $("#continents-treeMap").kendoTreeMap({
+                theme: "flat",
+                dataSource: continents,
+                valueField: "value",
+                textField: "name",
+            });
+        }
+
+        $(document).ready(createTreeMap);
+        $(document).bind("kendo:skinChange", createTreeMap);
+    </script>
+</div>
