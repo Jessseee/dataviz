@@ -26,7 +26,7 @@
                 labels: {
                     visible: true,
                     background: "transparent",
-                    template: "#= category #: \n #= value#%"
+                    template: "#= category #: \n #= value#"
                 }
             },
             series: [{
@@ -40,6 +40,7 @@
             }],
             tooltip: {
                 visible: true,
+                template: "#= value # #: category #",
                 format: "{0}"
             }
         });
