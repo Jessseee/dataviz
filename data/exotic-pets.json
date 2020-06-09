@@ -1,0 +1,71 @@
+[
+      {
+        "category-name": "Wild cats",
+        "name": "Bengal cats",
+        "amount": 58770
+      },
+      {
+        "category-name": "Wild cats",
+        "name": "Caracals",
+        "amount": 44071
+      },
+      {
+        "category-name": "Wild cats",
+        "name": "Asian leopard cats",
+        "amount": 18341
+      },
+      {
+        "category-name": "Wild cats",
+        "name": "Savannah cat",
+        "amount": 13069
+      },
+      {
+        "category-name": "Wild cats",
+        "name": "Servals",
+        "amount": 5150
+      },
+      {
+        "category-name": "Wild cats",
+        "name": "Leopards",
+        "amount": 3517
+      },
+      {
+        "category-name": "Wild cats",
+        "name": "Tigers",
+        "amount": 2383
+      },
+      {
+        "category-name": "Wild cats",
+        "name": "Lions",
+        "amount": 1259
+      },
+      {
+        "category-name": "Wild dogs",
+        "name": "Raccoon dogs",
+        "amount": 24390
+      },
+      {
+        "category-name": "Wild dogs",
+        "name": "Red foxes",
+        "amount": 21714
+      },
+      {
+        "category-name": "Wild dogs",
+        "name": "Dingoes",
+        "amount": 19556
+      },
+      {
+        "category-name": "Wild dogs",
+        "name": "Fennec foxes",
+        "amount": 19395
+      },
+      {
+        "category-name": "Primates",
+        "name": "Sugar Gliders",
+        "amount": 3454
+      }, {
+        "category-name": "Primates",
+        "name": "Monkeys",
+        "amount": 1365
+      }
+]

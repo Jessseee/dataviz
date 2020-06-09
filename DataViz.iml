@@ -12,5 +12,10 @@
     <orderEntry type="library" name="kendo.default.mobile" level="application" />
     <orderEntry type="library" name="kendo.bootstrap" level="application" />
     <orderEntry type="library" name="kendo.bootstrap.mobile" level="application" />
+    <orderEntry type="library" name="chroma-js" level="application" />
+    <orderEntry type="library" name="kendo.material" level="application" />
+    <orderEntry type="library" name="kendo.material.mobile" level="application" />
+    <orderEntry type="library" name="kendo.common-material" level="application" />
+    <orderEntry type="library" name="kendo.common-bootstrap" level="application" />
   </component>
 </module>
