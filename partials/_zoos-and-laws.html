@@ -1,4 +1,4 @@
-<div id="chartone"></div>
+<div id="zoos-and-laws"></div>
 <ul class="k-content">
     <li>Circle size shows number of zoo's</li>
     <li>Vertical position shows number of inhabitants per state</li>
@@ -11,7 +11,7 @@
 </i>
 <script>
     function createChart() {
-        $("#chartone").kendoChart({
+        $("#zoos-and-laws").kendoChart({
             title: {
                 text: "Amount of Zoos and Intencity of Laws"
             },
@@ -307,5 +307,9 @@
 
     $(document).ready(createChart);
     $(document).bind("kendo:skinChange", createChart);
+
+    $(window).resize(function(){
+        $("#zoos-and-laws").data("kendoChart").refresh();
+    });
 </script>
 

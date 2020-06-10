@@ -90,5 +90,9 @@
 
         $(document).ready(createChart);
         $(document).bind("kendo:skinChange", createChart);
+
+        $(window).resize(function(){
+            $("#zoos-chart").data("kendoChart").refresh();
+        });
     </script>
 </div>

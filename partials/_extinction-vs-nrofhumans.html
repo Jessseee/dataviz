@@ -1,6 +1,6 @@
     <h4>Number of humans vs. mammal extinction rates <br> relative to 1</h4>
     <p>Since the year 10000 BCE, a lot has changed for humankind. This visualisation shows the rise of human population compared to the annual species extinction rate in each period. The human population rates are taken relative to 1, where 1 is equal to 10,000,000,000. All extinction rates are calculated by adding the number of extinctions within a time period and dividing it through the amount of years within this period.</p>
-    <div id="line-chart"></div>
+    <div id="extinction-vs-nrofhumans-chart"></div>
     <small> Sources: <br>
         <a href="urlhttps://ourworldindata.org/world-population-growth">History of the human population: Our World in Data</a>
         <br>
@@ -8,7 +8,7 @@
     </small>
 <script>
     function createChart(){
-        $("#line-chart").kendoChart({
+        $("#extinction-vs-nrofhumans-chart").kendoChart({
             title: {
                 text: "Number of humans vs. mammal extinction rates \n relative to 1",
                 visible: false
@@ -67,6 +67,10 @@
 
     $(document).ready(createChart);
     $(document).bind("kendo:skinChange", createChart);
+
+    $(window).resize(function(){
+        $("#extinction-vs-nrofhumans-chart").data("kendoChart").refresh();
+    });
 </script>
 
 

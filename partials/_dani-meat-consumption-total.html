@@ -58,5 +58,9 @@
 
         $(document).ready(createChart);
         $(document).bind("kendo:skinChange", createChart);
+
+        $(window).resize(function(){
+            $("#total-meat-chart").data("kendoChart").refresh();
+        });
     </script>
 </div>

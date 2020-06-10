@@ -1,4 +1,4 @@
-<div id="charttwo"></div>
+<div id="regulation-vs-endangered"></div>
 <p class="card-text">In this area range chart the average upper bound of endangered animal species and average lower bound of endangered animal species are shown and grouped by the amount of regulations that are in place to enforce the animal welfare in various coutries around the world. If we take a closer look at the results of the visualisation we can conclude that there are generally more endangered species in coutries with many laws to enforce animal welfare. This could be because the animals in these countries are in freat need of these regulations to prevent them from going extinct.</p>
 <i>Sources:<br>
     <a href="https://api.worldanimalprotection.org/indicators#">Protection of animal welfare in various countries around the world </a> <br>
@@ -7,7 +7,7 @@
 
 <script>
     function createChart() {
-        $("#charttwo").kendoChart({
+        $("#regulation-vs-endangered").kendoChart({
             title: {
                 text: "Amount of endangered animal species in a country VS amount of laws to enforce animal welfare"
             },
@@ -42,4 +42,8 @@
 
     $(document).ready(createChart);
     $(document).bind("kendo:skinChange", createChart);
+
+    $(window).resize(function(){
+        $("#regulation-vs-endangered").data("kendoChart").refresh();
+    });
 </script>

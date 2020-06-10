@@ -1,4 +1,4 @@
-<div id="chartthree"></div>
+<div id="animal-trophy-chart"></div>
 <p>Exotic animals are often killed by humans for sport. When this happend the carcass of the hunted animal is often sold or kept as a trophy by the hunter. Because these hunting session the biodiversity has dropped in many countries and some of them have installed laws an regulations on hunting for sports to keep the population of specific species stable. For this visualisation we took the data from the 8 biggest exporters of exotic animals towards the United States (the largest importer of animal trophies in the world) and grouped them by their regulations. The result is quite clear, the countries with strict regulations are a lot less popular and provide less trophies, when the regulation loosen a little the import rises quickly. One thing that is interesting is that countries with very loose regulations have a smaller impact than countries with strict regulations. This could be because these countries are generally not visited for the purpouse of hunting or have a different biodiversity that is not interesting for tophy hunting.</p>
 <i>Sources:<br>
     <a href="https://www.hsi.org/wp-content/uploads/assets/pdfs/report_trophy_hunting_by_the.pdf">Trophy hunting data and regulations is various countries </a><br>
@@ -9,7 +9,7 @@
 </i>
 <script>
     function createChart() {
-        $("#chartthree").kendoChart({
+        $("#animal-trophy-chart").kendoChart({
             title: {
                 text: "Anual exotic animal trophy import in US \n VS \n Strictness of hunting regulations from imported countries"
             },
@@ -69,4 +69,8 @@
 
     $(document).ready(createChart);
     $(document).bind("kendo:skinChange", createChart);
+
+    $(window).resize(function(){
+        $("#animal-trophy-chart").data("kendoChart").refresh();
+    });
 </script>
