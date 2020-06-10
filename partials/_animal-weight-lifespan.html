@@ -5,7 +5,7 @@
     <input id="autocomplete" placeholder="Tiger" style="width: 100%;" />
 
     <div class="k-content wide">
-        <div id="column"></div>
+        <div id="weight-lifespan-chart"></div>
         <p>Keep in mind that the values on both axes differ.</p>
         <small>Source: <a href="https://thewebsiteofeverything.com/animals/mammals/adult-weight.html">https://thewebsiteofeverything.com/animals/mammals/adult-weight.html</a></small>
     </div>
@@ -23,7 +23,7 @@
 
         function createChart() {
             console.log(dataSource.view());
-            $("#column").kendoChart({
+            $("#weight-lifespan-chart").kendoChart({
                 dataSource : dataSource,
 
                 title: {
@@ -97,6 +97,10 @@
 
         $(document).ready(createChart);
         $(document).bind("kendo:skinChange", createChart);
+
+        $(window).resize(function(){
+            $("#weight-lifespan-chart").data("kendoChart").refresh();
+        });
     </script>
 
 
