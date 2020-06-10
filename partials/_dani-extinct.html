@@ -251,5 +251,9 @@
 
         $(document).ready(createTreeMap);
         $(document).bind("kendo:skinChange", createTreeMap);
+
+        $(window).resize(function(){
+            $("#continents-treeMap").getKendoTreeMap().resize();
+        });
     </script>
 </div>

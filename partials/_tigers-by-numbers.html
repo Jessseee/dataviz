@@ -1,6 +1,6 @@
 <h4>Amount of tigers left in the wild per country (2010 - 2014)</h4>
 <p>Tiger numbers have been steadily declining in the wild, this visualisation aims to show where the remaining population of tigers remains in the wild and how this distribution has changed</p>
-<div class="k-content wide">
+<div class="w-100">
     <div id="tigers-in-the-wild"></div>
 </div>
 <small>sources: <br>
@@ -144,4 +144,8 @@
 
     $(document).ready(createChart);
     $(document).bind("kendo:skinChange", createChart);
+
+    $(window).resize(function(){
+        $("#tigers-in-the-wild").data("kendoChart").refresh();
+    });
 </script>

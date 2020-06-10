@@ -58,6 +58,13 @@
         function onShapeMouseLeave(e) {
             e.shape.options.set("fill.opacity", 0.7);
         }
+
         $(document).ready(createDeforestationMap);
+
+        $(window).resize(function(){
+            const map = $("#deforestation-in-years").data("kendoMap");
+            map.resize();
+            map.center([0, 0])
+        });
     </script>
 </div>

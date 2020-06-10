@@ -1,10 +1,10 @@
 <h1>Exotic Mammals Kept as Pets in Canada</h1>
-<div id="chart" ></div>
+<div id="exotic-pets-chart" ></div>
 <small>Source: <a href="https://www.worldanimalprotection.ca/sites/default/files/media/ca_-_en_files/wap_exotic_pets_in_canada_report_final_forweb_oct_3_2019.pdf">https://www.worldanimalprotection.ca/sites/default/files/media/ca_-_en_files/wap_exotic_pets_in_canada_report_final_forweb_oct_3_2019.pdf</a></small>
 
 <script>
     function createChart() {
-        $("#chart").kendoChart({
+        $("#exotic-pets-chart").kendoChart({
             dataSource: {
                 transport: {
                     read: {
@@ -48,4 +48,8 @@
 
     $(document).ready(createChart);
     $(document).bind("kendo:skinChange", createChart);
+
+    $(window).resize(function(){
+        $("#exotic-pets-chart").data("kendoChart").refresh();
+    });
 </script>

@@ -50,4 +50,10 @@
     }
 
     $(document).ready(createMap);
+
+    $(window).resize(function(){
+        const map = $("#zoo-incident-map").data("kendoMap");
+        map.resize();
+        map.center([40, -100])
+    });
 </script>

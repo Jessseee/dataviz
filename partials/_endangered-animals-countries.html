@@ -59,5 +59,11 @@
         }
 
         $(document).ready(createEndangeredMap);
+
+        $(window).resize(function(){
+            const map = $("#endangered-animals-per-country-map").data("kendoMap");
+            map.resize();
+            map.center([0, 0]);
+        });
     </script>
 </div>

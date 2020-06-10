@@ -1,7 +1,7 @@
 <div id="tigers-present">
     <h4>Tigers in The Glacial Period VS Tigers Now</h4>
     <p>This map shows the countries in which tigers were present before the so-called "holocene extinction", or "age of man", began. In the darker blue the countries are visible where tigers are still present. Do note that the full country is coloured even though tiger populations only exist scarcely throughout the country.</p>
-    <div id="map"></div>
+    <div id="tigers-present-map"></div>
 
     <p class="tigers_2020 text-light mt-2" style="display: inline-block; width: max-content">Tigers 2020</p>
     <p class="tigers_glacial text-light mt-2" style="display: inline-block; width: max-content">Tigers Glacial</p> <br>
@@ -14,7 +14,7 @@
 
     <script>
         function createMap() {
-            $("#map").kendoMap({
+            $("#tigers-present-map").kendoMap({
                 center: [49.122910, 87.503788],
                 zoom: 2,
                 layers: [{
@@ -69,6 +69,12 @@
         }
 
         $(document).ready(createMap);
+
+        $(window).resize(function(){
+            const map = $("#tigers-present-map").data("kendoMap");
+            map.resize();
+            map.center([49.122910, 87.503788])
+        });
     </script>
 </div>
 
